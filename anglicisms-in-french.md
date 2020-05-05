@@ -1,11 +1,13 @@
-| French          | English          | Example                                                       |
-|-----------------|------------------|---------------------------------------------------------------|
-| “God forbid”    | “God forbid”     | https://www.tiktok.com/@alicemoitie/video/6820891822462602501 |
-| “Strike”        | “Strike”         | https://www.tiktok.com/@alicemoitie/video/6820891822462602501 |
-| “Mixed feeling” | “Mixed feelings” | https://www.tiktok.com/@alicemoitie/video/6820891822462602501 |
-| "Breakfast"     | "Breakfast"      | "Breakfast de luxe"                                           |
-| "Twerker"       | "To twerk"       | https://www.tiktok.com/@elsarenaud1/video/6822970571274407173 |
-| "Dealer"        | "Drug dealer     | https://vm.tiktok.com/cDa51t/                                 |
-| " Big up"       | "Big up"         | "Big up à Macron" - https://vm.tiktok.com/cUy1t2/             |
-| "Background"    | "Background"     | https://vm.tiktok.com/cua7TL/                                 |
-| "No reason"     | "No reason"      | https://vm.tiktok.com/cuPY7w/                                 |
+| French          | English          | Example                                                                       |
+|-----------------|------------------|-------------------------------------------------------------------------------|
+| “God forbid”    | “God forbid”     | https://www.tiktok.com/@alicemoitie/video/6820891822462602501                 |
+| “Strike”        | “Strike”         | https://www.tiktok.com/@alicemoitie/video/6820891822462602501                 |
+| “Mixed feeling” | “Mixed feelings” | https://www.tiktok.com/@alicemoitie/video/6820891822462602501                 |
+| "Breakfast"     | "Breakfast"      | "Breakfast de luxe"                                                           |
+| "Twerker"       | "To twerk"       | https://www.tiktok.com/@elsarenaud1/video/6822970571274407173                 |
+| "Dealer"        | "Drug dealer     | https://vm.tiktok.com/cDa51t/                                                 |
+| " Big up"       | "Big up"         | "Big up à Macron" - https://vm.tiktok.com/cUy1t2/                             |
+| "Background"    | "Background"     | https://vm.tiktok.com/cua7TL/                                                 |
+| "No reason"     | "No reason"      | https://vm.tiktok.com/cuPY7w/                                                 |
+| "Spoiler"       | "To spoil"       | "Je vous spoil ma meilleure joke" https://photos.app.goo.gl/vE8Hwds8QxevXVHC7 |
+| "Joke"          | "Joke"           | "Je vous spoil ma meilleure joke" https://photos.app.goo.gl/vE8Hwds8QxevXVHC7 |
