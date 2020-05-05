@@ -6,4 +6,4 @@
 | "Breakfast"     | "Breakfast"      | "Breakfast de luxe"                                           |
 | "Twerker"       | "To twerk"       | https://www.tiktok.com/@elsarenaud1/video/6822970571274407173 |
 | "Dealer"        | "Drug dealer     | https://vm.tiktok.com/cDa51t/                                 |
-|" Big up"        | "Big up"         | Big up à Macron - https://vm.tiktok.com/cUy1t2/               |
+|" Big up"        | "Big up"         | "Big up à Macron" - https://vm.tiktok.com/cUy1t2/             |
