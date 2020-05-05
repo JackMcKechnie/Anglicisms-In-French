@@ -11,3 +11,4 @@
 | "No reason"     | "No reason"      | https://vm.tiktok.com/cuPY7w/                                                 |
 | "Spoiler"       | "To spoil"       | "Je vous spoil ma meilleure joke" https://photos.app.goo.gl/vE8Hwds8QxevXVHC7 |
 | "Joke"          | "Joke"           | "Je vous spoil ma meilleure joke" https://photos.app.goo.gl/vE8Hwds8QxevXVHC7 |
+| "Chill"         | "Chill"          | https://vm.tiktok.com/cHxjbo/                                                 |
