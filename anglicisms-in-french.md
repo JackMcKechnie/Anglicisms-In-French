@@ -15,3 +15,4 @@
 | "Feed"          | "Feed"           | https://vm.tiktok.com/cHTjKE/                                                 |
 | "What the fuck" | "What the fuck"  |                                                                               |
 | "Oh my God"     | "Oh my God"      |                                                                               |
+| "News"          | "Nouvelles"      | https://vm.tiktok.com/cbCj5a                                                  |
