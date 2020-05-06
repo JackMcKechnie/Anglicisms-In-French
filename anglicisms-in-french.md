@@ -17,3 +17,4 @@
 | "Oh my God"     | "Oh my God"      |                                                                               |
 | "News"          | "Nouvelles"      | https://vm.tiktok.com/cbCj5a                                                  |
 | "Ghoster"       | "To ghost"       | https://vm.tiktok.com/cbCj5a/                                                 |
+| "Un flex"       | "A flex"         | https://vm.tiktok.com/cbBEdL/                                                 |
