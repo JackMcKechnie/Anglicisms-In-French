@@ -20,3 +20,4 @@
 | "Un flex"       | "A flex"         | https://vm.tiktok.com/cbBEdL/                                                 |
 | "Snapper"       | "To snap(chat)"  | https://vm.tiktok.com/cbHfjX/                                                 |
 | "Stand-up"      | "Stand-up (comedy) | https://youtu.be/g1FDYMFyJpM 00:20                                          |
+| "Tracker"       | "To be tracked"  | https://youtu.be/g1FDYMFyJpM 01:25                                            |
