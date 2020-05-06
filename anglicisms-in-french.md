@@ -13,3 +13,5 @@
 | "Joke"          | "Joke"           | "Je vous spoil ma meilleure joke" https://photos.app.goo.gl/vE8Hwds8QxevXVHC7 |
 | "Chill"         | "Chill"          | https://vm.tiktok.com/cHxjbo/                                                 |
 | "Feed"          | "Feed"           | https://vm.tiktok.com/cHTjKE/                                                 |
+| "What the fuck" | "What the fuck"  |                                                                               |
+| "Oh my God"     | "Oh my God"      |                                                                               |
