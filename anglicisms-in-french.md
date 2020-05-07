@@ -24,3 +24,4 @@
 | "Le deal"       | "The deal"       | https://youtu.be/g1FDYMFyJpM 03:09                                            |
 | "Sketch"        | "Sketch"         | https://youtu.be/g1FDYMFyJpM 05:00                                            |                                                                                                              
 | "Scroller"      | "To scroll"      | https://vm.tiktok.com/cgdhYs/.                                                |
+| "Poster"        | "To post (online) | https://youtu.be/pxUHm8KCibI 01:13                                           |
