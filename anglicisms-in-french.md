@@ -19,12 +19,13 @@
 | "Ghoster"       | "To ghost"       | https://vm.tiktok.com/cbCj5a/                                                 |
 | "Un flex"       | "A flex"         | https://vm.tiktok.com/cbBEdL/                                                 |
 | "Snapper"       | "To snap(chat)"  | https://vm.tiktok.com/cbHfjX/                                                 |
-| "Stand-up"      | "Stand-up (comedy) | https://youtu.be/g1FDYMFyJpM 00:20                                          |
+| "Stand-up"      | "Stand-up" (comedy) | https://youtu.be/g1FDYMFyJpM 00:20                                         |
 | "Tracker"       | "To be tracked"  | https://youtu.be/g1FDYMFyJpM 01:25                                            |
 | "Le deal"       | "The deal"       | https://youtu.be/g1FDYMFyJpM 03:09                                            |
 | "Sketch"        | "Sketch"         | https://youtu.be/g1FDYMFyJpM 05:00                                            |                                                                                                              
 | "Scroller"      | "To scroll"      | https://vm.tiktok.com/cgdhYs/.                                                |
-| "Poster"        | "To post (online) | https://youtu.be/pxUHm8KCibI 01:13                                           |
+| "Poster"        | "To post" (online) | https://youtu.be/pxUHm8KCibI 01:13                                          |
 | "Les typos"     | "Typos"          | https://photos.app.goo.gl/B1EBnPn75s3aXBSt9                                   |
 | "Les thugs"     | "Thugs"          | https://vm.tiktok.com/cnvcnV/                                                 |
 | "Time"          | "Time"           | https://youtu.be/_bPa-VG0AWo 01:10                                            |
+| "Single"        | "Single" (music) | https://vm.tiktok.com/cWWbBH/                                                 |
