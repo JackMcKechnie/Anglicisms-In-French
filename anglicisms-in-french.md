@@ -30,3 +30,4 @@
 | "Time"          | "Time"           | https://youtu.be/_bPa-VG0AWo 01:10                                            |
 | "Single"        | "Single" (music) | https://vm.tiktok.com/cWWbBH/                                                 |
 | "Slider"        | "To slide" (into DMs) | https://vm.tiktok.com/cW4GCS/ |
+| "Challenge"     | "Challenge" | https://vm.tiktok.com/cv9pxE/ |
