@@ -27,3 +27,4 @@
 | "Poster"        | "To post (online) | https://youtu.be/pxUHm8KCibI 01:13                                           |
 | "Les typos"     | "Typos"          | https://photos.app.goo.gl/B1EBnPn75s3aXBSt9                                   |
 | "Les thugs"     | "Thugs"          | https://vm.tiktok.com/cnvcnV/                                                 |
+| "Time"          | "Time"           | https://youtu.be/_bPa-VG0AWo 01:10                                            |
