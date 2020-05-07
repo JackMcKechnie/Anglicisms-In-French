@@ -25,3 +25,4 @@
 | "Sketch"        | "Sketch"         | https://youtu.be/g1FDYMFyJpM 05:00                                            |                                                                                                              
 | "Scroller"      | "To scroll"      | https://vm.tiktok.com/cgdhYs/.                                                |
 | "Poster"        | "To post (online) | https://youtu.be/pxUHm8KCibI 01:13                                           |
+| "Les typos"     | "Typos"          | https://photos.app.goo.gl/B1EBnPn75s3aXBSt9                                   |
