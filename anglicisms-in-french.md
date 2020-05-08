@@ -32,3 +32,4 @@
 | "Slider"        | "To slide" (into DMs) | https://vm.tiktok.com/cW4GCS/ |
 | "Challenge"     | "Challenge" | https://vm.tiktok.com/cv9pxE/ |
 | "Baby mama" | "Mother of your baby" (baby moma) | https://open.spotify.com/track/7lhuM9WUqdThw72dCBRmQW?si=3nxban7aQ2yS7SoQXL0CrQ 02:35 |
+| "Le lighting" | "The lighting" | https://vm.tiktok.com/cEHWqK/ | 
