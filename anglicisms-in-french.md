@@ -34,3 +34,4 @@
 | "Baby mama" | "Mother of your baby" (baby moma) | https://open.spotify.com/track/7lhuM9WUqdThw72dCBRmQW?si=3nxban7aQ2yS7SoQXL0CrQ 02:35 |
 | "Le lighting" | "The lighting" | https://vm.tiktok.com/cEHWqK/ | 
 | "Avoir dead ça" | "To kill it" | https://vm.tiktok.com/cEpvUH/ |
+| "Smooth" | "Smooth" | https://vm.tiktok.com/3erpeT/ |
