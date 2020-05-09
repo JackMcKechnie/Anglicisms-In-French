@@ -38,3 +38,4 @@
 | "Freestyle" | "Freestyle rap" | https://vm.tiktok.com/3LtJ1o/ |
 | "Un shot" | "A shot" (of alcohol) | https://vm.tiktok.com/3FLcY4/ |
 | "Bad ass" | "Bad ass" | https://vm.tiktok.com/3Y6k1o/ |
+| "Apocolypse" | "Apocolypse" | https://vm.tiktok.com/32NW8D/ |
