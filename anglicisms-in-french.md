@@ -36,3 +36,4 @@
 | "Avoir dead ça" | "To kill it" | https://vm.tiktok.com/cEpvUH/ |
 | "Smooth" | "Smooth" | https://vm.tiktok.com/3erpeT/ |
 | "Freestyle" | "Freestyle rap" | https://vm.tiktok.com/3LtJ1o/ |
+| "Un shot" | "A shot" (of alcohol) | https://vm.tiktok.com/3FLcY4/ |
