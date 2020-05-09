@@ -35,3 +35,4 @@
 | "Le lighting" | "The lighting" | https://vm.tiktok.com/cEHWqK/ | 
 | "Avoir dead ça" | "To kill it" | https://vm.tiktok.com/cEpvUH/ |
 | "Smooth" | "Smooth" | https://vm.tiktok.com/3erpeT/ |
+| "Freestyle" | "Freestyle rap" | https://vm.tiktok.com/3LtJ1o/ |
