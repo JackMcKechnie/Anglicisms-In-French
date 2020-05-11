@@ -44,3 +44,4 @@
 | "Le shop"       | "The Shop"                        | https://www.instagram.com/p/B_9gNTig0JR/?utm_source=ig_web_copy_link                  |
 | "Le look"       | "Look" (A look, fashion)          | https://vm.tiktok.com/3Ag4qU/                                                         |
 | "Sneakers"      | "Sneakers"                        | https://vm.tiktok.com/3Ag4qU/                                                         |
+| "Story time"    | "Story time" (YouTube format)     | https://vm.tiktok.com/3Aa8aA/                                                         |
