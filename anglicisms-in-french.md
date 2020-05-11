@@ -45,3 +45,4 @@
 | "Le look"       | "Look" (A look, fashion)          | https://vm.tiktok.com/3Ag4qU/                                                         |
 | "Sneakers"      | "Sneakers"                        | https://vm.tiktok.com/3Ag4qU/                                                         |
 | "Story time"    | "Story time" (YouTube format)     | https://vm.tiktok.com/3Aa8aA/                                                         |
+| "Poker face"    | "Poker face"                      | https://vm.tiktok.com/3Acd3M/                                                         |
