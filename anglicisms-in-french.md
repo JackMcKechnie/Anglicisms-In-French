@@ -41,4 +41,6 @@
 | "Apocolypse"    | "Apocolypse"                      | https://vm.tiktok.com/32NW8D/                                                         |
 | "Fast-forward"  | "Fast-forward"                    | https://open.spotify.com/track/08fiQ3uoQjtcLyOd8KLRiF?si=Y-hHRlHgQnarnp7LkVg-EA 01:04 |
 | "Hardcore"      | "Hardcore"                        | https://open.spotify.com/track/08fiQ3uoQjtcLyOd8KLRiF?si=Y-hHRlHgQnarnp7LkVg-EA 01:04 |
-| "Le shop"       | "The Shop"                        | https://www.instagram.com/p/B_9gNTig0JR/?utm_source=ig_web_copy_link                   |
+| "Le shop"       | "The Shop"                        | https://www.instagram.com/p/B_9gNTig0JR/?utm_source=ig_web_copy_link                  |
+| "Le look"       | "Look" (A look, fashion)          | https://vm.tiktok.com/3Ag4qU/                                                         |
+| "Sneakers"      | "Sneakers"                        | https://vm.tiktok.com/3Ag4qU/                                                         |
