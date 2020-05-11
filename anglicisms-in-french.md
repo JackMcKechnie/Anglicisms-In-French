@@ -48,3 +48,5 @@
 | "Poker face"    | "Poker face"                      | https://vm.tiktok.com/3Acd3M/                                                         |
 | "Fashion"       | "Fashion"                         | https://vm.tiktok.com/3P9FF9/                                                         |
 | "Laptop"        | "Laptop"                          | https://open.spotify.com/track/7C7GtWZmyicqjBDbAWPsCp?si=e-fiClmYTE2nwhbkrGlpcA 02:05 |
+| "Liker"         | "To like" (Social media)          | https://vm.tiktok.com/35jRRF/                                                         |
+| "Follower"      | "To follow" (Social media)        |                                                                                       |
