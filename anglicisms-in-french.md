@@ -52,3 +52,4 @@
 | "Follower"      | "To follow" (Social media)        |                                                                                       |
 | "Checker"       | "To check"                        | https://vm.tiktok.com/3mtN9L/                                                         |
 | "La play"       | "Video game"                      | https://vm.tiktok.com/3uYG3H/                                                         |
+| "Swiper"        | "To swipe"                        | https://vm.tiktok.com/3u68fV/                                                         |
