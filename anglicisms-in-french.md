@@ -59,3 +59,4 @@
 | "Le pad"        | "Pad" (Bouldering)                | https://photos.app.goo.gl/4CQRjJ47dpyjHhd36                                           |
 | "Bad bitch"     | "Bad bitch"                       | https://vm.tiktok.com/3VqfRB/                                                         |
 | "Crush"         | "Crush"                           | https://vm.tiktok.com/3Vy4nU/                                                         |
+| "Body goal"     | "Goal body"                       | https://vm.tiktok.com/3VbW2Y/                                                         |
