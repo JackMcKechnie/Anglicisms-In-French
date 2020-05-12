@@ -51,3 +51,4 @@
 | "Liker"         | "To like" (Social media)          | https://vm.tiktok.com/35jRRF/                                                         |
 | "Follower"      | "To follow" (Social media)        |                                                                                       |
 | "Checker"       | "To check"                        | https://vm.tiktok.com/3mtN9L/                                                         |
+| "La play"       | "Video game"                      | https://vm.tiktok.com/3uYG3H/                                                         |
