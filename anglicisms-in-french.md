@@ -58,3 +58,4 @@
 | "Un boy"        | "A boy"                           | https://vm.tiktok.com/34r5Pg/                                                         |
 | "Le pad"        | "Pad" (Bouldering)                | https://photos.app.goo.gl/4CQRjJ47dpyjHhd36                                           |
 | "Bad bitch"     | "Bad bitch"                       | https://vm.tiktok.com/3VqfRB/                                                         |
+| "Crush"         | "Crush"                           | https://vm.tiktok.com/3Vy4nU/                                                         |
