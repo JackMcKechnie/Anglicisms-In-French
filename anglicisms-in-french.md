@@ -60,3 +60,4 @@
 | "Bad bitch"     | "Bad bitch"                       | https://vm.tiktok.com/3VqfRB/                                                         |
 | "Crush"         | "Crush"                           | https://vm.tiktok.com/3Vy4nU/                                                         |
 | "Body goal"     | "Goal body"                       | https://vm.tiktok.com/3VbW2Y/                                                         |
+| "Les story"     | "Stories" (Social media)          | https://vm.tiktok.com/3VaCSh/                                                         |
