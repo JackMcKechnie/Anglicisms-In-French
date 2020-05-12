@@ -54,3 +54,4 @@
 | "La play"       | "Video game"                      | https://vm.tiktok.com/3uYG3H/                                                         |
 | "Swiper"        | "To swipe"                        | https://vm.tiktok.com/3u68fV/                                                         |
 | "Flow"          | "Flow"                            | https://photos.app.goo.gl/YNWweqgdb8UKRH518                                           |
+| "Fuckboys"      | "Fuckboys"                        | https://vm.tiktok.com/3CurAJ/                                                         |
