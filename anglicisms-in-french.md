@@ -64,3 +64,4 @@
 | "Kidnapper"     | "To kidnap"                       | https://youtu.be/4t9a0To2ygo 00:28                                                    |
 | "La fast life"  | "The fast life"                   | https://vm.tiktok.com/3Wrnjc/                                                         |
 | "Shamer"        | "To shame"                        | https://vm.tiktok.com/3W45bk/                                                         |
+| "Le big boss"   | "The big boss" (The best at)      | https://youtu.be/Kkxn0ENJi6I 00:16                                                    |
