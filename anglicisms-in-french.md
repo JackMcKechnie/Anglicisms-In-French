@@ -63,3 +63,4 @@
 | "Les story"     | "Stories" (Social media)          | https://vm.tiktok.com/3VaCSh/                                                         |
 | "Kidnapper"     | "To kidnap"                       | https://youtu.be/4t9a0To2ygo 00:28                                                    |
 | "La fast life"  | "The fast life"                   | https://vm.tiktok.com/3Wrnjc/                                                         |
+| "Shamer"        | "To shame"                        | https://vm.tiktok.com/3W45bk/                                                         |
