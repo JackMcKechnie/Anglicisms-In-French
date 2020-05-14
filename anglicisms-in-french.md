@@ -69,3 +69,4 @@
 | "Businessman"   | "Businessman"                     | https://youtu.be/-cZsWRjcedE                                                          |
 | "Old school"    | "Old school"                      | https://youtu.be/AN5CDewKVdk 10:12                                                    |
 | "Hey"           | "Hey"                             | https://vm.tiktok.com/3KG3V1/                                                         |
+| "Un weekly vlog"| "A weekly vlog"                   | https://youtu.be/Xa51A40yHaY 00:12                                                    |
