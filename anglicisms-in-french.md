@@ -67,3 +67,4 @@
 | "Le big boss"   | "The big boss" (The best at)      | https://youtu.be/Kkxn0ENJi6I 00:16                                                    |
 | "Business"      | "Business"                        | https://vm.tiktok.com/37BbTs/                                                         |
 | "Businessman"   | "Businessman"                     | https://youtu.be/-cZsWRjcedE                                                          |
+| "Old school"    | "Old school"                      | https://youtu.be/AN5CDewKVdk 10:12                                                    |
