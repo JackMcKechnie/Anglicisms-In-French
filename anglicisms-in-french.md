@@ -75,3 +75,4 @@
 | "Cute"          | "Cute"                            | https://youtu.be/qlQAeai6ZxA 01:08                                                    |
 | "Outfit of the day" | "Outfit of the day" | https://youtu.be/qlQAeai6ZxA 01:11                                                              |
 | "Cowboy" | "Cowboy" | https://vm.tiktok.com/T2VLwB/ |
+| "Life update" | "Life update" | https://www.youtube.com/watch?v=yyTIoLT98Tc |
