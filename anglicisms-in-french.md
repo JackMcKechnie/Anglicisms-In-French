@@ -71,3 +71,6 @@
 | "Hey"           | "Hey"                             | https://vm.tiktok.com/3KG3V1/                                                         |
 | "Un weekly vlog"| "A weekly vlog"                   | https://youtu.be/Xa51A40yHaY 00:12                                                    |
 | "To do list"    | "To do list"                      | https://youtu.be/Xa51A40yHaY 01:18                                                    |
+| "Haters"        | "Haters"                          | https://youtu.be/qlQAeai6ZxA Title                                                    |
+| "Cute"          | "Cute"                            | https://youtu.be/qlQAeai6ZxA 01:08                                                    |
+| "Outfit of the day" | "Outfit of the day" | https://youtu.be/qlQAeai6ZxA 01:11                                                              |
