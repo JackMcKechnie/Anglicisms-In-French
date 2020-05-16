@@ -78,3 +78,4 @@
 | "Life update" | "Life update" | https://www.youtube.com/watch?v=yyTIoLT98Tc |
 | "Friendzone" | "Friendzone" | https://vm.tiktok.com/TBP3bG/ |
 | "Best" | "Best" | https://vm.tiktok.com/TBYAXv/ |
+| "L'Upload" | "L'Upload" | https://photos.app.goo.gl/bsGvZGAtMUctBwtg6 |
