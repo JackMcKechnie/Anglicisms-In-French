@@ -77,3 +77,4 @@
 | "Cowboy" | "Cowboy" | https://vm.tiktok.com/T2VLwB/ |
 | "Life update" | "Life update" | https://www.youtube.com/watch?v=yyTIoLT98Tc |
 | "Friendzone" | "Friendzone" | https://vm.tiktok.com/TBP3bG/ |
+| "Best" | "Best" | https://vm.tiktok.com/TBYAXv/ |
