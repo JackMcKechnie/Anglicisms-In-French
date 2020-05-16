@@ -80,3 +80,4 @@
 | "Best" | "Best" | https://vm.tiktok.com/TBYAXv/ |
 | "L'Upload" | "L'Upload" | https://photos.app.goo.gl/bsGvZGAtMUctBwtg6 |
 | "Routine makeup" | "Makeup routine" | https://vm.tiktok.com/TAaarh/ |
+| "Bitch" | "Bitch" | https://vm.tiktok.com/TAsKb6/ |
