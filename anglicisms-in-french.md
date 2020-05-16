@@ -13,7 +13,7 @@
 | "Joke"          | "Joke"                            | "Je vous spoil ma meilleure joke" https://photos.app.goo.gl/vE8Hwds8QxevXVHC7         |
 | "Chill"         | "Chill"                           | https://vm.tiktok.com/cHxjbo/                                                         |
 | "Feed"          | "Feed"                            | https://vm.tiktok.com/cHTjKE/                                                         |
-| "What the fuck" | "What the fuck"                   |                                                                                       |
+| "What the fuck" | "What the fuck"                   | https://vm.tiktok.com/TAVTkS/                                                         |
 | "Oh my God"     | "Oh my God"                       |                                                                                       |
 | "News"          | "Nouvelles"                       | https://vm.tiktok.com/cbCj5a                                                          |
 | "Ghoster"       | "To ghost"                        | https://vm.tiktok.com/cbCj5a/                                                         |
