@@ -82,3 +82,4 @@
 | "Routine makeup" | "Makeup routine" | https://vm.tiktok.com/TAaarh/ |
 | "Bitch" | "Bitch" | https://vm.tiktok.com/TAsKb6/ |
 | "Facetimer" | "To facetime" | https://vm.tiktok.com/TAaKxG/ |
+| "Street food" | "Street food" | https://vm.tiktok.com/TDNoYn/ |
