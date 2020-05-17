@@ -86,3 +86,4 @@
 | "Guest list" | "Guest list" | https://open.spotify.com/track/55s85jVbx7qO4vj28yfqRD?si=ZHIDV_GLTaO2cux5gaZVIA |
 | "Flopper" | "To flop" (To do badly) | https://vm.tiktok.com/Ta2gA5/ |
 | "Un scoop" | "A scoop" (Breaking news) | https://annecysupclub.com/scoop-le-stand-up-paddle-finalement-autorise-sur-le-lac-dannecy/ |
+| "No fake" | "Not fake" | https://vm.tiktok.com/TuQ84E/ |
