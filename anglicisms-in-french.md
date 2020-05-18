@@ -89,3 +89,4 @@
 | "No fake" | "Not fake" | https://vm.tiktok.com/TuQ84E/ |
 | "Unpopular opinion" | "Unpopular opinion" | https://vm.tiktok.com/TuyxAA/ |
 | "Song" | "Song" | https://vm.tiktok.com/THMrqx/ |
+| "After" | "After party" | https://vm.tiktok.com/THUnCS/ |
