@@ -91,3 +91,4 @@
 | "Song" | "Song" | https://vm.tiktok.com/THMrqx/ |
 | "After" | "After party" | https://vm.tiktok.com/THUnCS/ |
 | "Le challenge" | "Challenge" | https://vm.tiktok.com/TqvkLe/ |
+| "Breaking news" | "Breaking news" | https://vm.tiktok.com/TqcYFk/ |
