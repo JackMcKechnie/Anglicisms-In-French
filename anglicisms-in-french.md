@@ -98,3 +98,4 @@
 | "La White girl" | "White girl" | https://vm.tiktok.com/TbusSa/ |
 | "Pickup Line" | "Pickup line" | https://vm.tiktok.com/TbuL1v/ |
 | "Fun" | "Fun" | https://vm.tiktok.com/TbVAn6/ |
+| "Coming out" | "Coming out" (LGBTQ) | https://vm.tiktok.com/TnWDy1/ |
