@@ -97,3 +97,4 @@
 | "La Fun fact" | "Fun fact" | https://vm.tiktok.com/Tby9jP/ |
 | "La White girl" | "White girl" | https://vm.tiktok.com/TbusSa/ |
 | "Pickup Line" | "Pickup line" | https://vm.tiktok.com/TbuL1v/ |
+| "Fun" | "Fun" | https://vm.tiktok.com/TbVAn6/ |
