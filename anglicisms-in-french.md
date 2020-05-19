@@ -99,3 +99,4 @@
 | "Pickup Line" | "Pickup line" | https://vm.tiktok.com/TbuL1v/ |
 | "Fun" | "Fun" | https://vm.tiktok.com/TbVAn6/ |
 | "Coming out" | "Coming out" (LGBTQ) | https://vm.tiktok.com/TnWDy1/ |
+| "Le photo shoot" | "Photo shoot" | https://vm.tiktok.com/TcpJut/ |
