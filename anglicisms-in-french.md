@@ -95,3 +95,4 @@
 | "Golden hour" | "Golden hour" | https://vm.tiktok.com/TqGwVR/ |
 | "Open bar" | "Open bar" | https://vm.tiktok.com/TbL9gE/ |
 | "La Fun fact" | "Fun fact" | https://vm.tiktok.com/Tby9jP/ |
+| "La White girl" | "White girl" | https://vm.tiktok.com/TbusSa/ |
