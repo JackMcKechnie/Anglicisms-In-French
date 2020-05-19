@@ -96,3 +96,4 @@
 | "Open bar" | "Open bar" | https://vm.tiktok.com/TbL9gE/ |
 | "La Fun fact" | "Fun fact" | https://vm.tiktok.com/Tby9jP/ |
 | "La White girl" | "White girl" | https://vm.tiktok.com/TbusSa/ |
+| "Pickup Line" | "Pickup line" | https://vm.tiktok.com/TbuL1v/ |
