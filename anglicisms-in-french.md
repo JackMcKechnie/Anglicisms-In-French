@@ -100,3 +100,4 @@
 | "Fun" | "Fun" | https://vm.tiktok.com/TbVAn6/ |
 | "Coming out" | "Coming out" (LGBTQ) | https://vm.tiktok.com/TnWDy1/ |
 | "Le photo shoot" | "Photo shoot" | https://vm.tiktok.com/TcpJut/ |
+| "Les sugar daddys" | "Sugar daddys" | https://vm.tiktok.com/TcH2kF/ |
