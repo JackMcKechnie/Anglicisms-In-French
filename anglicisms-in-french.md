@@ -107,3 +107,4 @@
 | "Life hack" | "Life hack" | https://vm.tiktok.com/ToS4EE/ |
 | "Les nudes" | "Nudes" (Photos) | https://vm.tiktok.com/wea6PJ/ |
 | "Dropper" | "To drop" (Release) | https://photos.app.goo.gl/4EXTCxBxgib7vyzh9 |
+| "Calm down" | "Calm down" | https://vm.tiktok.com/wdtmsN/ |
