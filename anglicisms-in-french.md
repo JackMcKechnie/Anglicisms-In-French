@@ -109,3 +109,4 @@
 | "Dropper" | "To drop" (Release) | https://photos.app.goo.gl/4EXTCxBxgib7vyzh9 |
 | "Calm down" | "Calm down" | https://vm.tiktok.com/wdtmsN/ |
 | "Les gamers" | "Gamers" | https://vm.tiktok.com/wdHQL3/ |
+| "Spoiler alert" | "Spoiler alert" | https://vm.tiktok.com/wdCDo6/ |
