@@ -49,7 +49,7 @@
 | "Fashion"       | "Fashion"                         | https://vm.tiktok.com/3P9FF9/                                                         |
 | "Laptop"        | "Laptop"                          | https://open.spotify.com/track/7C7GtWZmyicqjBDbAWPsCp?si=e-fiClmYTE2nwhbkrGlpcA 02:05 |
 | "Liker"         | "To like" (Social media)          | https://vm.tiktok.com/35jRRF/                                                         |
-| "Follower"      | "To follow" (Social media)        |                                                                                       |
+| "Follower"      | "To follow" (Social media)        | https://vm.tiktok.com/w6tS5k/                                                         |
 | "Checker"       | "To check"                        | https://vm.tiktok.com/3mtN9L/                                                         |
 | "La play"       | "Video game"                      | https://vm.tiktok.com/3uYG3H/                                                         |
 | "Swiper"        | "To swipe"                        | https://vm.tiktok.com/3u68fV/                                                         |
