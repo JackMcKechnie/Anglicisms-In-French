@@ -116,3 +116,4 @@
 | "Le baby-sitting" | "Baby sitting" | https://vm.tiktok.com/w98f1q/ |
 | "Un update" | "An update" | https://youtu.be/e1nj20-Uvfo 03:27 |
 | "Jingle" | "Jingle" | https://youtu.be/KGCC8vQ6MhU 01:05 |
+| "Les losers" | "Loosers" | https://vm.tiktok.com/wx8ooa/ |
