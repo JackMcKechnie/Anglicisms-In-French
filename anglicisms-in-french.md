@@ -119,3 +119,4 @@
 | "Les losers" | "Loosers" | https://vm.tiktok.com/wx8ooa/ |
 | "Plot twist" | "Plot twist" | https://vm.tiktok.com/wxjDAA/ |
 | "Le sun" | "Sun" | https://vm.tiktok.com/wxgup8/ |
+| "Trend" | "Trend" | https://vm.tiktok.com/wb8a4f/ |
