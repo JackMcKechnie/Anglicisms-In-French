@@ -118,3 +118,4 @@
 | "Jingle" | "Jingle" | https://youtu.be/KGCC8vQ6MhU 01:05 |
 | "Les losers" | "Loosers" | https://vm.tiktok.com/wx8ooa/ |
 | "Plot twist" | "Plot twist" | https://vm.tiktok.com/wxjDAA/ |
+| "Le sun" | "Sun" | https://vm.tiktok.com/wxgup8/ |
