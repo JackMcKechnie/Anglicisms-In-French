@@ -130,3 +130,4 @@
 | "Le starter pack" | "Starter pack" | https://vm.tiktok.com/wo4PQQ/ |
 | "Un hacker" | "A hacker" | https://vm.tiktok.com/wo5heS/ |
 | "La team" | "Team" | https://photos.app.goo.gl/J5vbmAQ3VtkWF2QH6 |
+| "Unfollower" | "To unfollow" | https://vm.tiktok.com/KJqK6e/ |
