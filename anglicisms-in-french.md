@@ -128,3 +128,4 @@
 | "Glow up" | "Glow up" | https://vm.tiktok.com/wcVxfj/ |
 | "Le boy" | "Boy" |https://vm.tiktok.com/woMJxH/ |
 | "Le starter pack" | "Starter pack" | https://vm.tiktok.com/wo4PQQ/ |
+| "Un hacker" | "A hacker" | https://vm.tiktok.com/wo5heS/ |
