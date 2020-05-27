@@ -138,3 +138,4 @@
 | "Un unboxing" | "An unboxing" | https://youtu.be/7D3NUv4hwVQ 00:50 |
 | "Enjoy" | "Enjoy" | https://vm.tiktok.com/KjYeLb/ |
 | "La nobody" | "The nobodies" | https://vm.tiktok.com/Kjd11F/ |
+| "Morning routine" | "Morning routine" | https://vm.tiktok.com/K2TdHG/ |
