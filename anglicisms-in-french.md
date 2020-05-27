@@ -133,3 +133,4 @@
 | "Unfollower" | "To unfollow" | https://vm.tiktok.com/KJqK6e/ |
 | "Le StreetWorkout" | "Street workout" | https://vm.tiktok.com/KJbprQ/ |
 | "Un date" | "A date" | https://vm.tiktok.com/Kefcv1/ |
+| "La cameraman" | "Camera man" | https://vm.tiktok.com/KNgewE/ |
