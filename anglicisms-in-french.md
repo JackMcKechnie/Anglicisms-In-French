@@ -141,3 +141,4 @@
 | "Morning routine" | "Morning routine" | https://vm.tiktok.com/K2TdHG/ |
 | "Oversize" | "Oversize (Clothes) | https://youtu.be/E1MUBUueCKA 03:00 |
 | "One shot sniper" | "One shot kill" | https://youtu.be/E1MUBUueCKA 05:30 |
+| "Barman / Barmaid | "Barman / Barmaid" | https://vm.tiktok.com/KjmN5V/ |
