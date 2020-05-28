@@ -143,3 +143,4 @@
 | "One shot sniper" | "One shot kill" | https://youtu.be/E1MUBUueCKA 05:30 |
 | "Barman / Barmaid | "Barman / Barmaid" | https://vm.tiktok.com/KjmN5V/ |
 | "Best friend tag" | "Best friend tag" | https://vm.tiktok.com/KAtRQn/ |
+| "Sweet" | "Sweet" | https://youtu.be/UBwVm0RUrYc 02:57 |
