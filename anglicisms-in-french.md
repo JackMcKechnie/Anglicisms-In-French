@@ -150,3 +150,4 @@
 | "La show" | "Show" | https://vm.tiktok.com/K4SpH5/ |
 | "Les toxic" | "Toxic people" | https://vm.tiktok.com/K4tMtL/ |
 | "What the hell" | "What the hell" | https://vm.tiktok.com/KV8Byx/ |
+| "Le N Word" | "The N word" | https://vm.tiktok.com/Kqn81t/ |
