@@ -148,3 +148,4 @@
 | "Bye bye" | "Bye bye" | https://www.youtube.com/watch?v=wmYPpnjthkU 00:30 |
 | "La drama queen" | "Drama queen" | https://vm.tiktok.com/K9AusL/ |
 | "La show" | "Show" | https://vm.tiktok.com/K4SpH5/ |
+| "Les toxic" | "Toxic people" | https://vm.tiktok.com/K4tMtL/ |
