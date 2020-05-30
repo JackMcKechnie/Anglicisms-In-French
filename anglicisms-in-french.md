@@ -147,3 +147,4 @@
 | "Un full room tour" | "A full room tour" | https://youtu.be/hgmpW_MGA_0 05.13 |
 | "Bye bye" | "Bye bye" | https://www.youtube.com/watch?v=wmYPpnjthkU 00:30 |
 | "La drama queen" | "Drama queen" | https://vm.tiktok.com/K9AusL/ |
+| "La show" | "Show" | https://vm.tiktok.com/K4SpH5/ |
