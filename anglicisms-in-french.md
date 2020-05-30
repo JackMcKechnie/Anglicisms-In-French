@@ -155,3 +155,4 @@
 | "Love" | "Love" | https://vm.tiktok.com/KbJTDV/ |
 | "Le coach" | "The coach" | https://youtu.be/eHF2_Ovs1_Y 03:25 |
 | "Cupcake" | "Cupcake" | https://youtu.be/87DgcRdpgqE 04:58 |
+| "Bulletpoint" | "Bulletpoint" | https://youtu.be/87DgcRdpgqE 06:22 |
