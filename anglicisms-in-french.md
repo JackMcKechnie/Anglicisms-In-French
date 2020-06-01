@@ -164,3 +164,4 @@
 | "Shy" | "Shy" | https://photos.app.goo.gl/pBtwNM3t63JECBhW6 |
 | "Gay friendly" | "Gay friendly" | https://vm.tiktok.com/EJXxUh/ |
 | "Yo" | "Yo" | https://vm.tiktok.com/EJ7Doj/ |
+| "Un boomer" | "A boomer" | https://vm.tiktok.com/EeLvr6/ |
