@@ -165,3 +165,4 @@
 | "Gay friendly" | "Gay friendly" | https://vm.tiktok.com/EJXxUh/ |
 | "Yo" | "Yo" | https://vm.tiktok.com/EJ7Doj/ |
 | "Un boomer" | "A boomer" | https://vm.tiktok.com/EeLvr6/ |
+| "Un selfie" | "A selfie" | https://vm.tiktok.com/EeP5eT/ |
