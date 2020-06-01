@@ -160,3 +160,5 @@
 | "Les black out" | "Black out" (Drunk) | https://vm.tiktok.com/K7yVSa/ |
 | "Le best" | "The best" | https://vm.tiktok.com/K7jAQv/ |
 | "Warning" | "Warning" | https://vm.tiktok.com/K7jAQv/ |
+| "Les playback" | "Mimes" | https://photos.app.goo.gl/pBtwNM3t63JECBhW6 |
+| "Shy" | "Shy" | https://photos.app.goo.gl/pBtwNM3t63JECBhW6 |
