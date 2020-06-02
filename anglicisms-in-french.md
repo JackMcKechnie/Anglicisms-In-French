@@ -167,3 +167,4 @@
 | "Un boomer" | "A boomer" | https://vm.tiktok.com/EeLvr6/ |
 | "Un selfie" | "A selfie" | https://vm.tiktok.com/EeP5eT/ |
 | "Priceless" | "Priceless" | https://photos.app.goo.gl/rPi2jotgkL7Si65U9 |
+| "Vibe check" | "Vibe check" | https://vm.tiktok.com/E2GjVW/ |
