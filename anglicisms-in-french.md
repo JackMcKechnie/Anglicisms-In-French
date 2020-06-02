@@ -166,3 +166,4 @@
 | "Yo" | "Yo" | https://vm.tiktok.com/EJ7Doj/ |
 | "Un boomer" | "A boomer" | https://vm.tiktok.com/EeLvr6/ |
 | "Un selfie" | "A selfie" | https://vm.tiktok.com/EeP5eT/ |
+| "Priceless" | "Priceless" | https://photos.app.goo.gl/rPi2jotgkL7Si65U9 |
