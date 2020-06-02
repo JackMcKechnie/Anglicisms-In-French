@@ -169,3 +169,4 @@
 | "Priceless" | "Priceless" | https://photos.app.goo.gl/rPi2jotgkL7Si65U9 |
 | "Vibe check" | "Vibe check" | https://vm.tiktok.com/E2GjVW/ |
 | "Le throw back" | "Throw it back" (Tik tok) | https://vm.tiktok.com/EjdrNW/ |
+| "BFF" | "BFF" (Best friend forever) | https://vm.tiktok.com/Ejor6w/ |
