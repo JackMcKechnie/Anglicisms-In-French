@@ -171,3 +171,5 @@
 | "Le throw back" | "Throw it back" (Tik tok) | https://vm.tiktok.com/EjdrNW/ |
 | "BFF" | "BFF" (Best friend forever) | https://vm.tiktok.com/Ejor6w/ |
 | "DIY" | "DIY" | https://vm.tiktok.com/E6hJk3/ |
+| "Star" | "Star" (Popular) | https://youtu.be/57KJEtKDf2U 05:40 |
+| "Le show-business" | "Show-business" | https://youtu.be/57KJEtKDf2U 05:42 |
