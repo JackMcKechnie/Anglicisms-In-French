@@ -175,3 +175,4 @@
 | "Le show-business" | "Show-business" | https://youtu.be/57KJEtKDf2U 05:42 |
 | "Beatmaker" | "Beat maker" (Music) | https://youtu.be/EVLMuTZ8rzA |
 | "Let's go" | "Let's go" | https://youtu.be/EVLMuTZ8rzA 00:54 |
+| "Le fast pass" | "Fast pass" | https://youtu.be/nJGFWapgOhg 04:48 |
