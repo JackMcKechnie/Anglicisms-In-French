@@ -180,3 +180,5 @@
 | "La life" | "Life" | https://vm.tiktok.com/EyCX5j/ |
 | "Oh my gosh" | "Oh my gosh" | https://vm.tiktok.com/EyAmbS/ |
 | "Bro" | "Bro" | https://vm.tiktok.com/Ey4tG8/ |
+| "Street" | "Street" | https://vm.tiktok.com/EQkEwe/
+| "Un album" | "An album" |  https://vm.tiktok.com/EQkEwe/ |
