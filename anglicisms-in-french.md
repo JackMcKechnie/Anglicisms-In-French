@@ -182,3 +182,4 @@
 | "Bro" | "Bro" | https://vm.tiktok.com/Ey4tG8/ |
 | "Street" | "Street" | https://vm.tiktok.com/EQkEwe/
 | "Un album" | "An album" |  https://vm.tiktok.com/EQkEwe/ |
+| "Un win win" | "A win win situation" | https://youtu.be/M2_tmKz3gBI 05:40 |
