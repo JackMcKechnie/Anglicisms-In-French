@@ -187,3 +187,4 @@
 | "Le rap" | "Rap| https://vm.tiktok.com/Enjnct/ |
 | "Best version" | "Best version" | https://photos.app.goo.gl/tavhvei5CgibPxMH8 |
 | "Le grinder" | "Grinder" | https://vm.tiktok.com/En6dND/ |
+| "Les piercings" | "Piercings" | https://vm.tiktok.com/Ewd7ko/ |
