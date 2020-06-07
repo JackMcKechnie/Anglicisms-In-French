@@ -194,3 +194,5 @@
 | "All time" | "Of all time" | https://vm.tiktok.com/oLfybW/ |
 | "Fans" | "Fans" | https://youtu.be/a59UiRSsZi4 01:25 |
 | "Mainstream" | "Mainstream" | https://youtu.be/a59UiRSsZi4 04:24 |
+| "Camgirl" | "Camgirl" | https://youtu.be/a59UiRSsZi4 05:13 |
+| "Smartphone" | "Smartphone" | https://youtu.be/a59UiRSsZi4 05:18 |
