@@ -189,3 +189,4 @@
 | "Le grinder" | "Grinder" | https://vm.tiktok.com/En6dND/ |
 | "Les piercings" | "Piercings" | https://vm.tiktok.com/Ewd7ko/ |
 | "Blah blah" | "Blah Blah" | https://youtu.be/sQaKWttol58 00:40 |
+| "Selfie" | "Selfie" | https://vm.tiktok.com/oL8ueh/ |
