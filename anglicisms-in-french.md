@@ -191,3 +191,4 @@
 | "Blah blah" | "Blah Blah" | https://youtu.be/sQaKWttol58 00:40 |
 | "Selfie" | "Selfie" | https://vm.tiktok.com/oL8ueh/ |
 | "Try me" | "Try me" | https://vm.tiktok.com/oL56yC/ |
+| "All time" | "Of all time" | https://vm.tiktok.com/oLfybW/ |
