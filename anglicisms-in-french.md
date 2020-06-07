@@ -199,3 +199,4 @@
 | "Le cyber bullying" | "Cyber bullying" | https://youtu.be/a59UiRSsZi4 07:14 |
 | "Le slut shaming" | "Slut shaming" | https://youtu.be/a59UiRSsZi4 07:19 |
 | "Le body shaming" | "Body shaming" | https://youtu.be/a59UiRSsZi4 07:20 |
+| "Slut" | "Slut" | https://youtu.be/a59UiRSsZi4 07:40 |
