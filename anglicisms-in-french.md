@@ -200,3 +200,5 @@
 | "Le slut shaming" | "Slut shaming" | https://youtu.be/a59UiRSsZi4 07:19 |
 | "Le body shaming" | "Body shaming" | https://youtu.be/a59UiRSsZi4 07:20 |
 | "Slut" | "Slut" | https://youtu.be/a59UiRSsZi4 07:40 |
+| "La drill" | "Drill music" | https://youtu.be/J7U85B4nAaU 00:19 |
+| "Le drill" | "Drill" (Music genre) | https://youtu.be/J7U85B4nAaU 00:19 |
