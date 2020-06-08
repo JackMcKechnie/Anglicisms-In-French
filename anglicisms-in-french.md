@@ -203,3 +203,4 @@
 | "La drill" | "Drill music" | https://youtu.be/J7U85B4nAaU 00:19 |
 | "Le drill" | "Drill" (Music genre) | https://youtu.be/J7U85B4nAaU 00:19 |
 | "Un burnout" | "Burnout" (Tired) | https://youtu.be/XfQhzb9Iw7E 02:35 |
+| "Skinny" | "Skinny" | https://vm.tiktok.com/oksbFb/ |
