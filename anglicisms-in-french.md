@@ -210,3 +210,4 @@
 | "Un outfit" | "Outfit" | https://vm.tiktok.com/oHSfcD/ |
 | "Clubber" | "Clubber" (Night club) | https://photos.app.goo.gl/U9WaC54nzKQPSi6K7 |
 | "Le fast-food" | "Fast food" | https://photos.app.goo.gl/MxoRWQxpstpBCFFM7 |
+| "Lifestyle" | "Lifestyle" | https://vm.tiktok.com/oxxCJD/ |
