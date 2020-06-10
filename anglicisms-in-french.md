@@ -212,3 +212,4 @@
 | "Le fast-food" | "Fast food" | https://photos.app.goo.gl/MxoRWQxpstpBCFFM7 |
 | "Lifestyle" | "Lifestyle" | https://vm.tiktok.com/oxxCJD/ |
 | "Gentleman" | "Gentleman" | https://vm.tiktok.com/obhMUK/ |
+| "La deadline" | "Deadline" | https://vm.tiktok.com/ogugmy/ |
