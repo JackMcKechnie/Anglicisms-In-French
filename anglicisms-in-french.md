@@ -217,3 +217,4 @@
 | "Junkie" | "Junkie" | https://www.youtube.com/watch?v=RephzVJPZAY&t=8s 10:17 |
 | "Time" | "Time" | https://www.youtube.com/watch?v=q7bmdHcN5J8 02:55 |
 | "Un timer" | "Timer" | https://www.twitch.tv/videos/643977699 01:52:40 |
+| "Typical" | "Typical" | https://www.twitch.tv/videos/643977699 02:40:12 |
