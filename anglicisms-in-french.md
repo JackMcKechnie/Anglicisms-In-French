@@ -219,3 +219,4 @@
 | "Un timer" | "Timer" | https://www.twitch.tv/videos/643977699 01:52:40 |
 | "Typical" | "Typical" | https://www.twitch.tv/videos/643977699 02:40:12 |
 | "Victim blaming" | "Victim blaming" | https://www.twitch.tv/videos/643977699 03:13:05 |
+| "Mind fuck" | "Mind fuck" | https://www.twitch.tv/videos/643977699 03:18:44 |
