@@ -221,3 +221,4 @@
 | "Victim blaming" | "Victim blaming" | https://www.twitch.tv/videos/643977699 03:13:05 |
 | "Mind fuck" | "Mind fuck" | https://www.twitch.tv/videos/643977699 03:18:44 |
 | "Reboot" | "Reboot" | https://www.twitch.tv/videos/643977699 03:59:27 |
+| "One man show" | "One man show" | https://www.youtube.com/watch?v=mFKUThh26oU 01:00 |
