@@ -225,3 +225,4 @@
 | "Un death note" | "A death note" | https://vm.tiktok.com/J1SgGnf/ |
 | "Next" | "Next" | https://vm.tiktok.com/J1SnaG9/ |
 | "Matcher" | "To match" | https://vm.tiktok.com/J1AdLaA/ |
+| "Le sex-toy" | "Sex toy" | https://youtu.be/BbbDwjZQgfQ 01:00 |
