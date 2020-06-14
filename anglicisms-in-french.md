@@ -229,3 +229,4 @@
 | "Un hoverboard" | "A hoverboard" | https://youtu.be/BbbDwjZQgfQ 04:15 |
 | "Les backpackers" | "Backpackers" | https://youtu.be/2tQzg6LpRgE 02:13 |
 | "Last minute" | "Last minute" | https://youtu.be/2tQzg6LpRgE 03:40 |
+| "Fancy" | "Fancy" | https://photos.app.goo.gl/TuV8Q7bESnnYqbS2A |
