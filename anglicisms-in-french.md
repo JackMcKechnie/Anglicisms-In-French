@@ -233,3 +233,4 @@
 | "Ghetto" | "Ghetto" | https://youtu.be/sfmV31raru4 |
 | "Le dressing room" | "Dressing room" | https://vm.tiktok.com/J1CqQdR/ |
 | "Speed" | "Rushed" | https://youtu.be/SpH-gv7dNrE 03:34 |
+| "Le fight" | "The fight" | https://youtu.be/V79ArW07JQM 00:42 |
