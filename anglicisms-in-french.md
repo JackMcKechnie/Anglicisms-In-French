@@ -239,3 +239,4 @@
 | "Pussies" | "Pussies" | https://vm.tiktok.com/J1grRcw/ |
 | "Sniper" | "To snipe" (Gun) | https://vm.tiktok.com/J1gu7to/ |
 | "Un headshot" | "Headshot" | https://vm.tiktok.com/J1gu7to/ |
+| "Switcher" | "To switch" | https://vm.tiktok.com/J17pjgv/ |
