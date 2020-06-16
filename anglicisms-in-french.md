@@ -241,3 +241,4 @@
 | "Un headshot" | "Headshot" | https://vm.tiktok.com/J1gu7to/ |
 | "Switcher" | "To switch" | https://vm.tiktok.com/J17pjgv/ |
 | "Un uppercut" | "An uppercut" | https://photos.app.goo.gl/to57PVNM8euDVVv86 |
+| "Le dab" | "Dan" (Dance) | https://vm.tiktok.com/J1c34vt/ |
