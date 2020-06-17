@@ -243,3 +243,4 @@
 | "Un uppercut" | "An uppercut" | https://photos.app.goo.gl/to57PVNM8euDVVv86 |
 | "Le dab" | "Dan" (Dance) | https://vm.tiktok.com/J1c34vt/ |
 | "Timing" | "Timing" | https://youtu.be/qpssirXg8HA 02:10 |
+| "Sorry" | "Sorry" | https://vm.tiktok.com/JJN4fof/ |
