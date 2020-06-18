@@ -248,3 +248,4 @@
 | "Le leader" | The leader" | https://www.youtube.com/watch?v=jfxG8GW7X_E&t=1s 00:38 |
 | "Un barber shop" | "A barbers" https://www.youtube.com/watch?v=x7yVZDaSju8 01:32 |
 | "Les guest" | "Guests" | https://www.youtube.com/watch?v=XyTDUGo5gTw 00:18 |
+| "Clapper" | "To clap" | https://www.youtube.com/watch?v=XyTDUGo5gTw 02:32 |
