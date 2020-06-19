@@ -249,3 +249,4 @@
 | "Un barber shop" | "A barbers" https://www.youtube.com/watch?v=x7yVZDaSju8 01:32 |
 | "Les guest" | "Guests" | https://www.youtube.com/watch?v=XyTDUGo5gTw 00:18 |
 | "Clapper" | "To clap" | https://www.youtube.com/watch?v=XyTDUGo5gTw 02:32 |
+| "Le GOAT" | "The GOAT" | https://youtu.be/dQ_c8ZJ0bvQ 05:12 |
