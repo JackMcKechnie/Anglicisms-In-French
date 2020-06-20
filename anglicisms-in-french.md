@@ -241,7 +241,7 @@
 | "Un headshot" | "Headshot" | https://vm.tiktok.com/J1gu7to/ |
 | "Switcher" | "To switch" | https://vm.tiktok.com/J17pjgv/ |
 | "Un uppercut" | "An uppercut" | https://photos.app.goo.gl/to57PVNM8euDVVv86 |
-| "Le dab" | "Dan" (Dance) | https://vm.tiktok.com/J1c34vt/ |
+| "Le dab" | "Dab" (Dance) | https://vm.tiktok.com/J1c34vt/ |
 | "Timing" | "Timing" | https://youtu.be/qpssirXg8HA 02:10 |
 | "Sorry" | "Sorry" | https://vm.tiktok.com/JJN4fof/ |
 | "Sexy" | "Sexy" | https://vm.tiktok.com/JJNcRJP/ |
@@ -256,3 +256,4 @@
 | "La wax" | "Wax" (Skateboard) | https://vm.tiktok.com/JJpQ7pQ/ |
 | "Les trucks" | "Trucks" (Skateboard) | https://vm.tiktok.com/JJpQ7pQ/ |
 | "Un tool" | "A tool" | https://vm.tiktok.com/JJpQ7pQ/ |
+| "Clean" | "Clean" | https://vm.tiktok.com/JJsymbR/ |
