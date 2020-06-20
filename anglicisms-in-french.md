@@ -14,7 +14,7 @@
 | "Chill"         | "Chill"                           | https://vm.tiktok.com/cHxjbo/                                                         |
 | "Feed"          | "Feed"                            | https://vm.tiktok.com/cHTjKE/                                                         |
 | "What the fuck" | "What the fuck"                   | https://vm.tiktok.com/TAVTkS/                                                         |
-| "Oh my God"     | "Oh my God"                       |                                                                                       |
+| "Oh my God"     | "Oh my God"                       | https://vm.tiktok.com/JJx262j/                                     |
 | "News"          | "News"                       | https://vm.tiktok.com/cbCj5a                                                          |
 | "Ghoster"       | "To ghost"                        | https://vm.tiktok.com/cbCj5a/                                                         |
 | "Un flex"       | "A flex"                          | https://vm.tiktok.com/cbBEdL/                                                         |
