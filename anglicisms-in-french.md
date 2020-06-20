@@ -254,3 +254,4 @@
 | "Board" | "Skateboard" | https://vm.tiktok.com/JJ9uYBK/ |
 | "Hacking" | "Hacking" | https://vm.tiktok.com/JJ95mCD/ |
 | "La wax" | "Wax" (Skateboard) | https://vm.tiktok.com/JJpQ7pQ/ |
+| "Les trucks" | "Trucks" (Skateboard) | https://vm.tiktok.com/JJpQ7pQ/ |
