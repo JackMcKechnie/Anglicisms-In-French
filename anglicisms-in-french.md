@@ -259,3 +259,4 @@
 | "Clean" | "Clean" | https://vm.tiktok.com/JJsymbR/ |
 | "Clash" | "Clash" | https://vm.tiktok.com/JJsgBhP/ |
 | "Fucking" | "Fucking" | https://vm.tiktok.com/JJs91Lx/ |
+| "Patience" | "Patience" | https://vm.tiktok.com/JJWQ6Ee/ |
