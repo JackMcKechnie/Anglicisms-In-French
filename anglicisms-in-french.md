@@ -258,3 +258,4 @@
 | "Un tool" | "A tool" | https://vm.tiktok.com/JJpQ7pQ/ |
 | "Clean" | "Clean" | https://vm.tiktok.com/JJsymbR/ |
 | "Clash" | "Clash" | https://vm.tiktok.com/JJsgBhP/ |
+| "Fucking" | "Fucking" | https://vm.tiktok.com/JJs91Lx/ |
