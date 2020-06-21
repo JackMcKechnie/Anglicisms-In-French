@@ -263,3 +263,4 @@
 | "Un squad" | "A squad" | https://vm.tiktok.com/JJ7PqkD/ |
 | "Drift" | "Drift" | https://vm.tiktok.com/JJTrewe/ |
 | "Spammer" | "To spam" | https://vm.tiktok.com/JJTP5cn/ |
+| "Shoutout" | "Shoutout" | https://vm.tiktok.com/JJwYjRV/ |
