@@ -260,3 +260,4 @@
 | "Clash" | "Clash" | https://vm.tiktok.com/JJsgBhP/ |
 | "Fucking" | "Fucking" | https://vm.tiktok.com/JJs91Lx/ |
 | "Patience" | "Patience" | https://vm.tiktok.com/JJWQ6Ee/ |
+| "Un squad" | "A squad" | https://vm.tiktok.com/JJ7PqkD/ |
