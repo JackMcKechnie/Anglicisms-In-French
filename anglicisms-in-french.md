@@ -265,3 +265,4 @@
 | "Spammer" | "To spam" | https://vm.tiktok.com/JJTP5cn/ |
 | "Shoutout" | "Shoutout" | https://vm.tiktok.com/JJwYjRV/ |
 | "Beatbox" | "Beatbox" | https://youtu.be/yJDXpqKKuNw 03:47 |
+| "Restock" | "Restock" | https://vm.tiktok.com/JeN8DF2/ |
