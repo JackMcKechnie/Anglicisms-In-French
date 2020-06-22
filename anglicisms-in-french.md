@@ -266,3 +266,4 @@
 | "Shoutout" | "Shoutout" | https://vm.tiktok.com/JJwYjRV/ |
 | "Beatbox" | "Beatbox" | https://youtu.be/yJDXpqKKuNw 03:47 |
 | "Restock" | "Restock" | https://vm.tiktok.com/JeN8DF2/ |
+| "Safe" | "Safe" | https://vm.tiktok.com/JeNXR1k/ |
