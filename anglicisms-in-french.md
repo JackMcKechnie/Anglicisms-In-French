@@ -264,3 +264,4 @@
 | "Drift" | "Drift" | https://vm.tiktok.com/JJTrewe/ |
 | "Spammer" | "To spam" | https://vm.tiktok.com/JJTP5cn/ |
 | "Shoutout" | "Shoutout" | https://vm.tiktok.com/JJwYjRV/ |
+| "Beatbox" | "Beatbox" | https://youtu.be/yJDXpqKKuNw 03:47 |
