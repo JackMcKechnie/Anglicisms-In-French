@@ -269,3 +269,4 @@
 | "Safe" | "Safe" | https://vm.tiktok.com/JeNXR1k/ |
 | "Un blender" | "A blender" | https://vm.tiktok.com/JeNsfnn/ |
 | "Thread" | "Thread" | https://vm.tiktok.com/Jek1pkX/ |
+| "Un screen record" | "A screen recording" | https://vm.tiktok.com/Je55P4g/ |
