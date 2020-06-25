@@ -272,4 +272,5 @@
 | "Un screen record" | "A screen recording" | https://vm.tiktok.com/Je55P4g/ |
 | "Un green flag" | "A green flag" | https://vm.tiktok.com/Jems3M7/ |
 | "Un red flag" | "A red flag" | https://vm.tiktok.com/Jems3M7/ |
-|"Le spring break" | "Spring break" | https://vm.tiktok.com/JeuaGwF/ |
+| "Le spring break" | "Spring break" | https://vm.tiktok.com/JeuaGwF/ |
+| "Eco friendly" | "Eco friendly" | https://vm.tiktok.com/JebS8pX/ |
