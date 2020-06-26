@@ -276,3 +276,4 @@
 | "Eco friendly" | "Eco friendly" | https://vm.tiktok.com/JebS8pX/ |
 | "Ever" | "Ever" | https://vm.tiktok.com/JepkGdU/ |
 | "Flash back" | "Flash back" | https://vm.tiktok.com/JesAACL/ |
+| "Un one hit wonder" | "A one hit wonder" | https://youtu.be/FWaJD0d2Frk 05:42 |
