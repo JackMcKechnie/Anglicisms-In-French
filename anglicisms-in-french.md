@@ -278,3 +278,4 @@
 | "Flash back" | "Flash back" | https://vm.tiktok.com/JesAACL/ |
 | "Un one hit wonder" | "A one hit wonder" | https://youtu.be/FWaJD0d2Frk 05:42 |
 | "Down" | "Down" (To do something) | https://photos.app.goo.gl/14kjWt2Akh6ETp5b8 |
+| "Bestie" | "Bestie" | https://vm.tiktok.com/Jd2Afmk/ |
