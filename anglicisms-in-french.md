@@ -281,3 +281,4 @@
 | "Bestie" | "Bestie" | https://vm.tiktok.com/Jd2Afmk/ |
 | "Fuck up" | "Fuck up" | https://vm.tiktok.com/JdjgN5c/ |
 | "Swag" | "Swag" | https://vm.tiktok.com/JdASMc8/ |
+| "Rooftop" | "Rooftop" | https://vm.tiktok.com/JdA8Chf/ |
