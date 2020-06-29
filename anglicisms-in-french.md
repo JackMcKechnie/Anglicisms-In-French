@@ -285,3 +285,4 @@
 | "Never" | "Never" | https://vm.tiktok.com/Jd9219f/ |
 | "Crackhead" | "Crackhead" | https://photos.app.goo.gl/AC7eMvLsVwvx42zY6 |
 | "Ready" | "Ready" | https://vm.tiktok.com/JdVcKvY/ |
+| "Cover" | "Cover" | https://youtu.be/sQaKWttol58 |
