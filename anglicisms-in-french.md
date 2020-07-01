@@ -288,3 +288,4 @@
 | "Cover" | "Cover" | https://youtu.be/sQaKWttol58 |
 | "Creepy" | "Creepy" | https://vm.tiktok.com/Jd7cmSb/ |
 | "Tips" | "Tips" | https://youtu.be/0RmSZInCWVA 05:23 |
+| "Men are trash" | "Men are trash" | https://vm.tiktok.com/JR8LKTq/ |
