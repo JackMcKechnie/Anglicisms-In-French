@@ -287,3 +287,4 @@
 | "Ready" | "Ready" | https://vm.tiktok.com/JdVcKvY/ |
 | "Cover" | "Cover" | https://youtu.be/sQaKWttol58 |
 | "Creepy" | "Creepy" | https://vm.tiktok.com/Jd7cmSb/ |
+| "Tips" | "Tips" | https://youtu.be/0RmSZInCWVA 05:23 |
