@@ -290,3 +290,4 @@
 | "Tips" | "Tips" | https://youtu.be/0RmSZInCWVA 05:23 |
 | "Men are trash" | "Men are trash" | https://vm.tiktok.com/JR8LKTq/ |
 | "Un hot girl summer" | "A hot girl summer" | https://vm.tiktok.com/JR2Cs6s/ |
+| "Skin care" | "Skin care" | https://vm.tiktok.com/JR2Dq6X/ |
