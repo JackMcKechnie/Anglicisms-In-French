@@ -292,3 +292,5 @@
 | "Un hot girl summer" | "A hot girl summer" | https://vm.tiktok.com/JR2Cs6s/ |
 | "Skin care" | "Skin care" | https://vm.tiktok.com/JR2Dq6X/ |
 | "Open air" | "Open air" | https://vm.tiktok.com/JRS1qCS/ |
+| "Le packaging" | "Packaging" | https://vm.tiktok.com/JRy7UHV/ |
+| "Bae" | "Bae" | https://photos.app.goo.gl/LVcf7EsLNvG7XUNs9 |
