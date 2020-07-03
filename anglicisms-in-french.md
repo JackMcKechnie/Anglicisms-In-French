@@ -295,3 +295,5 @@
 | "Le packaging" | "Packaging" | https://vm.tiktok.com/JRy7UHV/ |
 | "Bae" | "Bae" | https://photos.app.goo.gl/LVcf7EsLNvG7XUNs9 |
 | "Number one" | "Number one" | https://vm.tiktok.com/JRXCsrQ/ |
+| "VIP" | "VIP" | https://vm.tiktok.com/JR4XTyr/ |
+| "N word pass" | "N word pass" | https://vm.tiktok.com/JR4XTyr/ |
