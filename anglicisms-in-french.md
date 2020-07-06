@@ -301,3 +301,4 @@
 | "Straight" | "Straight" (Sexuality) | https://vm.tiktok.com/J8JEWEX/ |
 | "Fact" | "Fact" | https://vm.tiktok.com/J8JgFhv/ |
 | "Damn it" | "Damn it" | https://www.youtube.com/watch?v=QV9tsas8z_M 01:48 |
+| "Faker" | "To fake" | https://www.youtube.com/watch?v=QV9tsas8z_M 03:17 |
