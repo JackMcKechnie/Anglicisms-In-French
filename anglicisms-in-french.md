@@ -304,3 +304,4 @@
 | "Faker" | "To fake" | https://www.youtube.com/watch?v=QV9tsas8z_M 03:17 |
 | "Fails" | "Fails" | https://www.youtube.com/watch?v=xmHl0N4zXZ8 00:45 |
 | "Epic wins" | "Epic wins" | https://www.youtube.com/watch?v=xmHl0N4zXZ8 00:45 |
+| "Shiny" | "Shiny" | https://www.youtube.com/watch?v=xmHl0N4zXZ8 01:00 |
