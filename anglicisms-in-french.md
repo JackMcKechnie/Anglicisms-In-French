@@ -307,3 +307,4 @@
 | "Shiny" | "Shiny" | https://www.youtube.com/watch?v=xmHl0N4zXZ8 01:00 |
 | "Kiss list" | "Kiss list" | https://vm.tiktok.com/J86q6Lc/ |
 | "Le lift" | "Lift" (Car) | https://photos.app.goo.gl/kE8Pm86AjkZ3WZN46 |
+| "Un long weekend" | "A long weekend" | https://photos.app.goo.gl/e3f288je5h7sDwvV6 |
