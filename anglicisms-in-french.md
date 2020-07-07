@@ -306,3 +306,4 @@
 | "Epic wins" | "Epic wins" | https://www.youtube.com/watch?v=xmHl0N4zXZ8 00:45 |
 | "Shiny" | "Shiny" | https://www.youtube.com/watch?v=xmHl0N4zXZ8 01:00 |
 | "Kiss list" | "Kiss list" | https://vm.tiktok.com/J86q6Lc/ |
+| "Le lift" | "Lift" (Car) | https://photos.app.goo.gl/kE8Pm86AjkZ3WZN46 |
