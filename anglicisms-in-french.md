@@ -310,3 +310,5 @@
 | "Un long weekend" | "A long weekend" | https://photos.app.goo.gl/e3f288je5h7sDwvV6 |
 | "Uploader" | "To upload" | https://vm.tiktok.com/J85gDkq/ |
 | "Dash cam" | "Dash cam" | https://vm.tiktok.com/J8Xp8YC/ |
+| "Cop" |"Cop | " (buy) | https://vm.tiktok.com/J84wJ9s/ |
+| "Sold out" | "Sold out" | https://vm.tiktok.com/J84wJ9s/ |
