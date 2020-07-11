@@ -313,3 +313,4 @@
 | "Cop" |"Cop | " (buy) | https://vm.tiktok.com/J84wJ9s/ |
 | "Sold out" | "Sold out" | https://vm.tiktok.com/J84wJ9s/ |
 | "Kiss or slap" | "Kiss or slap" | https://vm.tiktok.com/JLrR4vw/ |
+| "One life" | "One life" | https://vm.tiktok.com/JLrR4vw/ |
