@@ -318,3 +318,4 @@
 | "Makeupper" | "To put on make up" | https://vm.tiktok.com/JLSNY16/ |
 | "Sleepover" | "Sleepover" | https://vm.tiktok.com/JL585XY/ |
 | "Le sunset" | "Sunset" | https://vm.tiktok.com/JLVwr9o/ |
+| "Pen spinning" | "Pen spinning" | https://youtu.be/qbzvJE7sg_g |
