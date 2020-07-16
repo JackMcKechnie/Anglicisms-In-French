@@ -320,3 +320,4 @@
 | "Le sunset" | "Sunset" | https://vm.tiktok.com/JLVwr9o/ |
 | "Pen spinning" | "Pen spinning" | https://youtu.be/qbzvJE7sg_g |
 | "Le pumptrack" | "Pumptrack" | https://vm.tiktok.com/JNL5VWa/ |
+| "Base camp" | "Base camp" | https://youtu.be/d9nyQWSRvfc 00:29 |
