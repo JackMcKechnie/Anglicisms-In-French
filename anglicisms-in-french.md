@@ -323,3 +323,4 @@
 | "Base camp" | "Base camp" | https://youtu.be/d9nyQWSRvfc 00:29 |
 | "It's not good" | "It's not good" | https://vm.tiktok.com/JNgPfVu/ |
 | "The place to be" | "The place to be" | https://photos.app.goo.gl/uask4EJbMWViqruY9 |
+| "Butterfly click" | "Butterfly click" | https://vm.tiktok.com/JN3Ux52/ |
