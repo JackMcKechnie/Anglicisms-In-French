@@ -327,3 +327,4 @@
 | "In love" | "In love" | https://vm.tiktok.com/JN3acV9/ |
 | "Front end" | "Front end" (Software development) | https://vm.tiktok.com/JNEnaAs/ |
 | "Karen" | "Karen" (Meme) | https://photos.app.goo.gl/3Dmdk1p3c27z3HFR8 |
+| "Outdoor" | "Outdoor" | https://youtu.be/zdeAEhp4BYE 03:18 |
