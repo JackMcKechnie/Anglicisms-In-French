@@ -328,3 +328,4 @@
 | "Front end" | "Front end" (Software development) | https://vm.tiktok.com/JNEnaAs/ |
 | "Karen" | "Karen" (Meme) | https://photos.app.goo.gl/3Dmdk1p3c27z3HFR8 |
 | "Outdoor" | "Outdoor" | https://youtu.be/zdeAEhp4BYE 03:18 |
+| "Run" | "Run" | https://vm.tiktok.com/JFxDCvV/ |
