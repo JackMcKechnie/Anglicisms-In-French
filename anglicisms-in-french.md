@@ -329,3 +329,5 @@
 | "Karen" | "Karen" (Meme) | https://photos.app.goo.gl/3Dmdk1p3c27z3HFR8 |
 | "Outdoor" | "Outdoor" | https://youtu.be/zdeAEhp4BYE 03:18 |
 | "Run" | "Run" | https://vm.tiktok.com/JFxDCvV/ |
+| "Le King" | "King" | https://vm.tiktok.com/JFx1Ats/ |
+| "Le bad boy" | "Bad boy" | https://vm.tiktok.com/JFx1Ats/ |
