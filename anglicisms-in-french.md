@@ -333,3 +333,4 @@
 | "Le bad boy" | "Bad boy" | https://vm.tiktok.com/JFx1Ats/ |
 | "Trashtalker" | "To trash talk" | https://vm.tiktok.com/JFCrU9C/ |
 | "Teammates" | "Teammates" | https://vm.tiktok.com/JFCrU9C/ |
+| "Le sex appeal" | "Sex appeal" | https://vm.tiktok.com/JFsr7bV/ |
