@@ -331,3 +331,5 @@
 | "Run" | "Run" | https://vm.tiktok.com/JFxDCvV/ |
 | "Le King" | "King" | https://vm.tiktok.com/JFx1Ats/ |
 | "Le bad boy" | "Bad boy" | https://vm.tiktok.com/JFx1Ats/ |
+| "Trashtalker" | "To trash talk" | https://vm.tiktok.com/JFCrU9C/ |
+| "Teammates" | "Teammates" | https://vm.tiktok.com/JFCrU9C/ |
