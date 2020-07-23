@@ -334,3 +334,5 @@
 | "Trashtalker" | "To trash talk" | https://vm.tiktok.com/JFCrU9C/ |
 | "Teammates" | "Teammates" | https://vm.tiktok.com/JFCrU9C/ |
 | "Le sex appeal" | "Sex appeal" | https://vm.tiktok.com/JFsr7bV/ |
+| "Or something" | "Or something" | https://vm.tiktok.com/JFn4aM9/ |
+| "Time" | "Time" | https://vm.tiktok.com/JFn4aM9/ |
