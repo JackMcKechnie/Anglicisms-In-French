@@ -341,3 +341,5 @@
 | "Un brand name" | "A brand name" |https://vm.tiktok.com/JYxS89t/ |
 | "Les climbers" | "Climbers" | https://photos.app.goo.gl/kDEQxbkbT8BQE94U9 |
 | "Un meeting" | "A meeting" | https://vm.tiktok.com/JY4SWwe/ |
+| "Le Frontend" | "Frontend" (Software development) | https://vm.tiktok.com/J2NtfyY/ |
+| "Le Backend" | "Backend" (Software development) | https://vm.tiktok.com/J2NtfyY/ |
