@@ -344,3 +344,4 @@
 | "Le Frontend" | "Frontend" (Software development) | https://vm.tiktok.com/J2NtfyY/ |
 | "Le Backend" | "Backend" (Software development) | https://vm.tiktok.com/J2NtfyY/ |
 | "Le smile" | "Smile" | https://vm.tiktok.com/J2pU2aF/ |
+| "Les readings" | "Readings" | https://vm.tiktok.com/J2G6Hg5/ |
