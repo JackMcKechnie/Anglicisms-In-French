@@ -343,3 +343,4 @@
 | "Un meeting" | "A meeting" | https://vm.tiktok.com/JY4SWwe/ |
 | "Le Frontend" | "Frontend" (Software development) | https://vm.tiktok.com/J2NtfyY/ |
 | "Le Backend" | "Backend" (Software development) | https://vm.tiktok.com/J2NtfyY/ |
+| "Le smile" | "Smile" | https://vm.tiktok.com/J2pU2aF/ |
