@@ -345,3 +345,4 @@
 | "Le Backend" | "Backend" (Software development) | https://vm.tiktok.com/J2NtfyY/ |
 | "Le smile" | "Smile" | https://vm.tiktok.com/J2pU2aF/ |
 | "Les readings" | "Readings" | https://vm.tiktok.com/J2G6Hg5/ |
+| "Hard" | "Hard" | https://vm.tiktok.com/J2ck6jC/ |
