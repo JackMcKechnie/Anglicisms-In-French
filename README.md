@@ -6,7 +6,7 @@ A list of words that are taken directly from English that are used in French. Th
 
 ####  TikTok pre-emptive damage limitation
 
-With more and more news of possible banning of TikTok I have decided to try and make sure that even if that happens this resource is still viable as a reference. Therefore the tiktoks that are on the list (Up to date as of 3/8/20) are all downloaded and saved in a shared Google Photos album which is avaliable here:
+With more and more news of possible banning of TikTok I have decided to try and make sure that even if that happens this resource is still viable as a reference. Therefore the TikToks that are on the list (up to date as of 3/8/20) are all downloaded and saved in a shared Google Photos album which is avaliable here:
 
 https://photos.app.goo.gl/vThS1rSgGfgHdf7N7. 
 
