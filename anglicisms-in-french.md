@@ -357,3 +357,4 @@
 | "Disclaimer" | "Disclaimer" | https://youtu.be/PX6-ULUCLds 02:15 |
 | "Guys" | "Guys" | https://vm.tiktok.com/J6V233a/ |
 | "Soul food" | "Soul food" | https://vm.tiktok.com/J6TB3no/ |
+| "Hot" | "Hot" (Looks) | https://vm.tiktok.com/JMdqhJu/ |
