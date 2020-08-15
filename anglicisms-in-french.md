@@ -363,3 +363,4 @@
 | "Feminazi" | "Feminazi" | https://photos.app.goo.gl/394Tm8jX6NeY3kut5 |
 | "Anyway" | "Anyway" | https://vm.tiktok.com/ZMJMVUab3/ |
 | "Low cost" | "Low cost" | https://vm.tiktok.com/ZMJMVSQK1/ |
+| "Crunchy" | "Crunchy" | https://vm.tiktok.com/ZMJMcWcLX/ |
