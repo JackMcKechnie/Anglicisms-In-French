@@ -364,3 +364,5 @@
 | "Anyway" | "Anyway" | https://vm.tiktok.com/ZMJMVUab3/ |
 | "Low cost" | "Low cost" | https://vm.tiktok.com/ZMJMVSQK1/ |
 | "Crunchy" | "Crunchy" | https://vm.tiktok.com/ZMJMcWcLX/ |
+| "For god's sake" | "For god's sake" | https://vm.tiktok.com/ZMJMcoFY2/ |
+| "Woke" | "Woke" | https://vm.tiktok.com/ZMJMcoFY2/ |
