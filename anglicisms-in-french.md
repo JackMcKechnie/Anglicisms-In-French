@@ -367,3 +367,4 @@
 | "For god's sake" | "For god's sake" | https://vm.tiktok.com/ZMJMcoFY2/ |
 | "Woke" | "Woke" | https://vm.tiktok.com/ZMJMcoFY2/ |
 | "Les kids" | "Kids" | https://photos.app.goo.gl/KfNBrCzSzNgMH7oK8 |
+| "Les pickpockets" | "Pickpockets" | https://vm.tiktok.com/ZMJhfFBJL/ |
