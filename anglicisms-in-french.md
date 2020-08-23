@@ -371,3 +371,4 @@
 | "Le summer internship" | "Summer internship" | https://vm.tiktok.com/ZMJh5eJtC/ |
 | "Random" | "Random" | https://youtu.be/ZPC3GpkX1Sg 01:57 |
 | "Un fanbase" | "Fanbase" | https://youtu.be/ZPC3GpkX1Sg 02:26 |
+| "Slutshame" | "Slutshame" | https://photos.app.goo.gl/dRsy4J8ZX6vSjeaA9 |
