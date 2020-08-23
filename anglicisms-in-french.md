@@ -370,3 +370,4 @@
 | "Les pickpockets" | "Pickpockets" | https://vm.tiktok.com/ZMJhfFBJL/ |
 | "Le summer internship" | "Summer internship" | https://vm.tiktok.com/ZMJh5eJtC/ |
 | "Random" | "Random" | https://youtu.be/ZPC3GpkX1Sg 01:57 |
+| "Un fanbase" | "Fanbase" | https://youtu.be/ZPC3GpkX1Sg 02:26 |
