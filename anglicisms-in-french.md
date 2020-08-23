@@ -373,3 +373,4 @@
 | "Un fanbase" | "Fanbase" | https://youtu.be/ZPC3GpkX1Sg 02:26 |
 | "Slutshame" | "Slutshame" | https://photos.app.goo.gl/dRsy4J8ZX6vSjeaA9 |
 | "Eshop" | "Eshop" | https://www.youtube.com/watch?v=JZI_Xdl72FI 00:56 |
+| "Soon" | "Soon" | https://youtu.be/UnTWQgjtlzI 03:09 |
