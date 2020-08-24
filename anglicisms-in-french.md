@@ -13,7 +13,7 @@
 | "Joke"          | "Joke"                            | "Je vous spoil ma meilleure joke" https://photos.app.goo.gl/vE8Hwds8QxevXVHC7         |
 | "Chill"         | "Chill"                           | https://vm.tiktok.com/cHxjbo/                                                         |
 | "Feed"          | "Feed"                            | https://vm.tiktok.com/cHTjKE/                                                         |
-| "What the fuck" | "What the fuck"                   | https://vm.tiktok.com/TAVTkS/                                                         |
+| "What the " | "What the fuck"                   | https://vm.tiktok.com/TAVTkS/                                                         |
 | "Oh my God"     | "Oh my God"                       | https://vm.tiktok.com/JJx262j/                                     |
 | "News"          | "News"                       | https://vm.tiktok.com/cbCj5a                                                          |
 | "Ghoster"       | "To ghost"                        | https://vm.tiktok.com/cbCj5a/                                                         |
@@ -375,3 +375,4 @@
 | "Eshop" | "Eshop" | https://www.youtube.com/watch?v=JZI_Xdl72FI 00:56 |
 | "Soon" | "Soon" | https://youtu.be/UnTWQgjtlzI 03:09 |
 | "Topless" | "Topless" | https://vm.tiktok.com/ZMJhE5Ahm/ |
+| "Fuck" | "Fuck" | https://www.youtube.com/watch?v=0HYGpy86P6s 12:47 |
