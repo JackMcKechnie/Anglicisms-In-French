@@ -380,3 +380,4 @@
 | "Le sunshine" | "Sunshine" | https://vm.tiktok.com/ZMJkqhkFx/ |
 | "Roadtrip solo" | "Solo Roadtrip" | https://photos.app.goo.gl/h2SkbbT1MkawSZTy7 |
 | "Bike" | "Bike" | https://photos.app.goo.gl/h2SkbbT1MkawSZTy7 |
+| "Le street-artiste" | "Street artist" | https://www.instagram.com/p/CEbxORPoJWR/?igshid=ok6i4jhx58wn |
