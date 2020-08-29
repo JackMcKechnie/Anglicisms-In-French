@@ -381,3 +381,4 @@
 | "Roadtrip solo" | "Solo Roadtrip" | https://photos.app.goo.gl/h2SkbbT1MkawSZTy7 |
 | "Bike" | "Bike" | https://photos.app.goo.gl/h2SkbbT1MkawSZTy7 |
 | "Le street-artiste" | "Street artist" | https://www.instagram.com/p/CEbxORPoJWR/?igshid=ok6i4jhx58wn |
+| "Live cam show" | "Live cam show" | https://www.youtube.com/watch?v=joZd7lelD5w 00:15 |
