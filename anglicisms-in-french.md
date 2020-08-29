@@ -378,3 +378,5 @@
 | "Fuck" | "Fuck" | https://www.youtube.com/watch?v=0HYGpy86P6s 12:47 |
 | "Homesick" | "Homesick" | https://youtu.be/jJXqmi2ymE8 04:50 |
 | "Le sunshine" | "Sunshine" | https://vm.tiktok.com/ZMJkqhkFx/ |
+| "Roadtrip solo" | "Solo Roadtrip" | https://photos.app.goo.gl/h2SkbbT1MkawSZTy7 |
+| "Bike" | "Bike" | https://photos.app.goo.gl/h2SkbbT1MkawSZTy7 |
