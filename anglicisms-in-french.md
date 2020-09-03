@@ -388,3 +388,4 @@
 | "Revenge porn" | "Revenge porn" | https://www.youtube.com/watch?v=joZd7lelD5w 06:56 |
 | "Self love" | "Self love" | https://youtu.be/xVd8GIf2fd4 09:31 |
 | "I fucks with you" | "I fucks with you" | https://vm.tiktok.com/ZMJSLwPaQ/ |
+| "Les lovers" | "Lovers" | https://youtu.be/uXIFqwOeMsU 08:16 |
