@@ -391,3 +391,4 @@
 | "Les lovers" | "Lovers" | https://youtu.be/uXIFqwOeMsU 08:16 |
 | "Un office tour" | "An office tour" | https://youtu.be/pJdBozqrU8A 00:43 |
 | "Made in France" | "Made in France" | https://youtu.be/pJdBozqrU8A |
+| "Un photo shoot" | "A photo shoot" | https://youtu.be/v3aeRZXEZwc 01:05 |
