@@ -393,3 +393,4 @@
 | "Made in France" | "Made in France" | https://youtu.be/pJdBozqrU8A 11:13 |
 | "Un photo shoot" | "A photo shoot" | https://youtu.be/v3aeRZXEZwc 01:05 |
 | "Un think tank" | "Think tank" | https://youtu.be/QNt_2T9xkYk 07:49 |
+| "Le time-lapse" | "Time-lapse" | https://youtu.be/QNt_2T9xkYk 17:20 |
