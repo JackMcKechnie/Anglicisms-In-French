@@ -401,3 +401,4 @@
 | "Une outsider" | "Une outsider" | https://vm.tiktok.com/ZMJSoYrjD/ |
 | "Overlay" | "Overlay" | https://vm.tiktok.com/ZMJSohh4J/ |
 | "Catfish" | "Catfish" | https://vm.tiktok.com/ZMJAd6fmq/ |
+| "Banger" | "Banger" (Music) | https://vm.tiktok.com/ZMJAFk21h/ |
