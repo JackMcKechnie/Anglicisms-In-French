@@ -402,3 +402,4 @@
 | "Overlay" | "Overlay" | https://vm.tiktok.com/ZMJSohh4J/ |
 | "Catfish" | "Catfish" | https://vm.tiktok.com/ZMJAd6fmq/ |
 | "Banger" | "Banger" (Music) | https://vm.tiktok.com/ZMJAFk21h/ |
+| "Shook" | "Shook" | https://vm.tiktok.com/ZS5jJDXv/ |
