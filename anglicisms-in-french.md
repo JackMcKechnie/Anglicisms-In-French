@@ -403,3 +403,5 @@
 | "Catfish" | "Catfish" | https://vm.tiktok.com/ZMJAd6fmq/ |
 | "Banger" | "Banger" (Music) | https://vm.tiktok.com/ZMJAFk21h/ |
 | "Shook" | "Shook" | https://vm.tiktok.com/ZS5jJDXv/ |
+| "Les weeb" | "Weebs" | https://photos.app.goo.gl/eHwFMgLeJBGiJ2HYA |
+| "Les normies" | "Normies" | https://photos.app.goo.gl/eHwFMgLeJBGiJ2HYA |
