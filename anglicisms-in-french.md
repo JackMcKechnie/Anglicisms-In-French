@@ -405,3 +405,8 @@
 | "Shook" | "Shook" | https://vm.tiktok.com/ZS5jJDXv/ |
 | "Les weeb" | "Weebs" | https://photos.app.goo.gl/eHwFMgLeJBGiJ2HYA |
 | "Les normies" | "Normies" | https://photos.app.goo.gl/eHwFMgLeJBGiJ2HYA |
+| "Noobs" | "Noobs" | https://vm.tiktok.com/ZS5xXUPU/ |
+| "Le lag" | "Lag" | https://vm.tiktok.com/ZS5xXUPU/ |
+| "Le sniping" | "Sniping" | https://vm.tiktok.com/ZS5xXUPU/ |
+| "Un clutch" | "Clutch" (Gaming) | https://vm.tiktok.com/ZS5xXUPU/ |
+| "Un cheater" | "A cheater" | https://vm.tiktok.com/ZS5xXUPU/ |
