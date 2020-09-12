@@ -410,3 +410,4 @@
 | "Le sniping" | "Sniping" | https://vm.tiktok.com/ZS5xXUPU/ |
 | "Un clutch" | "Clutch" (Gaming) | https://vm.tiktok.com/ZS5xXUPU/ |
 | "Un cheater" | "A cheater" | https://vm.tiktok.com/ZS5xXUPU/ |
+| "Le slime" | "Le slime" | https://vm.tiktok.com/ZS5brfNL/ |
