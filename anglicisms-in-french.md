@@ -411,3 +411,5 @@
 | "Un clutch" | "Clutch" (Gaming) | https://vm.tiktok.com/ZS5xXUPU/ |
 | "Un cheater" | "A cheater" | https://vm.tiktok.com/ZS5xXUPU/ |
 | "Le slime" | "Le slime" | https://vm.tiktok.com/ZS5brfNL/ |
+| "So" | "So" | https://vm.tiktok.com/ZS5pewpK/ |
+| "Les groupies" | "Groupies" | https://vm.tiktok.com/ZS5pewpK/ |
