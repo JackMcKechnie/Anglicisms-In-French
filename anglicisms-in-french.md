@@ -415,3 +415,4 @@
 | "Les groupies" | "Groupies" | https://vm.tiktok.com/ZS5pewpK/ |
 | "Preach" | "Preach" | https://vm.tiktok.com/ZSaJT2Wh/ |
 | "Les carguys" | "Car guys" | https://vm.tiktok.com/ZSaeBCCT/ |
+| "Fashion addict" | "Fashion addict" | https://vm.tiktok.com/ZSaLhNMQ/ |
