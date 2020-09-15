@@ -417,3 +417,4 @@
 | "Les carguys" | "Car guys" | https://vm.tiktok.com/ZSaeBCCT/ |
 | "Fashion addict" | "Fashion addict" | https://vm.tiktok.com/ZSaLhNMQ/ |
 | "Road rage" | "Road rage" | https://vm.tiktok.com/ZSa2VugP/ |
+| "Le bullying" | "Bullying" | https://youtu.be/1wov5txk_Pg 04:37 |
