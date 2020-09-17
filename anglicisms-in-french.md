@@ -421,3 +421,4 @@
 | "Mom jeans" | "Mom jeans" | https://youtu.be/6ahfc_aPjeA 01:08 |
 | "Slow life" | "Slow life" | https://youtu.be/yRCqP2lvRaM 00:35 |
 | "Un remake" | "A remake" | https://vm.tiktok.com/ZSauMdKL/ |
+| "Bad trip" | "Bad trip" | https://vm.tiktok.com/ZSau2wLK/ |
