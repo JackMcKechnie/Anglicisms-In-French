@@ -419,3 +419,4 @@
 | "Road rage" | "Road rage" | https://vm.tiktok.com/ZSa2VugP/ |
 | "Le bullying" | "Bullying" | https://youtu.be/1wov5txk_Pg 04:37 |
 | "Mom jeans" | "Mom jeans" | https://youtu.be/6ahfc_aPjeA 01:08 |
+| "Slow life" | "Slow life" | https://youtu.be/yRCqP2lvRaM 00:35 |
