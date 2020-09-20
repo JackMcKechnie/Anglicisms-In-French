@@ -422,3 +422,4 @@
 | "Slow life" | "Slow life" | https://youtu.be/yRCqP2lvRaM 00:35 |
 | "Un remake" | "A remake" | https://vm.tiktok.com/ZSauMdKL/ |
 | "Bad trip" | "Bad trip" | https://vm.tiktok.com/ZSau2wLK/ |
+| "Je simp" | "I simp" | https://vm.tiktok.com/ZSaoT7r7/ |
