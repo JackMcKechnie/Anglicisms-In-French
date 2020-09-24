@@ -424,3 +424,4 @@
 | "Bad trip" | "Bad trip" | https://vm.tiktok.com/ZSau2wLK/ |
 | "Je simp" | "I simp" | https://vm.tiktok.com/ZSaoT7r7/ |
 | "Wack" | "Walk" | https://open.spotify.com/track/7e04Q3mk24PRK0n9dE82O5?si=qlP71ju1SHKQATVdiF5oKA 01:27 |
+| "Best seller" | "Best seller" | https://vm.tiktok.com/ZSmXfhoa/ |
