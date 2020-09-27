@@ -427,3 +427,4 @@
 | "Best seller" | "Best seller" | https://vm.tiktok.com/ZSmXfhoa/ |
 | "Une pick me" | "A pick me" | https://vm.tiktok.com/ZSmnRXBu/ |
 | "Fitness Park" | "Fitness Park" | https://vm.tiktok.com/ZSmKPGAp/ |
+| "Healthy" | "Healthy" | https://vm.tiktok.com/ZSuNyPMu/ |
