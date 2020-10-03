@@ -433,3 +433,4 @@
 | "Lip sync" | "Lip sync | https://vm.tiktok.com/ZSHRfe3o/ |
 | "Incel" | "Incel" (Involontary celibate) | https://vm.tiktok.com/ZSHRKVLA/ |
 | "Dead name" | "Dead name" (transgender) | https://vm.tiktok.com/ZSHLJsA7/ |
+| "Se hype up" | "Hype themselves up" | https://vm.tiktok.com/ZSH8CDam/ |
