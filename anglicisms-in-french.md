@@ -432,3 +432,4 @@
 | "Shitshow" | "Shitshow" | https://photos.app.goo.gl/D8MnX7XWJsvcsTMP9 |
 | "Lip sync" | "Lip sync | https://vm.tiktok.com/ZSHRfe3o/ |
 | "Incel" | "Incel" (Involontary celibate) | https://vm.tiktok.com/ZSHRKVLA/ |
+| "Dead name" | "Dead name" (transgender) | https://vm.tiktok.com/ZSHLJsA7/ |
