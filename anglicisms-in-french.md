@@ -430,3 +430,5 @@
 | "Healthy" | "Healthy" | https://vm.tiktok.com/ZSuNyPMu/ |
 | "Boobs" | "Boobs" | https://vm.tiktok.com/ZSu5eNcb/ |
 | "Shitshow" | "Shitshow" | https://photos.app.goo.gl/D8MnX7XWJsvcsTMP9 |
+| "Lip sync" | "Lip sync | https://vm.tiktok.com/ZSHRfe3o/ |
+| "Incel" | "Incel" (Involontary celibate) | https://vm.tiktok.com/ZSHRKVLA/ |
