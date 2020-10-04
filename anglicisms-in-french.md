@@ -436,3 +436,4 @@
 | "Se hype up" | "Hype themselves up" | https://vm.tiktok.com/ZSH8CDam/ |
 | "Have fun" | "Have fun" | https://vm.tiktok.com/ZSH8weWG/ |
 | "Gunshot" | "Gunshot" | https://open.spotify.com/track/79IlVGAPeJyD2LKGSDtFDc?si=QSzOHAY0QF2thdYnWgN6VA 00:51 |
+| "Spotted" | "Spotted" | https://vm.tiktok.com/ZSHjd4ms/ |
