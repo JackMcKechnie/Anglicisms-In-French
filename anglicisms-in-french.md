@@ -13,7 +13,7 @@
 | "Joke"          | "Joke"                            | "Je vous spoil ma meilleure joke" https://photos.app.goo.gl/vE8Hwds8QxevXVHC7         |
 | "Chill"         | "Chill"                           | https://vm.tiktok.com/cHxjbo/                                                         |
 | "Feed"          | "Feed"                            | https://vm.tiktok.com/cHTjKE/                                                         |
-| "What the " | "What the fuck"                   | https://vm.tiktok.com/TAVTkS/                                                         |
+| "What the fuck" | "What the fuck"                   | https://vm.tiktok.com/TAVTkS/                                                         |
 | "Oh my God"     | "Oh my God"                       | https://vm.tiktok.com/JJx262j/                                     |
 | "News"          | "News"                       | https://vm.tiktok.com/cbCj5a                                                          |
 | "Ghoster"       | "To ghost"                        | https://vm.tiktok.com/cbCj5a/                                                         |
@@ -444,3 +444,4 @@
 | "Smart" | "Smart" | http://www.twitch.tv/einifox/v/763542778?sr=a&t=11367s 03:09:27 |
 | "Casting" | "Casting" (Film) | https://vm.tiktok.com/ZS9Rg14d/ |
 | "Driver" | "Driver" (Computing) | https://vm.tiktok.com/ZS98QoPj/ |
+| "Goodie" | "Goodies" | https://youtu.be/Yi_4_C5HwPI 33:13 |
