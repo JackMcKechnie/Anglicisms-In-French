@@ -445,3 +445,5 @@
 | "Casting" | "Casting" (Film) | https://vm.tiktok.com/ZS9Rg14d/ |
 | "Driver" | "Driver" (Computing) | https://vm.tiktok.com/ZS98QoPj/ |
 | "Goodie" | "Goodies" | https://youtu.be/Yi_4_C5HwPI 33:13 |
+| "Excuse me" | "Excuse me" | https://vm.tiktok.com/ZS9x7moL/ |
+| "Sad" | "Sad" | https://vm.tiktok.com/ZS9x7moL/ |
