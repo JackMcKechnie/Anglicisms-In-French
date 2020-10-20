@@ -450,3 +450,4 @@
 | "Splash" | "Splash" | https://vm.tiktok.com/ZS9g2fx7/ |
 | "Un mugcake" | "Mugcake" | https://vm.tiktok.com/ZSxUkR1r/ |
 | "Tah dah" | "Tah dah" | https://vm.tiktok.com/ZSxpjKMP/ ¦
+| "Contact tracing" | "Contact tracing" | https://twitter.com/CPAM74/status/1318493191314804736?s=19 |
