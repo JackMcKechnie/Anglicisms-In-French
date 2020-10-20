@@ -452,3 +452,5 @@
 | "Tah dah" | "Tah dah" | https://vm.tiktok.com/ZSxpjKMP/ ¦
 | "Contact tracing" | "Contact tracing" | https://twitter.com/CPAM74/status/1318493191314804736?s=19 |
 | "Take off" | "Take off" | https://photos.app.goo.gl/bZoR1v7VqSWgJBFd9 |
+| "Remember" | "Remember" | https://vm.tiktok.com/ZSxT6ccN/ |
+| "Dumbass" | "Dumbass" | https://vm.tiktok.com/ZSxT6ccN/ |
