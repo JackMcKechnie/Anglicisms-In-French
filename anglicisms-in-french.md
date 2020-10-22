@@ -457,3 +457,4 @@
 | "Trolls" | "Trolls" | https://vm.tiktok.com/ZSxojcds/ |
 | "Nice" | "Nice" | https://vm.tiktok.com/ZSQMjmKQ/ |
 | "Side" | "Side" | https://vm.tiktok.com/ZSQr2qJy/ |
+| "Put your finger down" | "Put your finger down" | https://vm.tiktok.com/ZSQrLXQY/ |
