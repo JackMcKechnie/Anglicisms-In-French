@@ -458,3 +458,4 @@
 | "Nice" | "Nice" | https://vm.tiktok.com/ZSQMjmKQ/ |
 | "Side" | "Side" | https://vm.tiktok.com/ZSQr2qJy/ |
 | "Put your finger down" | "Put your finger down" | https://vm.tiktok.com/ZSQrLXQY/ |
+| "Look" | "Look" | https://vm.tiktok.com/ZSQAM9rd/ |
