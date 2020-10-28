@@ -462,3 +462,6 @@
 | "Wait" | "Wait" | https://photos.app.goo.gl/2CK56FUJcvQwqnZ48 |
 | "Runners" | "Runners" | https://vm.tiktok.com/ZSCN6T4J/ |
 | "Le brunch" | "Brunch" | https://vm.tiktok.com/ZSCAJQ4X/ |
+| "Fast fashion" | "Fast fashion" | https://vm.tiktok.com/ZSCSEugA/ |
+| "Design" | "Design" | https://vm.tiktok.com/ZSCSEugA/ |
+| "Le clout" | "Clout" (Internet popularity) | https://vm.tiktok.com/ZSCSEugA/ |
