@@ -465,3 +465,4 @@
 | "Fast fashion" | "Fast fashion" | https://vm.tiktok.com/ZSCSEugA/ |
 | "Design" | "Design" | https://vm.tiktok.com/ZSCSEugA/ |
 | "Le clout" | "Clout" (Internet popularity) | https://vm.tiktok.com/ZSCSEugA/ |
+| "Les community guidelines" | "Community guidelines" | https://vm.tiktok.com/ZSCAeDdT/ |
