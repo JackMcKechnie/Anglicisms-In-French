@@ -466,3 +466,5 @@
 | "Design" | "Design" | https://vm.tiktok.com/ZSCSEugA/ |
 | "Le clout" | "Clout" (Internet popularity) | https://vm.tiktok.com/ZSCSEugA/ |
 | "Les community guidelines" | "Community guidelines" | https://vm.tiktok.com/ZSCAeDdT/ |
+| "AF" | "AF" (As fuck) | https://photos.app.goo.gl/DEm6iCXkQ7NeyeHy9 |
+| "Spill the tea" | "Spill the tea" | https://photos.app.goo.gl/DEm6iCXkQ7NeyeHy9 |
