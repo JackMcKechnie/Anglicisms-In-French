@@ -468,3 +468,4 @@
 | "Les community guidelines" | "Community guidelines" | https://vm.tiktok.com/ZSCAeDdT/ |
 | "AF" | "AF" (As fuck) | https://photos.app.goo.gl/DEm6iCXkQ7NeyeHy9 |
 | "Spill the tea" | "Spill the tea" | https://photos.app.goo.gl/DEm6iCXkQ7NeyeHy9 |
+| "Home trainer" | "Home trainer" (Bike) | https://vm.tiktok.com/ZSCc24DC/ |
