@@ -472,3 +472,4 @@
 | "Bullshit" | "Bullshit" | https://vm.tiktok.com/ZSCTuMaX/ |
 | "Lipsync" | "Lipsync" | https://vm.tiktok.com/ZSCT6T31/ |
 | "Depressed teen" | "Depressed teen" | https://vm.tiktok.com/ZSX8YtYH/ |
+| "Swaggy" | "Swaggy" | https://vm.tiktok.com/ZSXkeVsY/ |
