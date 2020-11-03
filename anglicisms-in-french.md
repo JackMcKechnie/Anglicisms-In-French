@@ -473,3 +473,4 @@
 | "Lipsync" | "Lipsync" | https://vm.tiktok.com/ZSCT6T31/ |
 | "Depressed teen" | "Depressed teen" | https://vm.tiktok.com/ZSX8YtYH/ |
 | "Swaggy" | "Swaggy" | https://vm.tiktok.com/ZSXkeVsY/ |
+| "Les finger tricks" | "Finger tricks" (Rubix cube) | https://vm.tiktok.com/ZSXhsXCY/ |
