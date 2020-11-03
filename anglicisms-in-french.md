@@ -474,3 +474,4 @@
 | "Depressed teen" | "Depressed teen" | https://vm.tiktok.com/ZSX8YtYH/ |
 | "Swaggy" | "Swaggy" | https://vm.tiktok.com/ZSXkeVsY/ |
 | "Les finger tricks" | "Finger tricks" (Rubix cube) | https://vm.tiktok.com/ZSXhsXCY/ |
+| "Le no nut November" | "No nut November" | https://vm.tiktok.com/ZSXkdB4P/ |
