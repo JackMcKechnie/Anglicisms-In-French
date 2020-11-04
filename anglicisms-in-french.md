@@ -475,3 +475,4 @@
 | "Swaggy" | "Swaggy" | https://vm.tiktok.com/ZSXkeVsY/ |
 | "Les finger tricks" | "Finger tricks" (Rubix cube) | https://vm.tiktok.com/ZSXhsXCY/ |
 | "Le no nut November" | "No nut November" | https://vm.tiktok.com/ZSXkdB4P/ |
+| "No stress" | "No stress" | https://vm.tiktok.com/ZSXmpbeo/ |
