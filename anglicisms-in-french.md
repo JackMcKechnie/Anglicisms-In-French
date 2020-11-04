@@ -476,3 +476,4 @@
 | "Les finger tricks" | "Finger tricks" (Rubix cube) | https://vm.tiktok.com/ZSXhsXCY/ |
 | "Le no nut November" | "No nut November" | https://vm.tiktok.com/ZSXkdB4P/ |
 | "No stress" | "No stress" | https://vm.tiktok.com/ZSXmpbeo/ |
+| "Une start-up" | "A start-up" | https://photos.app.goo.gl/EaiCLcNAcSU7YQsc9 |
