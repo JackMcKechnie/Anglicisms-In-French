@@ -486,3 +486,4 @@
 | "Nerd" | "Nerd" | https://vm.tiktok.com/ZS4parTo/ |
 | "Easy" | "Easy" | https://youtu.be/wum3t0Vi9dw 02:07 |
 | "Yummy" | "Yummy" | https://photos.app.goo.gl/1sJSEZbVmppeGFCr6 |
+| "On point" | "On point" | https://photos.app.goo.gl/feGW6wDrLZmUe67eA |
