@@ -485,3 +485,4 @@
 | "Face to face" | "Face to face" | https://vm.tiktok.com/ZS4pDs49/ |
 | "Nerd" | "Nerd" | https://vm.tiktok.com/ZS4parTo/ |
 | "Easy" | "Easy" | https://youtu.be/wum3t0Vi9dw 02:07 |
+| "Yummy" | "Yummy" | https://photos.app.goo.gl/1sJSEZbVmppeGFCr6 |
