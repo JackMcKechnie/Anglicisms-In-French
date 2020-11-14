@@ -488,3 +488,4 @@
 | "Yummy" | "Yummy" | https://photos.app.goo.gl/1sJSEZbVmppeGFCr6 |
 | "On point" | "On point" | https://photos.app.goo.gl/feGW6wDrLZmUe67eA |
 | "Under-review" | "Under-review" | https://vm.tiktok.com/ZSVByw4V/ |
+| "Mentally stable" | "Mentally stable" | https://vm.tiktok.com/ZSVpJC2o/ |
