@@ -490,3 +490,5 @@
 | "Under-review" | "Under-review" | https://vm.tiktok.com/ZSVByw4V/ |
 | "Mentally stable" | "Mentally stable" | https://vm.tiktok.com/ZSVpJC2o/ |
 | "Vibes" | "Vibes" | https://vm.tiktok.com/ZSVprmVu/ |
+| "Fuck it" | "Fuck it" | https://vm.tiktok.com/ZSVwkjUG/ |
+| "Bankrupt" | "Bankrupt" | https://vm.tiktok.com/ZSVwkjUG/ |
