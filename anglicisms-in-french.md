@@ -492,3 +492,4 @@
 | "Vibes" | "Vibes" | https://vm.tiktok.com/ZSVprmVu/ |
 | "Fuck it" | "Fuck it" | https://vm.tiktok.com/ZSVwkjUG/ |
 | "Bankrupt" | "Bankrupt" | https://vm.tiktok.com/ZSVwkjUG/ |
+| "Le main character" | "The main character" | https://vm.tiktok.com/ZSVwpGTy/ |
