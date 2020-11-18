@@ -493,3 +493,4 @@
 | "Fuck it" | "Fuck it" | https://vm.tiktok.com/ZSVwkjUG/ |
 | "Bankrupt" | "Bankrupt" | https://vm.tiktok.com/ZSVwkjUG/ |
 | "Le main character" | "The main character" | https://vm.tiktok.com/ZSVwpGTy/ |
+| "Badman" | "Badman" | https://vm.tiktok.com/ZSqHKnCr/ |
