@@ -494,3 +494,4 @@
 | "Bankrupt" | "Bankrupt" | https://vm.tiktok.com/ZSVwkjUG/ |
 | "Le main character" | "The main character" | https://vm.tiktok.com/ZSVwpGTy/ |
 | "Badman" | "Badman" | https://vm.tiktok.com/ZSqHKnCr/ |
+| "Cancel culture" | "Cancel culture" | https://vm.tiktok.com/ZSqsmhS2/ |
