@@ -496,3 +496,4 @@
 | "Badman" | "Badman" | https://vm.tiktok.com/ZSqHKnCr/ |
 | "Cancel culture" | "Cancel culture" | https://vm.tiktok.com/ZSqsmhS2/ |
 | "Touchy" | "Touchy" | https://youtu.be/DKaZ-i3UYqU 00:06 |
+| "Daily vlog" | "Daily vlog" | https://photos.app.goo.gl/zpUvSQu5J5ejQrHw6 |
