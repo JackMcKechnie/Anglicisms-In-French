@@ -497,3 +497,4 @@
 | "Cancel culture" | "Cancel culture" | https://vm.tiktok.com/ZSqsmhS2/ |
 | "Touchy" | "Touchy" | https://youtu.be/DKaZ-i3UYqU 00:06 |
 | "Daily vlog" | "Daily vlog" | https://photos.app.goo.gl/zpUvSQu5J5ejQrHw6 |
+| "Manager" | "Manager" | https://vm.tiktok.com/ZSbFaS3F/ |
