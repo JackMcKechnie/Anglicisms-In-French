@@ -503,3 +503,4 @@
 | "Iced coffee" | "Iced coffee" | https://vm.tiktok.com/ZSbQ87vc/ |
 | "Afraid" | "Afraid" | https://vm.tiktok.com/ZSbxwoMd/ |
 | "Gogo dancer" | "Gogo dancer" | https://vm.tiktok.com/ZSbsBNty/ |
+| "Speed climbing" | "Speed climbing" | https://photos.app.goo.gl/xVmwiyA9fdjCjgo18 |
