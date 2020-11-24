@@ -500,3 +500,4 @@
 | "Manager" | "Manager" | https://vm.tiktok.com/ZSbFaS3F/ |
 | "Breakout room" | "Breakout room" | https://vm.tiktok.com/ZSbSyg6f/ |
 | "Big pharma" | "Big pharma" | https://vm.tiktok.com/ZSbQj6NV/ |
+| "Iced coffee" | "Iced coffee" | https://vm.tiktok.com/ZSbQ87vc/ |
