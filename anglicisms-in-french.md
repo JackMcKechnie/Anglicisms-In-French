@@ -499,3 +499,4 @@
 | "Daily vlog" | "Daily vlog" | https://photos.app.goo.gl/zpUvSQu5J5ejQrHw6 |
 | "Manager" | "Manager" | https://vm.tiktok.com/ZSbFaS3F/ |
 | "Breakout room" | "Breakout room" | https://vm.tiktok.com/ZSbSyg6f/ |
+| "Big pharma" | "Big pharma" | https://vm.tiktok.com/ZSbQj6NV/ |
