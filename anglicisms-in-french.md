@@ -502,3 +502,4 @@
 | "Big pharma" | "Big pharma" | https://vm.tiktok.com/ZSbQj6NV/ |
 | "Iced coffee" | "Iced coffee" | https://vm.tiktok.com/ZSbQ87vc/ |
 | "Afraid" | "Afraid" | https://vm.tiktok.com/ZSbxwoMd/ |
+| "Gogo dancer" | "Gogo dancer" | https://vm.tiktok.com/ZSbsBNty/ |
