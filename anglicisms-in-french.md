@@ -505,3 +505,4 @@
 | "Gogo dancer" | "Gogo dancer" | https://vm.tiktok.com/ZSbsBNty/ |
 | "Speed climbing" | "Speed climbing" | https://photos.app.goo.gl/xVmwiyA9fdjCjgo18 |
 | "Cold pack" | "Cold pack" | https://photos.app.goo.gl/vmPVX9YaM4jEh7tY9 |
+| "Pumpkin" | "Pumpkin" | https://vm.tiktok.com/ZSgj7qPQ/ |
