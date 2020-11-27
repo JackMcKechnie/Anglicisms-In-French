@@ -508,3 +508,4 @@
 | "Pumpkin" | "Pumpkin" | https://vm.tiktok.com/ZSgj7qPQ/ |
 | "Time lapse" | "Time lapse" | https://vm.tiktok.com/ZSgjqcJB/ |
 | "Un step" | "Un step" | https://vm.tiktok.com/ZSgD7ohg/ |
+| "Les starting block" | "Starting blocks" | https://vm.tiktok.com/ZSgfPfJM/ |
