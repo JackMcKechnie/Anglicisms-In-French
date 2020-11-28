@@ -509,3 +509,4 @@
 | "Time lapse" | "Time lapse" | https://vm.tiktok.com/ZSgjqcJB/ |
 | "Un step" | "Un step" | https://vm.tiktok.com/ZSgD7ohg/ |
 | "Les starting block" | "Starting blocks" | https://vm.tiktok.com/ZSgfPfJM/ |
+| "Try on haul" | "Try on haul" | https://vm.tiktok.com/ZSgQb9Ah/ |
