@@ -511,3 +511,4 @@
 | "Les starting block" | "Starting blocks" | https://vm.tiktok.com/ZSgfPfJM/ |
 | "Try on haul" | "Try on haul" | https://vm.tiktok.com/ZSgQb9Ah/ |
 | "Free solo" | "Free solo" | https://photos.app.goo.gl/j6CR7Sj1NiKJeRYR9 |
+| "Duty Free" | "Duty free" | https://youtu.be/1gQJU4QodxQ 00:25 |
