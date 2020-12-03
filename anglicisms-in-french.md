@@ -521,3 +521,4 @@
 | "Cash" | "Cash" | https://vm.tiktok.com/ZSppYT2p/ |
 | "Native speaker" | "Native speaker" | https://photos.app.goo.gl/1vAYRpcp3xvASvdg7 |
 | "Where is" | "Where is" | https://photos.app.goo.gl/yVvSsfJ6RKsYtnLb9 |
+| "Self appreciation Sunday" | "Self appreciation Sunday" | https://vm.tiktok.com/ZSpsAUaD/ |
