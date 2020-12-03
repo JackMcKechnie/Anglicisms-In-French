@@ -518,3 +518,4 @@
 | "Mobile home" | "Mobile home" | https://vm.tiktok.com/ZSpguLjC/ |
 | "Lan" | "Lan" (Network) | https://vm.tiktok.com/ZSpp12DT/|
 | "Once again" | "Once again" | https://vm.tiktok.com/ZSppfEsd/ |
+| "Cash" | "Cash" | https://vm.tiktok.com/ZSppYT2p/ |
