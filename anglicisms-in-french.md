@@ -513,3 +513,4 @@
 | "Free solo" | "Free solo" | https://photos.app.goo.gl/j6CR7Sj1NiKJeRYR9 |
 | "Duty Free" | "Duty free" | https://youtu.be/1gQJU4QodxQ 00:25 |
 | "Instagramable" | "Instagramable" | https://vm.tiktok.com/ZSpHhp7m/ |
+| "See ya" | "See ya" | https://photos.app.goo.gl/wqqn1oETak6bnnrL9 |
