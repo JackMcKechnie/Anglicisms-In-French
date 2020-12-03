@@ -519,3 +519,5 @@
 | "Lan" | "Lan" (Network) | https://vm.tiktok.com/ZSpp12DT/|
 | "Once again" | "Once again" | https://vm.tiktok.com/ZSppfEsd/ |
 | "Cash" | "Cash" | https://vm.tiktok.com/ZSppYT2p/ |
+| "Native speaker" | "Native speaker" | https://photos.app.goo.gl/1vAYRpcp3xvASvdg7 |
+| "Where is" | "Where is" | https://photos.app.goo.gl/yVvSsfJ6RKsYtnLb9 |
