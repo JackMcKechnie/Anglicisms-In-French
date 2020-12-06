@@ -524,3 +524,4 @@
 | "Self appreciation Sunday" | "Self appreciation Sunday" | https://vm.tiktok.com/ZSpsAUaD/ |
 | "Smiley" | "Smiley" (Emoji) | https://youtu.be/hCFhBvx_dCA 03:04 |
 | "Daddy issues" | "Daddy issues" | https://vm.tiktok.com/ZSsjaoUE/ |
+| "Cosplay" | "Cosplay" | https://vm.tiktok.com/ZSsjAsk3/ |
