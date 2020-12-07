@@ -527,3 +527,5 @@
 | "Cosplay" | "Cosplay" | https://vm.tiktok.com/ZSsjAsk3/ |
 | "Drop" | "Drop" (Release) | https://vm.tiktok.com/ZSsUM9Nx/ |
 | "Rich" | "Rich" | https://vm.tiktok.com/ZSsf6V88/ |
+| "Regular" | "Regular" | https://vm.tiktok.com/ZSsVrMWR/ |
+| "Extra-large" | "Extra-large" | https://vm.tiktok.com/ZSsVrMWR/ |
