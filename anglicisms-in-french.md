@@ -530,3 +530,4 @@
 | "Regular" | "Regular" | https://vm.tiktok.com/ZSsVrMWR/ |
 | "Extra-large" | "Extra-large" | https://vm.tiktok.com/ZSsVrMWR/ |
 | "Shake my booty" | "Shake my booty" | https://vm.tiktok.com/ZSs7VBj3/ |
+| "Moonwalk" | "Moonwalk" | https://vm.tiktok.com/ZSs7ncPk/ |
