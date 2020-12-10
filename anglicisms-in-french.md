@@ -533,3 +533,4 @@
 | "Moonwalk" | "Moonwalk" | https://vm.tiktok.com/ZSs7ncPk/ |
 | "Le Safety car" | "The safety car" | https://vm.tiktok.com/ZSGe9rg7/ |
 | "Boxer" | "To box" (Formula 1) | https://vm.tiktok.com/ZSGe9rg7/ |
+| "Un minibar" | "Un minibar" | https://youtu.be/CRsyVdgfUJw 02:31 |
