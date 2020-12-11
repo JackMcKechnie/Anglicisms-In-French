@@ -535,3 +535,4 @@
 | "Boxer" | "To box" (Formula 1) | https://vm.tiktok.com/ZSGe9rg7/ |
 | "Un minibar" | "Un minibar" | https://youtu.be/CRsyVdgfUJw 02:31 |
 | "Se pitcher" | "To pitch" (An idea) | https://vm.tiktok.com/ZSGSJRt6/ |
+| "Ring light" | "Ring light" | https://youtu.be/CsTcbEgqCUU 06:43 |
