@@ -536,3 +536,4 @@
 | "Un minibar" | "Un minibar" | https://youtu.be/CRsyVdgfUJw 02:31 |
 | "Se pitcher" | "To pitch" (An idea) | https://vm.tiktok.com/ZSGSJRt6/ |
 | "Ring light" | "Ring light" | https://youtu.be/CsTcbEgqCUU 06:43 |
+| "Icy" | "Icy" | https://open.spotify.com/track/5YOD4vDsdNWXaQ93ydD931?si=CxnbbpOSS56yhKAeE7Jc2Q&utm_source=copy-link 01:25 |
