@@ -538,3 +538,4 @@
 | "Ring light" | "Ring light" | https://youtu.be/CsTcbEgqCUU 06:43 |
 | "Icy" | "Icy" | https://open.spotify.com/track/5YOD4vDsdNWXaQ93ydD931?si=CxnbbpOSS56yhKAeE7Jc2Q&utm_source=copy-link 01:25 |
 | "Happy" | "Happy" | https://vm.tiktok.com/ZSGmoa4w/ |
+| "Pow" | "Pow" (Powder, snow) | https://youtu.be/fz4E_0F3fas 00:54 |
