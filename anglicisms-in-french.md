@@ -541,3 +541,4 @@
 | "Pow" | "Pow" (Powder, snow) | https://youtu.be/fz4E_0F3fas 00:54 |
 | "Girls" | "Girls" | https://vm.tiktok.com/ZSGc2TR8/ |
 | "Rare aesthetic" | "Rare aesthetic" | https://vm.tiktok.com/ZSGc2TR8/ |
+| "Quick" | "Quick" | https://vm.tiktok.com/ZStBtdQY/ |
