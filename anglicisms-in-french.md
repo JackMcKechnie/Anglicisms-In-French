@@ -543,3 +543,4 @@
 | "Rare aesthetic" | "Rare aesthetic" | https://vm.tiktok.com/ZSGc2TR8/ |
 | "Quick" | "Quick" | https://vm.tiktok.com/ZStBtdQY/ |
 | "Hip-hop" | "Hiphop" | https://vm.tiktok.com/ZStHXSYj/ |
+| "Le frontliner" | "Front liner" | https://vm.tiktok.com/ZStpPgY9/ |
