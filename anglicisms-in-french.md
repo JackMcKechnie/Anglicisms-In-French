@@ -546,3 +546,4 @@
 | "Le frontliner" | "Front liner" | https://vm.tiktok.com/ZStpPgY9/ |
 | "Tip top" | "Tip top" | https://vm.tiktok.com/ZStpSjug/ |
 | "For life" | "For life" | https://vm.tiktok.com/ZStpeLj3/ |
+| "Love language" | "Love language" | https://vm.tiktok.com/ZStpcaXq/ |
