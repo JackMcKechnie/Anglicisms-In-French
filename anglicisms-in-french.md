@@ -551,3 +551,4 @@
 | "Borderline" | "Borderline" | https://youtu.be/W1S00SBFU4k 05:58 |
 | "Level" | "Level" | https://vm.tiktok.com/ZStwpE1G/ |
 | "Reminder" | "Reminder" | https://vm.tiktok.com/ZStKLfqU/ |
+| "Doobie" | "Doobie" | https://open.spotify.com/track/2bYI7pBxK76J4uuJjJaW25?si=_wmENvODSLqmsFT0uZkYLg&utm_source=copy-link 01:10 |
