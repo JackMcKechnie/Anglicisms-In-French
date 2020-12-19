@@ -552,3 +552,4 @@
 | "Level" | "Level" | https://vm.tiktok.com/ZStwpE1G/ |
 | "Reminder" | "Reminder" | https://vm.tiktok.com/ZStKLfqU/ |
 | "Doobie" | "Doobie" | https://open.spotify.com/track/2bYI7pBxK76J4uuJjJaW25?si=_wmENvODSLqmsFT0uZkYLg&utm_source=copy-link 01:10 |
+| "Urbex" | "Urbex" | https://www.ledauphine.com/insolite/2020/12/17/urbex-cluses-une-activite-qui-flirte-avec-l-illegalite-vensee-the-world-le-fait-et-relate-ses-explorations-en-video?utm_medium=Social&utm_source=Facebook#Echobox=1608214892 |
