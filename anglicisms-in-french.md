@@ -555,3 +555,4 @@
 | "Urbex" | "Urbex" | https://www.ledauphine.com/insolite/2020/12/17/urbex-cluses-une-activite-qui-flirte-avec-l-illegalite-vensee-the-world-le-fait-et-relate-ses-explorations-en-video?utm_medium=Social&utm_source=Facebook#Echobox=1608214892 |
 | "Wifey" | "Wifey" | https://youtu.be/DKaZ-i3UYqU 03:40 |
 | "No homo" | "No homo" | https://youtu.be/DKaZ-i3UYqU 06:20 |
+| "Queer" | "Queer" | https://vm.tiktok.com/ZSnFwdo9/ |
