@@ -556,3 +556,5 @@
 | "Wifey" | "Wifey" | https://youtu.be/DKaZ-i3UYqU 03:40 |
 | "No homo" | "No homo" | https://youtu.be/DKaZ-i3UYqU 06:20 |
 | "Queer" | "Queer" | https://vm.tiktok.com/ZSnFwdo9/ |
+| "Edition" | "Edition" | https://vm.tiktok.com/ZSnhNAp4/ |
+| "Stretching" | "Stretching" | https://vm.tiktok.com/ZSnhNAp4/ |
