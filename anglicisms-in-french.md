@@ -560,3 +560,4 @@
 | "Stretching" | "Stretching" | https://vm.tiktok.com/ZSnhNAp4/ |
 | "Le gaming" | "Gaming" | https://vm.tiktok.com/ZSnk7xaX/ |
 | "States" | "States" (USA) | https://vm.tiktok.com/ZSn9WcHA/ |
+| "Six pack" | "Six pack" | https://vm.tiktok.com/ZSn9cn7p/ |
