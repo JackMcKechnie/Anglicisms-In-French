@@ -562,3 +562,4 @@
 | "States" | "States" (USA) | https://vm.tiktok.com/ZSn9WcHA/ |
 | "Six pack" | "Six pack" | https://vm.tiktok.com/ZSn9cn7p/ |
 | "CEO of" | "CEO of" (Tiktok) | https://vm.tiktok.com/ZSnxYuo7/ |
+| "Kick" | "Kick" | https://vm.tiktok.com/ZSnx8qYt/ |
