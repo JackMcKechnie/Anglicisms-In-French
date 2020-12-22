@@ -563,3 +563,4 @@
 | "Six pack" | "Six pack" | https://vm.tiktok.com/ZSn9cn7p/ |
 | "CEO of" | "CEO of" (Tiktok) | https://vm.tiktok.com/ZSnxYuo7/ |
 | "Kick" | "Kick" | https://vm.tiktok.com/ZSnx8qYt/ |
+| "Dry tooling" | "Dry tooling" | https://photos.app.goo.gl/N8c3cavSLhuwjL8p6 |
