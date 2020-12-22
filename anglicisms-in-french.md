@@ -559,3 +559,4 @@
 | "Edition" | "Edition" | https://vm.tiktok.com/ZSnhNAp4/ |
 | "Stretching" | "Stretching" | https://vm.tiktok.com/ZSnhNAp4/ |
 | "Le gaming" | "Gaming" | https://vm.tiktok.com/ZSnk7xaX/ |
+| "States" | "States" (USA) | https://vm.tiktok.com/ZSn9WcHA/ |
