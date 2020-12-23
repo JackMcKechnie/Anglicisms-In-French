@@ -566,3 +566,4 @@
 | "Dry tooling" | "Dry tooling" | https://photos.app.goo.gl/N8c3cavSLhuwjL8p6 |
 | "Pause" | "Pause" | https://vm.tiktok.com/ZSns8cwS/ |
 | "Night" | "Night" | https://vm.tiktok.com/ZSns9tbg/ |
+| "Rice cooker" | "Rice cooker" | https://vm.tiktok.com/ZSnswar2/ |
