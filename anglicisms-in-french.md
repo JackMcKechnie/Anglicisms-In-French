@@ -570,3 +570,4 @@
 | "Handmade" | "Handmade" | https://vm.tiktok.com/ZSnwMK9R/ |
 | "Pack" | "Pack" (Fifa) |https://photos.app.goo.gl/wWRJjsgWcZTcW5CA9 |
 | "Un live action" | "Live action" | https://vm.tiktok.com/ZSW8nRGW/ |
+| "La Touch bar" | "Touch bar" | https://vm.tiktok.com/ZSWLdUdx/ |
