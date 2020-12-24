@@ -572,3 +572,4 @@
 | "Un live action" | "Live action" | https://vm.tiktok.com/ZSW8nRGW/ |
 | "La Touch bar" | "Touch bar" | https://vm.tiktok.com/ZSWLdUdx/ |
 | "Le rush" | "Rush" | https://www.facebook.com/224160734265875/posts/4214398975242011/ |
+| "No deal" | "No deal" | https://www.instagram.com/p/CJL_nw7HYB_/?igshid=1rau7wnicyv5y |
