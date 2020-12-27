@@ -575,3 +575,4 @@
 | "No deal" | "No deal" | https://www.instagram.com/p/CJL_nw7HYB_/?igshid=1rau7wnicyv5y |
 | "Le boxing day" | "Boxing day" | https://photos.app.goo.gl/So7bimo9feaffxnc8 |
 | "Hard-discount" | "Heavy discount" | https://www.facebook.com/74320266411/posts/10159711907161412/ |
+| "Sexy lady" | "Sexy lady" | https://vm.tiktok.com/ZSWHD8eL/ |
