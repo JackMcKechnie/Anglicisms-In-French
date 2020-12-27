@@ -578,3 +578,4 @@
 | "Sexy lady" | "Sexy lady" | https://vm.tiktok.com/ZSWHD8eL/ |
 | "Backup dancer" | "Backup dancer" | https://vm.tiktok.com/ZSWHQ3xS/ |
 | "Tour" | "Tour" | https://vm.tiktok.com/ZSWHQ3xS/ |
+| "Fuck that" | "Fuck that" | https://photos.app.goo.gl/w1QCjtXCvZd5225C9 |
