@@ -583,3 +583,4 @@
 | "Next level" | "Next level" | https://vm.tiktok.com/ZS7YXD6F/ |
 | "Bad mood" | "Bad mood" | https://vm.tiktok.com/ZS7UdGYV/ |
 | "Motivational" | "Motivational" | https://vm.tiktok.com/ZS7Qgm1d/ |
+| "Wait for it" | "Wait for it" | https://vm.tiktok.com/ZS7QTjT1/ |
