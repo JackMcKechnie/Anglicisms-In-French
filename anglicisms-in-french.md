@@ -584,3 +584,4 @@
 | "Bad mood" | "Bad mood" | https://vm.tiktok.com/ZS7UdGYV/ |
 | "Motivational" | "Motivational" | https://vm.tiktok.com/ZS7Qgm1d/ |
 | "Wait for it" | "Wait for it" | https://vm.tiktok.com/ZS7QTjT1/ |
+| "Djset" | "DJ set" | https://vm.tiktok.com/ZS7CeQkn/ |
