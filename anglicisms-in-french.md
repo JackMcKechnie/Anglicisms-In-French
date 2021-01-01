@@ -582,3 +582,4 @@
 | "Stand by" | "Stand by" | https://www.facebook.com/groups/1954882001311644/permalink/2295720287227812/ |
 | "Next level" | "Next level" | https://vm.tiktok.com/ZS7YXD6F/ |
 | "Bad mood" | "Bad mood" | https://vm.tiktok.com/ZS7UdGYV/ |
+| "Motivational" | "Motivational" | https://vm.tiktok.com/ZS7Qgm1d/ |
