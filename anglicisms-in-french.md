@@ -585,3 +585,4 @@
 | "Motivational" | "Motivational" | https://vm.tiktok.com/ZS7Qgm1d/ |
 | "Wait for it" | "Wait for it" | https://vm.tiktok.com/ZS7QTjT1/ |
 | "Djset" | "DJ set" | https://vm.tiktok.com/ZS7CeQkn/ |
+| "Last day" | "Last day" | https://vm.tiktok.com/ZS7GhYow/ |
