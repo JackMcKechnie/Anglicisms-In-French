@@ -586,3 +586,4 @@
 | "Wait for it" | "Wait for it" | https://vm.tiktok.com/ZS7QTjT1/ |
 | "Djset" | "DJ set" | https://vm.tiktok.com/ZS7CeQkn/ |
 | "Last day" | "Last day" | https://vm.tiktok.com/ZS7GhYow/ |
+| "Le boyfriend" | "Boyfriend" | https://vm.tiktok.com/ZS7GcTLu/ |
