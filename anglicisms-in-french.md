@@ -587,3 +587,4 @@
 | "Djset" | "DJ set" | https://vm.tiktok.com/ZS7CeQkn/ |
 | "Last day" | "Last day" | https://vm.tiktok.com/ZS7GhYow/ |
 | "Le boyfriend" | "Boyfriend" | https://vm.tiktok.com/ZS7GcTLu/ |
+| "Wholesome" | "Wholesome" | https://photos.app.goo.gl/ZHiAcPevp9JXFCgU7 |
