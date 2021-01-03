@@ -589,3 +589,4 @@
 | "Le boyfriend" | "Boyfriend" | https://vm.tiktok.com/ZS7GcTLu/ |
 | "Wholesome" | "Wholesome" | https://photos.app.goo.gl/ZHiAcPevp9JXFCgU7 |
 | "Showcase" | "Showcase" | https://vm.tiktok.com/ZS7osyPH/ |
+| "You do you" | "You do you" | https://vm.tiktok.com/ZSvNLRKy/ |
