@@ -592,3 +592,4 @@
 | "You do you" | "You do you" | https://vm.tiktok.com/ZSvNLRKy/ |
 | "I'm back" | "I'm back" | https://vm.tiktok.com/ZSv21pvD/ |
 | "Tie dye" | "Tie dye" | https://vm.tiktok.com/ZSv6JPFF/ |
+| "Delete" | "Delete" | https://vm.tiktok.com/ZSv6esHW/ |
