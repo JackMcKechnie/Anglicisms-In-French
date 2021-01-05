@@ -595,3 +595,4 @@
 | "Delete" | "Delete" | https://vm.tiktok.com/ZSv6esHW/ |
 | "Bypass" | "Bypass" | https://vm.tiktok.com/ZSvjEtqM/ |
 | "Wingsuiter" | "Wingsuiter" (Sport) | https://photos.app.goo.gl/g7fNSxgvoJbW4o7w5 |
+| "Ass" | "Ass" (Bottom) | https://vm.tiktok.com/ZSvPNpyk/ |
