@@ -596,3 +596,4 @@
 | "Bypass" | "Bypass" | https://vm.tiktok.com/ZSvjEtqM/ |
 | "Wingsuiter" | "Wingsuiter" (Sport) | https://photos.app.goo.gl/g7fNSxgvoJbW4o7w5 |
 | "Ass" | "Ass" (Bottom) | https://vm.tiktok.com/ZSvPNpyk/ |
+| "Holidays" | "Holidays" | https://vm.tiktok.com/ZSvVX3gq/ |
