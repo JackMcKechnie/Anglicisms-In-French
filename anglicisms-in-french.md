@@ -597,3 +597,4 @@
 | "Wingsuiter" | "Wingsuiter" (Sport) | https://photos.app.goo.gl/g7fNSxgvoJbW4o7w5 |
 | "Ass" | "Ass" (Bottom) | https://vm.tiktok.com/ZSvPNpyk/ |
 | "Holidays" | "Holidays" | https://vm.tiktok.com/ZSvVX3gq/ |
+| "Adder" | "To add" (On social media) | https://vm.tiktok.com/ZSvVg4kE/ |
