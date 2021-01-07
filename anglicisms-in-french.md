@@ -600,3 +600,4 @@
 | "Adder" | "To add" (On social media) | https://vm.tiktok.com/ZSvVg4kE/ |
 | "Un bad news" | "Bad news" | https://vm.tiktok.com/ZSv3CyXc/ |
 | "Gloss" | "Gloss" (Lipstick) | https://vm.tiktok.com/ZSv3CpbF/ |
+| "Goal" |  "Goal" (Aim) | https://vm.tiktok.com/ZSv3adeL/ |
