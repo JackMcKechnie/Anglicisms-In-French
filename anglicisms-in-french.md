@@ -598,3 +598,4 @@
 | "Ass" | "Ass" (Bottom) | https://vm.tiktok.com/ZSvPNpyk/ |
 | "Holidays" | "Holidays" | https://vm.tiktok.com/ZSvVX3gq/ |
 | "Adder" | "To add" (On social media) | https://vm.tiktok.com/ZSvVg4kE/ |
+| "Un bad news" | "Bad news" | https://vm.tiktok.com/ZSv3CyXc/ |
