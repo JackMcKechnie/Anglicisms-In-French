@@ -607,3 +607,4 @@
 | "Birthday twin" | "Birthday twin" | https://vm.tiktok.com/ZScGrmBR/ |
 | "Fat ass" | "Fat ass" | https://vm.tiktok.com/ZScswRHY/ |
 | "Because" | "Because" | https://vm.tiktok.com/ZScGTruP/ |
+| "Shit" | "Shit" | https://vm.tiktok.com/ZScGEwQA/ |
