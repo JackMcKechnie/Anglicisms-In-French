@@ -603,3 +603,4 @@
 | "Goal" |  "Goal" (Aim) | https://vm.tiktok.com/ZSv3adeL/ |
 | "Soft" | "Soft" (Drink) | https://vm.tiktok.com/ZScAR2dF/ |
 | "Le male gaze" | "The male gaze" | https://vm.tiktok.com/ZScxYcoT/ |
+| "Une tick list" | "Tick list " | https://youtu.be/plezLXa4jHM 04:47 |
