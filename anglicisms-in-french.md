@@ -612,3 +612,4 @@
 | "Crash test" | "Crash test" | https://vm.tiktok.com/ZSct4BqV/ |
 | "Polly pocket" | "Polly pocket" | https://vm.tiktok.com/ZS3jwTGX/ |
 | "Une rave party" | "Rave party" | https://vm.tiktok.com/ZS3jW386/ |
+| "Jackpot" | "Jackpot" | https://vm.tiktok.com/ZS3yh7YW/ |
