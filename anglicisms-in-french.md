@@ -615,3 +615,4 @@
 | "Jackpot" | "Jackpot" | https://vm.tiktok.com/ZS3yh7YW/ |
 | "Amazing" | "Amazing" | https://vm.tiktok.com/ZS334oLg/ |
 | "Overline" | "Overline" (Lipstick) | https://vm.tiktok.com/ZSTS7dUw/ |
+| "Thumbs up" | "Thumbs up" | https://vm.tiktok.com/ZSTxqgjp/ |
