@@ -617,3 +617,4 @@
 | "Overline" | "Overline" (Lipstick) | https://vm.tiktok.com/ZSTS7dUw/ |
 | "Thumbs up" | "Thumbs up" | https://vm.tiktok.com/ZSTxqgjp/ |
 | "Dark web" | "Dark web" | https://vm.tiktok.com/ZSTxtuo4/ |
+| "Banned" | "Banned" | https://vm.tiktok.com/ZSTpV9R4/ |
