@@ -620,3 +620,4 @@
 | "Banned" | "Banned" | https://vm.tiktok.com/ZSTpV9R4/ |
 | "Self control" | "Self control" | https://vm.tiktok.com/ZSTskeGJ/ |
 | "Un break" | "Break" | https://vm.tiktok.com/ZSTs2MJm/ |
+| "Fit girl" | "Fit girl" | https://vm.tiktok.com/ZSTtoa7s/ |
