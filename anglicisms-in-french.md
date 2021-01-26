@@ -628,3 +628,4 @@
 | "Sista" | "Sista" | https://vm.tiktok.com/ZSwmrwLK/ |
 | "Un doggy" | "Doggy" | https://photos.app.goo.gl/hQ7cB75qUb3YaDrn9 |
 | "Les boobies" | "Boobs" | https://vm.tiktok.com/ZSwpvxVJ/ |
+| "Un small bank" | "Small bank" | https://vm.tiktok.com/ZSKSqnCJ/ |
