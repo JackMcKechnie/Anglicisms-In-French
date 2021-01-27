@@ -630,3 +630,4 @@
 | "Les boobies" | "Boobs" | https://vm.tiktok.com/ZSwpvxVJ/ |
 | "Un small bank" | "Small bank" | https://vm.tiktok.com/ZSKSqnCJ/ |
 | "Full pack" | "Full pack" | https://vm.tiktok.com/ZSK55XWp/ |
+| "Hooded" | "Hooded" | https://vm.tiktok.com/ZMJE4NW1K/ |
