@@ -629,3 +629,4 @@
 | "Un doggy" | "Doggy" | https://photos.app.goo.gl/hQ7cB75qUb3YaDrn9 |
 | "Les boobies" | "Boobs" | https://vm.tiktok.com/ZSwpvxVJ/ |
 | "Un small bank" | "Small bank" | https://vm.tiktok.com/ZSKSqnCJ/ |
+| "Full pack" | "Full pack" | https://vm.tiktok.com/ZSK55XWp/ |
