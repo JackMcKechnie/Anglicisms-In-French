@@ -637,3 +637,4 @@
 | "Link words" | "Link words" | https://vm.tiktok.com/ZMJoF5Jfg/ |
 | "Le flyer" | "Flyer" | https://vm.tiktok.com/ZMJoY9Lq6/ |
 | "Bling ring" | "Bling rings" | https://vm.tiktok.com/ZMJoUvwr5/ |
+| "Surprise motherfucker" | "Surprise motherfucker" | https://vm.tiktok.com/ZMJoCPYsH/ |
