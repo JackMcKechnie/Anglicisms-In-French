@@ -640,3 +640,4 @@
 | "Surprise motherfucker" | "Surprise motherfucker" | https://vm.tiktok.com/ZMJoCPYsH/ |
 | "Exchange traded funds" | "Exchange traded funds" | https://vm.tiktok.com/ZMJoc7WPk/ |
 | "I guess" | "I guess" | https://vm.tiktok.com/ZMJoT9doy/ |
+| "Die" | "Die" | https://vm.tiktok.com/ZMJowFEQs/ |
