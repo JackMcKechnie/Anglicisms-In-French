@@ -639,3 +639,4 @@
 | "Bling ring" | "Bling rings" | https://vm.tiktok.com/ZMJoUvwr5/ |
 | "Surprise motherfucker" | "Surprise motherfucker" | https://vm.tiktok.com/ZMJoCPYsH/ |
 | "Exchange traded funds" | "Exchange traded funds" | https://vm.tiktok.com/ZMJoc7WPk/ |
+| "I guess" | "I guess" | https://vm.tiktok.com/ZMJoT9doy/ |
