@@ -642,3 +642,5 @@
 | "I guess" | "I guess" | https://vm.tiktok.com/ZMJoT9doy/ |
 | "Die" | "Die" | https://vm.tiktok.com/ZMJowFEQs/ |
 | "Kiss" | "Kiss" | https://vm.tiktok.com/ZMJowkQ3W/ |
+| "It's good" | "It's good" |  https://vm.tiktok.com/ZMJoK1noR/ |
+| "It's complicated" | "It's complicated" | https://vm.tiktok.com/ZMJoK1noR/ |
