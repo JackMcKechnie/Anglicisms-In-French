@@ -641,3 +641,4 @@
 | "Exchange traded funds" | "Exchange traded funds" | https://vm.tiktok.com/ZMJoc7WPk/ |
 | "I guess" | "I guess" | https://vm.tiktok.com/ZMJoT9doy/ |
 | "Die" | "Die" | https://vm.tiktok.com/ZMJowFEQs/ |
+| "Kiss" | "Kiss" | https://vm.tiktok.com/ZMJowkQ3W/ |
