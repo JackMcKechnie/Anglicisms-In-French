@@ -644,3 +644,4 @@
 | "Kiss" | "Kiss" | https://vm.tiktok.com/ZMJowkQ3W/ |
 | "It's good" | "It's good" |  https://vm.tiktok.com/ZMJoK1noR/ |
 | "It's complicated" | "It's complicated" | https://vm.tiktok.com/ZMJoK1noR/ |
+| "Everything is OK" | "Everything is OK" | https://vm.tiktok.com/ZMJoERyyd/ |
