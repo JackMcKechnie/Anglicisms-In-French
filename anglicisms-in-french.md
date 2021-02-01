@@ -647,3 +647,4 @@
 | "Everything is OK" | "Everything is OK" | https://vm.tiktok.com/ZMJoERyyd/ |
 | "Shitpost" | "Shitpost" | https://www.twitch.tv/videos/895545442 00:17:29 |
 | "What else" | "What else" | https://www.twitch.tv/videos/895545442 00:18:47 |
+| "Ladies first" | "Ladies first" | https://www.youtube.com/watch?v=XCGrQPadrRc&ab_channel=Brut 00:03 |
