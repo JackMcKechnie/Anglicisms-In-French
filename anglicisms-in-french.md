@@ -648,3 +648,4 @@
 | "Shitpost" | "Shitpost" | https://www.twitch.tv/videos/895545442 00:17:29 |
 | "What else" | "What else" | https://www.twitch.tv/videos/895545442 00:18:47 |
 | "Ladies first" | "Ladies first" | https://www.youtube.com/watch?v=XCGrQPadrRc&ab_channel=Brut 00:03 |
+| "Dark kitchens" | "Dark kitchens" | https://food.konbini.com/story/le-jour-ou-les-dark-kitchens-ont-pris-le-controle?utm_campaign=socialflow&utm_medium=social&utm_source=konbini_fb |
