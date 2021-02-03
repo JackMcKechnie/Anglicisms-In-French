@@ -651,3 +651,6 @@
 | "Dark kitchens" | "Dark kitchens" | https://food.konbini.com/story/le-jour-ou-les-dark-kitchens-ont-pris-le-controle?utm_campaign=socialflow&utm_medium=social&utm_source=konbini_fb |
 | "Please" | "Please" | https://photos.app.goo.gl/RjoALo4WkgebbZBMA |
 | "Large" | "Large" | https://vm.tiktok.com/ZMeJ2xHDg/ |
+| "Trigger warning" | "Trigger warning" | https://vm.tiktok.com/ZMeJjwh8m/ |
+| "By the way" | "By the way" | https://vm.tiktok.com/ZMeJjwh8m/ |
+| "Save" | "Save" | https://vm.tiktok.com/ZMeJjwh8m/ |
