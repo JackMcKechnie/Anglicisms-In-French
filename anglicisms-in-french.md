@@ -656,3 +656,4 @@
 | "Save" | "Save" | https://vm.tiktok.com/ZMeJjwh8m/ |
 | "Nail art" | "Nail art" | https://vm.tiktok.com/ZMeJvueyf/ |
 | "Cash investigation" | "Cash investigation" | https://www.leparisien.fr/culture-loisirs/tv/attaque-cash-investigation-sera-bien-diffuse-ce-jeudi-soir-sur-france-2-04-02-2021-8423089.php#xtor=AD-1481423553 |
+| "Friendly" | "Friendly" | https://photos.app.goo.gl/niC7Pd1oVVa8Zj1T7 |
