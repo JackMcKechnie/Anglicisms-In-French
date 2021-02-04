@@ -654,3 +654,4 @@
 | "Trigger warning" | "Trigger warning" | https://vm.tiktok.com/ZMeJjwh8m/ |
 | "By the way" | "By the way" | https://vm.tiktok.com/ZMeJjwh8m/ |
 | "Save" | "Save" | https://vm.tiktok.com/ZMeJjwh8m/ |
+| "Nail art" | "Nail art" | https://vm.tiktok.com/ZMeJvueyf/ |
