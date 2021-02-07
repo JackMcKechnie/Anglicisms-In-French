@@ -665,3 +665,4 @@
 | "Fifty fifty" | "Fifty fifty" | https://youtu.be/P_qbi9EImzM 06:59 |
 | "Management" | "Management" | https://youtu.be/P_qbi9EImzM 09:07 |
 | "I'm glowing" | "I'm glowing" | https://vm.tiktok.com/ZMeecoC9V/ |
+| "Le goodweird" | "Goodweird" | https://www.lsa-conso.fr/cool-et-bizarre-a-la-fois-voici-le-goodweird-infographie,217287 |
