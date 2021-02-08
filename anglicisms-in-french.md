@@ -669,3 +669,4 @@
 | "Lost and found" | "Lost and found | https://photos.app.goo.gl/EKNrRL11bmwvxipV8 |
 | "Gay"| "Gay" | https://vm.tiktok.com/ZMedhhPwj/ |
 | "So hot" | "So hot" | https://vm.tiktok.com/ZMedhVFr2/ |
+| "No shit sherlock" | "No shit sherlock" | https://vm.tiktok.com/ZMedkBEwS/ |
