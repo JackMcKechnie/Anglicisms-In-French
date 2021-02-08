@@ -667,3 +667,4 @@
 | "I'm glowing" | "I'm glowing" | https://vm.tiktok.com/ZMeecoC9V/ |
 | "Le goodweird" | "Goodweird" | https://www.lsa-conso.fr/cool-et-bizarre-a-la-fois-voici-le-goodweird-infographie,217287 |
 | "Lost and found" | "Lost and found | https://photos.app.goo.gl/EKNrRL11bmwvxipV8 |
+| "Gay"| "Gay" | https://vm.tiktok.com/ZMedhhPwj/ |
