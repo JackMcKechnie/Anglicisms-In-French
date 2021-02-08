@@ -670,3 +670,4 @@
 | "Gay"| "Gay" | https://vm.tiktok.com/ZMedhhPwj/ |
 | "So hot" | "So hot" | https://vm.tiktok.com/ZMedhVFr2/ |
 | "No shit sherlock" | "No shit sherlock" | https://vm.tiktok.com/ZMedkBEwS/ |
+| "Mind you" | "Mind you" | https://vm.tiktok.com/ZMedmjpeW/ |
