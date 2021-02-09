@@ -672,3 +672,5 @@
 | "No shit sherlock" | "No shit sherlock" | https://vm.tiktok.com/ZMedkBEwS/ |
 | "Mind you" | "Mind you" | https://vm.tiktok.com/ZMedmjpeW/ |
 | "Dating" | "Dating" | https://vm.tiktok.com/ZMedcC1La/ |
+| "Jam sessions" | "Jam sessions" | https://photos.app.goo.gl/GFzzXnjcKE1LZK3E9 |
+| "High-slackline" | "High-slackline" | https://photos.app.goo.gl/GFzzXnjcKE1LZK3E9 |
