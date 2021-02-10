@@ -676,3 +676,4 @@
 | "High-slackline" | "High-slackline" | https://photos.app.goo.gl/GFzzXnjcKE1LZK3E9 |
 | "Golden Wednesday" | "Golden Wednesday" | https://vm.tiktok.com/ZMedwEQV6/ |
 | "Une good idea" | "Good idea" | https://open.spotify.com/track/0WFlQSJt7LsmaUmwCFAiuj?si=PSr4o9aAQXyxqlIpV06zmA 00:38 |
+| "Mass media" | "Mass media" | https://emptybookshelves.wordpress.com/2012/12/25/la-logique-du-pere-noel/ Jean Baudrillard, Le système des objets, 1968 |
