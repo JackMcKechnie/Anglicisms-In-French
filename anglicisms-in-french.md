@@ -682,3 +682,4 @@
 | " Sniffer" | "To sniff" | https://www.youtube.com/watch?v=7MWIvzEWVGw&ab_channel=FranceInter 01:03 |
 | "Stop being poor" | "Stop being poor" | https://www.youtube.com/watch?v=7MWIvzEWVGw&ab_channel=FranceInter 01:49 | 
 | "Un backstory" | "Un backstory" |https://www.youtube.com/watch?v=i2TN8gPsdeY&ab_channel=FranceInter 00:34 |
+| "Simple pleasures" | "Simple pleasures" | https://www.youtube.com/watch?v=i2TN8gPsdeY&ab_channel=FranceInter 02:09 |
