@@ -675,3 +675,4 @@
 | "Jam sessions" | "Jam sessions" | https://photos.app.goo.gl/GFzzXnjcKE1LZK3E9 |
 | "High-slackline" | "High-slackline" | https://photos.app.goo.gl/GFzzXnjcKE1LZK3E9 |
 | "Golden Wednesday" | "Golden Wednesday" | https://vm.tiktok.com/ZMedwEQV6/ |
+| "Une good idea" | "Good idea" | https://open.spotify.com/track/0WFlQSJt7LsmaUmwCFAiuj?si=PSr4o9aAQXyxqlIpV06zmA 00:38 |
