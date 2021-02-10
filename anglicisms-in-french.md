@@ -678,3 +678,4 @@
 | "Une good idea" | "Good idea" | https://open.spotify.com/track/0WFlQSJt7LsmaUmwCFAiuj?si=PSr4o9aAQXyxqlIpV06zmA 00:38 |
 | "Mass media" | "Mass media" | https://emptybookshelves.wordpress.com/2012/12/25/la-logique-du-pere-noel/ Jean Baudrillard, Le système des objets, 1968 |
 | "Open space" | "Open space" | https://www.youtube.com/watch?v=uBOzvD_GD2c&ab_channel=FranceInter 02:55 | 
+| "Team building" | "Team building" | https://www.youtube.com/watch?v=uBOzvD_GD2c&ab_channel=FranceInter 03:50 |
