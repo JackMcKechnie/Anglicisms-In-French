@@ -685,3 +685,5 @@
 | "Simple pleasures" | "Simple pleasures" | https://www.youtube.com/watch?v=i2TN8gPsdeY&ab_channel=FranceInter 02:09 |
 | "Never forget" | "Never forget" | https://www.youtube.com/watch?v=i2TN8gPsdeY&ab_channel=FranceInter 03:30 | 
 | "Sunk cost fallacy" | "Sunk cost fallacy" | https://vm.tiktok.com/ZMeRcmrcQ/ |
+| S&P 500 | S&P 500 | https://vm.tiktok.com/ZMeRoqUyY/ |
+| "Le trading" | "Trading" | https://photos.app.goo.gl/eNmh7ASCkTPqtoWX7 |
