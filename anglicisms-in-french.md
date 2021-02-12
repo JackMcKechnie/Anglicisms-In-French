@@ -691,3 +691,4 @@
 | "Un shooter" | "Gunman" | https://vm.tiktok.com/ZMe825Q19/ |
 | "Un gun" | "Gun" | https://vm.tiktok.com/ZMe825Q19/ |
 | "Le shooting" | "Shooting" | https://vm.tiktok.com/ZMe825Q19/ |
+| "Les buildings" | "Les buildings" | https://vm.tiktok.com/ZMe829g13/ |
