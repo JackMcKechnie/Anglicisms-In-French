@@ -688,3 +688,6 @@
 | S&P 500 | S&P 500 | https://vm.tiktok.com/ZMeRoqUyY/ |
 | "Le trading" | "Trading" | https://photos.app.goo.gl/eNmh7ASCkTPqtoWX7 |
 | "Le plugin" | "Plugin" | https://vm.tiktok.com/ZMe8Y781s/ |
+| "Un shooter" | "Gunman" | https://vm.tiktok.com/ZMe825Q19/ |
+| "Un gun" | "Gun" | https://vm.tiktok.com/ZMe825Q19/ |
+| "Le shooting" | "Shooting" | https://vm.tiktok.com/ZMe825Q19/ |
