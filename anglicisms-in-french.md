@@ -687,3 +687,4 @@
 | "Sunk cost fallacy" | "Sunk cost fallacy" | https://vm.tiktok.com/ZMeRcmrcQ/ |
 | S&P 500 | S&P 500 | https://vm.tiktok.com/ZMeRoqUyY/ |
 | "Le trading" | "Trading" | https://photos.app.goo.gl/eNmh7ASCkTPqtoWX7 |
+| "Le plugin" | "Plugin" | https://vm.tiktok.com/ZMe8Y781s/ |
