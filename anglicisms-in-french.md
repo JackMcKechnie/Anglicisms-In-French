@@ -698,3 +698,5 @@
 | "Le cloud" | "Cloud" | https://www.youtube.com/watch?v=lH5fIrj_s-Y&ab_channel=FranceInter 03:35 |
 | "Slicer" | "To slice" | https://www.youtube.com/watch?v=SP59ScIFox8&ab_channel=FranceInter 00:24 |
 | "Whatever" | "Whatever" | https://www.youtube.com/watch?v=SP59ScIFox8&ab_channel=FranceInter 00:24 |
+| "Summer body" | "Summer body" | https://youtu.be/aSFFa6aQdFM 02:57 |
+| "Everybody" | "Everybody" | https://youtu.be/aSFFa6aQdFM 02:57 |
