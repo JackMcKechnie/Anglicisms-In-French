@@ -695,3 +695,4 @@
 | "Meet and greet" | "Meet and greet" | https://vm.tiktok.com/ZMe8jCThF/ |
 | "La short squeeze" | "Short squeeze" (Stocks) | https://vm.tiktok.com/ZMe8MSXkH/ |
 | "Les hedge funds" | "Hedge funds" | https://vm.tiktok.com/ZMe8MSXkH/ |
+| "Le cloud" | "Cloud" | https://www.youtube.com/watch?v=lH5fIrj_s-Y&ab_channel=FranceInter 03:35 |
