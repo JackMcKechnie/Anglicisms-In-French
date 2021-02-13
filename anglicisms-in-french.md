@@ -704,3 +704,4 @@
 | "Le prize money" | "Prize money" | https://youtu.be/p23sUImQP8Y 02:26 | 
 | "Split screen" | "Split screen" | https://youtu.be/p23sUImQP8Y 03:04 |
 | "Cold" | "Cold" | https://photos.app.goo.gl/AteQxmyuVRWPiZbZ8 |
+| "Settings" | "Settings" | https://vm.tiktok.com/ZMe8Q563r/ |
