@@ -696,3 +696,5 @@
 | "La short squeeze" | "Short squeeze" (Stocks) | https://vm.tiktok.com/ZMe8MSXkH/ |
 | "Les hedge funds" | "Hedge funds" | https://vm.tiktok.com/ZMe8MSXkH/ |
 | "Le cloud" | "Cloud" | https://www.youtube.com/watch?v=lH5fIrj_s-Y&ab_channel=FranceInter 03:35 |
+| "Slicer" | "To slice" | https://www.youtube.com/watch?v=SP59ScIFox8&ab_channel=FranceInter 00:24 |
+| "Whatever" | "Whatever" | https://www.youtube.com/watch?v=SP59ScIFox8&ab_channel=FranceInter 00:24 |
