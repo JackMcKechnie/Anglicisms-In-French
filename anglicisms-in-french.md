@@ -693,3 +693,5 @@
 | "Le shooting" | "Shooting" | https://vm.tiktok.com/ZMe825Q19/ |
 | "Les buildings" | "Les buildings" | https://vm.tiktok.com/ZMe829g13/ |
 | "Meet and greet" | "Meet and greet" | https://vm.tiktok.com/ZMe8jCThF/ |
+| "La short squeeze" | "Short squeeze" (Stocks) | https://vm.tiktok.com/ZMe8MSXkH/ |
+| "Les hedge funds" | "Hedge funds" | https://vm.tiktok.com/ZMe8MSXkH/ |
