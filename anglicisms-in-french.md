@@ -715,3 +715,4 @@
 | "Hello" | "Hello" | https://vm.tiktok.com/ZMe8oqqTK/ |
 | "Help me please" | "Help me please" | https://vm.tiktok.com/ZMe8obctm/ |
 | "Troll" | "Troll" | https://vm.tiktok.com/ZMeL2DqFC/ |
+| "Good morning" | "Good morning" | https://vm.tiktok.com/ZMeL6g897/ |
