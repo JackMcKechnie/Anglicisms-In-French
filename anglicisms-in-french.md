@@ -707,3 +707,4 @@
 | "Settings" | "Settings" | https://vm.tiktok.com/ZMe8Q563r/ |
 | "I'm here" | "I'm here" | https://vm.tiktok.com/ZMe8Qt6y8/ |
 | "Alone" | "Alone" | https://photos.app.goo.gl/oo3PZRejC5jQVKS98 |
+| "Ice cream" | "Ice cream" | https://vm.tiktok.com/ZMe8oWwtL/ |
