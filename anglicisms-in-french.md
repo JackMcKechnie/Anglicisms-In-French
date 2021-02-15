@@ -710,3 +710,4 @@
 | "Ice cream" | "Ice cream" | https://vm.tiktok.com/ZMe8oWwtL/ |
 | "Incredible" | "Incredible" | https://vm.tiktok.com/ZMe8onNQ6/ |
 | "Let's go for the show" | "Let's go for the show" | https://vm.tiktok.com/ZMe8oWcdj/ |
+| "La day" | "Day" | https://vm.tiktok.com/ZMe8oxDru/ |
