@@ -713,3 +713,4 @@
 | "La day" | "Day" | https://vm.tiktok.com/ZMe8oxDru/ |
 | "Les pick me boys" | "Pick me boys" | https://vm.tiktok.com/ZMe8ocy35/ |
 | "Hello" | "Hello" | https://vm.tiktok.com/ZMe8oqqTK/ |
+| "Help me please" | "Help me please" | https://vm.tiktok.com/ZMe8obctm/ |
