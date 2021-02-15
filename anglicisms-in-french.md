@@ -709,3 +709,4 @@
 | "Alone" | "Alone" | https://photos.app.goo.gl/oo3PZRejC5jQVKS98 |
 | "Ice cream" | "Ice cream" | https://vm.tiktok.com/ZMe8oWwtL/ |
 | "Incredible" | "Incredible" | https://vm.tiktok.com/ZMe8onNQ6/ |
+| "Let's go for the show" | "Let's go for the show" | https://vm.tiktok.com/ZMe8oWcdj/ |
