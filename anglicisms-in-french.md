@@ -718,3 +718,4 @@
 | "Good morning" | "Good morning" | https://vm.tiktok.com/ZMeL6g897/ |
 | "Strong" | "Strong" | https://vm.tiktok.com/ZMeLQy7qc/ |
 | "Trip" | "Trip" | https://youtu.be/mAJbCPUIShc 01:38 |
+| "Cringy" | "Cringy" | https://vm.tiktok.com/ZMeLsUE9D/ |
