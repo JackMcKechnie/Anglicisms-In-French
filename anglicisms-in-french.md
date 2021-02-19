@@ -724,3 +724,4 @@
 | "Welcome" | "Welcome" | https://vm.tiktok.com/ZMeNFEcjD/ |
 | "Un computer" | "Computer" | https://vm.tiktok.com/ZMeNHMGsM/ |
 | "Flyer" | "To fly" | https://vm.tiktok.com/ZMeNHMGsM/ |
+| "Un call option" | "A call option" | https://vm.tiktok.com/ZMeNxeevN/ |
