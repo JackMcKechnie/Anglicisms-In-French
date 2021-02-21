@@ -733,3 +733,4 @@
 | "Step bro" | "Step bro" | https://vm.tiktok.com/ZMeFBDrB7/ |
 | "Step sis" | "Step sis" | https://vm.tiktok.com/ZMeFBDrB7/ |
 | "Un skinny skater boy" | "A skinny skater boy" | https://vm.tiktok.com/ZMeFBgX6d/ |
+| "Skills" | "Skills" | https://vm.tiktok.com/ZMeFVxFfb/ |
