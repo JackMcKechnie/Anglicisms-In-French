@@ -729,3 +729,4 @@
 | "Has been" | "Has been" | https://vm.tiktok.com/ZMeNxYpB2/ |
 | "I like the view" | "I like the view" | https://vm.tiktok.com/ZMeNwBvNa/ |
 | "Lifetime" | "Lifetime" | https://vm.tiktok.com/ZMeNwcV8A/ |
+| "LGBT friendly" | "LGBT friendly" | https://vm.tiktok.com/ZMeFBhHkJ/ |
