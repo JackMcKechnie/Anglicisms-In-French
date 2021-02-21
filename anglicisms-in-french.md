@@ -730,3 +730,5 @@
 | "I like the view" | "I like the view" | https://vm.tiktok.com/ZMeNwBvNa/ |
 | "Lifetime" | "Lifetime" | https://vm.tiktok.com/ZMeNwcV8A/ |
 | "LGBT friendly" | "LGBT friendly" | https://vm.tiktok.com/ZMeFBhHkJ/ |
+| "Step bro" | "Step bro" | https://vm.tiktok.com/ZMeFBDrB7/ |
+| "Step sis" | "Step sis" | https://vm.tiktok.com/ZMeFBDrB7/ |
