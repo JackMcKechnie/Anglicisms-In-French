@@ -738,3 +738,4 @@
 | "Wait a minute" | "Wait a minute" | https://photos.app.goo.gl/35xv6osTHf2jWMp49 |
 | "So here we are" | "So here we are" | https://photos.app.goo.gl/E4Y27btJ9rujyy2x9 |
 | "ILY" | "ILY" (I love you) | https://vm.tiktok.com/ZMeFb3Rfp/ |
+| "Gender reveal" | "Gender reveal" | https://youtu.be/ETLFzRXIpCQ 00:03 |
