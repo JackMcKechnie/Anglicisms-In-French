@@ -753,3 +753,6 @@
 | "Le drink" | "Drink" | https://vm.tiktok.com/ZMeYqsf7K/ |
 | "Un fortune cookie" | "Fortune cookie" | https://youtu.be/VWxszY1cZ4w 00:09 |
 | "Une headache" | "A headache" | https://vm.tiktok.com/ZMe21rxDq/ |
+| "Ganagsta rap" | "Gangsta rap" | https://youtu.be/qa38wXoRZiw 00:42 |
+| "West Coast" | "West Coast" | https://youtu.be/qa38wXoRZiw 00:50 |
+| "East Coast" | "East Coast" | https://youtu.be/qa38wXoRZiw 00:50 |
