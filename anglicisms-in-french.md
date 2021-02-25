@@ -756,3 +756,4 @@
 | "Ganagsta rap" | "Gangsta rap" | https://youtu.be/qa38wXoRZiw 00:42 |
 | "West Coast" | "West Coast" | https://youtu.be/qa38wXoRZiw 00:50 |
 | "East Coast" | "East Coast" | https://youtu.be/qa38wXoRZiw 00:50 |
+| "Les Diss tracks" | "Diss tracks" | https://youtu.be/qa38wXoRZiw 00:50 |
