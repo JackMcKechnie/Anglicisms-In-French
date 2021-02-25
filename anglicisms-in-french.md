@@ -757,3 +757,4 @@
 | "West Coast" | "West Coast" | https://youtu.be/qa38wXoRZiw 00:50 |
 | "East Coast" | "East Coast" | https://youtu.be/qa38wXoRZiw 00:50 |
 | "Les Diss tracks" | "Diss tracks" | https://youtu.be/qa38wXoRZiw 00:50 |
+| "Les beefs" | "Beefs" (Disagreements) | https://youtu.be/qa38wXoRZiw 03:08 |
