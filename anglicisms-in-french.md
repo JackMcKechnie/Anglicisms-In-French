@@ -760,3 +760,4 @@
 | "Les beefs" | "Beefs" (Disagreements) | https://youtu.be/qa38wXoRZiw 03:08 |
 | "Down" | "Down" (Sad) | https://vm.tiktok.com/ZMe2HcR75/ |
 | "Dark" | "Dark" | https://vm.tiktok.com/ZMe29mneA/ |
+| "Not all" | "Not all" | https://vm.tiktok.com/ZMe2xMUvF/ |
