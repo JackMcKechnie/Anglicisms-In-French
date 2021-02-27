@@ -767,3 +767,5 @@
 | "Also" | "Also" | https://vm.tiktok.com/ZMe2oc7KS/ |
 | "Lightskin" | "Lightskin" | https://vm.tiktok.com/ZMejYnUm5/ |
 | "Un twist" | "A twist" | https://vm.tiktok.com/ZMej2kU7G/ |
+| "Rider" | "To ride" | https://vm.tiktok.com/ZMejDajUY/ |
+| "Broke bitch" | "Broke bitch" | https://vm.tiktok.com/ZMejDajUY/ |
