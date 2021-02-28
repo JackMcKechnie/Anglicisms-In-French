@@ -769,3 +769,4 @@
 | "Un twist" | "A twist" | https://vm.tiktok.com/ZMej2kU7G/ |
 | "Rider" | "To ride" | https://vm.tiktok.com/ZMejDajUY/ |
 | "Broke bitch" | "Broke bitch" | https://vm.tiktok.com/ZMejDajUY/ |
+| "Turn up" | "Turn up" | https://vm.tiktok.com/ZMejDrFoM/ |
