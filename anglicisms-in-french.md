@@ -770,3 +770,4 @@
 | "Rider" | "To ride" | https://vm.tiktok.com/ZMejDajUY/ |
 | "Broke bitch" | "Broke bitch" | https://vm.tiktok.com/ZMejDajUY/ |
 | "Turn up" | "Turn up" | https://vm.tiktok.com/ZMejDrFoM/ |
+| "Too big to fail" | "Too big to fail" | https://vm.tiktok.com/ZMejDyP1J/ |
