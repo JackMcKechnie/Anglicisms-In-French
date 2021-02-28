@@ -777,3 +777,4 @@
 | "Standby" | "Standby" | https://youtu.be/wvK8c2cUHXw 03:49 |
 | "Highlighter" | "Highlighter" | https://youtu.be/WX5DqI2_-sg?t=158 02:38 |
 | "Off" | "Off" | https://www.twitch.tv/videos/913943823 00:11:00 |
+| "Free" | "Free" | https://www.twitch.tv/videos/913943823 00:14:57 |
