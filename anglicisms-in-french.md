@@ -771,3 +771,4 @@
 | "Broke bitch" | "Broke bitch" | https://vm.tiktok.com/ZMejDajUY/ |
 | "Turn up" | "Turn up" | https://vm.tiktok.com/ZMejDrFoM/ |
 | "Too big to fail" | "Too big to fail" | https://vm.tiktok.com/ZMejDyP1J/ |
+| "Kink" | "Kink" | https://youtu.be/3_2h40WDJ1s?t=14 00:14 |
