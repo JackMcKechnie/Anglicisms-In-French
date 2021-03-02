@@ -783,3 +783,4 @@
 | "Crispy" | "Crispy" | https://vm.tiktok.com/ZMe6N2U59/ |
 | "Credit score" | "Credit score" | https://vm.tiktok.com/ZMe6NuMun/ |
 | "Le sportswear" | "Sportswear" | https://vm.tiktok.com/ZMe6Nm8yX/ |
+| "Day trader" | "Day trader" | https://vm.tiktok.com/ZMe6NKxxP/ |
