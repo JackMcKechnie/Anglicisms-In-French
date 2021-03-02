@@ -743,7 +743,7 @@
 | "Un man" | "A man" | https://vm.tiktok.com/ZMeYRFaXq/ |
 | "Free space" | "Free space" | https://vm.tiktok.com/ZMeY8BF5T/ |
 | "Hype" | "Hype" | https://youtu.be/IrHKsI8Be8I 02:08 |
-| "Dig" | "Dog" | https://youtu.be/IrHKsI8Be8I 07:18 |
+| "Dig" | "Dig" | https://youtu.be/IrHKsI8Be8I 07:18 |
 | "Les charts" | "Charts" | https://youtu.be/qn0YkxIMfCY 02:15 |
 | "La bike life" | "Bike life" | https://youtu.be/X3XgpVJxve4 00:17 |
 | "La wheelying" | "Wheelying" (Bike) | https://youtu.be/X3XgpVJxve4 00:54 |
@@ -784,3 +784,4 @@
 | "Credit score" | "Credit score" | https://vm.tiktok.com/ZMe6NuMun/ |
 | "Le sportswear" | "Sportswear" | https://vm.tiktok.com/ZMe6Nm8yX/ |
 | "Day trader" | "Day trader" | https://vm.tiktok.com/ZMe6NKxxP/ |
+| "Le dog" | "Dog" | https://vm.tiktok.com/ZMe6F9c6b/ |
