@@ -789,3 +789,4 @@
 | "I did it" | "I did it" | https://vm.tiktok.com/ZMe69JHnj/ |
 | "For real" | "For real" | https://vm.tiktok.com/ZMe69a9wg/ |
 | "Tricky" | "Tricky" | https://vm.tiktok.com/ZMe69a9wg/ |
+| "Swipe right" | "Swipe right" | https://vm.tiktok.com/ZMe69a9wg/ |
