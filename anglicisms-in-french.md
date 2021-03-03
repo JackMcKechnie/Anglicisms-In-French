@@ -787,3 +787,5 @@
 | "Le dog" | "Dog" | https://vm.tiktok.com/ZMe6F9c6b/ |
 | "Un mood board" | "A mood board" | https://youtu.be/Ze6dHOemk1k 00:15 |
 | "I did it" | "I did it" | https://vm.tiktok.com/ZMe69JHnj/ |
+| "For real" | "For real" | https://vm.tiktok.com/ZMe69a9wg/ |
+| "Tricky" | "Tricky" | https://vm.tiktok.com/ZMe69a9wg/ |
