@@ -795,3 +795,4 @@
 | "No way" | "No way" | Skam France S1E1 09:04 |
 | "Out of nowhere" | "Out of nowhere" | https://vm.tiktok.com/ZMe6wxYDt/ |
 | "Le networking" | "Networking" | https://vm.tiktok.com/ZMe6wxYDt/ |
+| "La bromance" | "Bromance" | https://journals.openedition.org/litteratures/2442 |
