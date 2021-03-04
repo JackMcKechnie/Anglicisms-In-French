@@ -791,3 +791,4 @@
 | "Tricky" | "Tricky" | https://vm.tiktok.com/ZMe69a9wg/ |
 | "Swipe right" | "Swipe right" | https://vm.tiktok.com/ZMe69a9wg/ |
 | "Press on" | "Press on" | https://vm.tiktok.com/ZMe69T38Q/ |
+| "Insert" | "Insert" | https://vm.tiktok.com/ZMe6w6Smq/ |
