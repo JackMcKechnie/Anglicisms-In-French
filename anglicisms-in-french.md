@@ -798,3 +798,4 @@
 | "La bromance" | "Bromance" | https://journals.openedition.org/litteratures/2442 |
 | "Match maker" | "Match maker" | https://vm.tiktok.com/ZMeMjSgau/ |
 | "Breakthrough" | "Breakthrough" | https://vm.tiktok.com/ZMeMBASFe/ |
+| "Le business model" | "Business model" | https://vm.tiktok.com/ZMeMqhcCF/ |
