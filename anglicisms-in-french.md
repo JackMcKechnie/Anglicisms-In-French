@@ -800,3 +800,4 @@
 | "Breakthrough" | "Breakthrough" | https://vm.tiktok.com/ZMeMBASFe/ |
 | "Le business model" | "Business model" | https://vm.tiktok.com/ZMeMqhcCF/ |
 | "Fox eyes" | "Fox eyes" | https://vm.tiktok.com/ZMeMqgoy3/ |
+| "No hate" | "No hate" | https://vm.tiktok.com/ZMeMqXhLD/ |
