@@ -810,3 +810,4 @@
 | "Le doomscrolling" | "Doomscrolling" | https://youtu.be/Owcjufx9eUk 00:06 |
 | "Les swiniging sixties" | "The swinging sixties" | https://youtu.be/Owcjufx9eUk 00:27 |
 | "Le summer of love" | "The summer of love" | https://youtu.be/Owcjufx9eUk 00:27 |
+| "Binger" | "To binge" | https://youtu.be/KVAptiEUYT8 00:47 |
