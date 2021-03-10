@@ -814,3 +814,4 @@
 | "Garlic bread" | "Garlic bread" | https://vm.tiktok.com/ZMehydd5t/ |
 | "Tasty" | "Tasty" | https://vm.tiktok.com/ZMehydd5t/ |
 | "Produce" | "Produce" | https://vm.tiktok.com/ZMehmoLn8/ |
+| "Brainwasher" | "To brainwash" | https://youtu.be/Oe07NlCSwmQ 00:26 |
