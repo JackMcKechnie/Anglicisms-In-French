@@ -818,3 +818,4 @@
 | "Le style" | "Style" | https://youtu.be/Oe07NlCSwmQ 05:21 |
 | "Non fungible tokens" | "Non fungible tokens" | https://vm.tiktok.com/ZMehC7vS1/ |
 | "Wellness" | "Wellness" | https://youtu.be/kbC-eJcMt4c 02:05 |
+| "House hacking" | "House hacking" | https://vm.tiktok.com/ZMehnqk6g/ |
