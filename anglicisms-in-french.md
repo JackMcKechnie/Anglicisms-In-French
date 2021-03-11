@@ -816,3 +816,4 @@
 | "Produce" | "Produce" | https://vm.tiktok.com/ZMehmoLn8/ |
 | "Brainwasher" | "To brainwash" | https://youtu.be/Oe07NlCSwmQ 00:26 |
 | "Le style" | "Style" | https://youtu.be/Oe07NlCSwmQ 05:21 |
+| "Non fungible tokens" | "Non fungible tokens" | https://vm.tiktok.com/ZMehC7vS1/ |
