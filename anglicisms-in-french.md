@@ -833,3 +833,4 @@
 | "Triggered" | "Triggered" | https://vm.tiktok.com/ZMeBkVUWY/ |
 | "Le bubble tea" | "Bubble tea" | https://vm.tiktok.com/ZMeBU2ocY/ |
 | "Keep in mind" | "Keep in mind" | https://vm.tiktok.com/ZMeBqLNMw/ |
+| "Pumps" | "Pumps" (Starbucks) | https://vm.tiktok.com/ZMeBGrPDN/ |
