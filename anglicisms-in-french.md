@@ -834,3 +834,4 @@
 | "Le bubble tea" | "Bubble tea" | https://vm.tiktok.com/ZMeBU2ocY/ |
 | "Keep in mind" | "Keep in mind" | https://vm.tiktok.com/ZMeBqLNMw/ |
 | "Pumps" | "Pumps" (Starbucks) | https://vm.tiktok.com/ZMeBGrPDN/ |
+| "Birthday boy" | "Birthday boy" | https://mobile.france.tv/slash/skam-france/saison-2/475091-saison-2-episode-3-integral.html 01:42 |
