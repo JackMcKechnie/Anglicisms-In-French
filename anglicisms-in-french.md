@@ -837,3 +837,4 @@
 | "Birthday boy" | "Birthday boy" | https://mobile.france.tv/slash/skam-france/saison-2/475091-saison-2-episode-3-integral.html 01:42 |
 | "Fat" | "Fat" | https://mobile.france.tv/slash/skam-france/saison-2/475091-saison-2-episode-3-integral.html 05:23 |
 | "Le vocal fry" | "Vocal fry" | https://youtu.be/fuAp94D7Eik 01:07 |
+| "No hate just facts" | "No hate just facts" | https://vm.tiktok.com/ZMeSCrKJp/ |
