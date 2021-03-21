@@ -840,3 +840,4 @@
 | "No hate just facts" | "No hate just facts" | https://vm.tiktok.com/ZMeSCrKJp/ |
 | "Graphic designer" | "Graphic designer" | https://vm.tiktok.com/ZMeABwAoo/ |
 | "Ads" | "Ads" (Adverts) | https://vm.tiktok.com/ZMeABwAoo/ |
+| "Dad" | "Dad" | https://vm.tiktok.com/ZMeAQhcq5/ |
