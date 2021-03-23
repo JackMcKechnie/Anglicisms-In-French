@@ -847,3 +847,4 @@
 | "Vintage" | "Vintage" | https://vm.tiktok.com/ZMeDJHg5n/ |
 | "Slay" | "Slay" | https://vm.tiktok.com/ZMeD6dxVP/ |
 | "Shoes" | "Shoes" | https://open.spotify.com/track/6AQOMk3TmhvuJ76WpduK85?si=i0sKloSTRU-EUo7s9hLTzA 00:20 |
+| "Pasta" | "Pasta" | https://vm.tiktok.com/ZMeDyGMhQ/ |
