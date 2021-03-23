@@ -845,3 +845,4 @@
 | "Bottom" | "Bottom" (Sex) | https://vm.tiktok.com/ZMeApjt6r/ |
 | "Switch" | "Switch" (Sex) | https://vm.tiktok.com/ZMeApjt6r/ |
 | "Vintage" | "Vintage" | https://vm.tiktok.com/ZMeDJHg5n/ |
+| "Slay" | "Slay" | https://vm.tiktok.com/ZMeD6dxVP/ |
