@@ -852,3 +852,4 @@
 | "Les neopronouns" | "Neopronouns" | https://vm.tiktok.com/ZMeDftYup/ |
 | "La lean" | "Lean" (Drug) | https://youtu.be/aVg85Gz8Ssg 02:03 |
 | "Le mumble rap" | "Mumble rap" | https://youtu.be/aVg85Gz8Ssg 02:50 |
+| "Long time" | "Long time" | https://vm.tiktok.com/ZMeUewEh6/ |
