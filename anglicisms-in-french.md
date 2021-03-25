@@ -850,3 +850,4 @@
 | "Pasta" | "Pasta" | https://vm.tiktok.com/ZMeDyGMhQ/ |
 | "L'opening" | "Opening" | https://vm.tiktok.com/ZMeDfNbvd/ |
 | "Les neopronouns" | "Neopronouns" | https://vm.tiktok.com/ZMeDftYup/ |
+| "La lean" | "Lean" (Drug) | https://youtu.be/aVg85Gz8Ssg 02:03 |
