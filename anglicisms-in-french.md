@@ -854,3 +854,5 @@
 | "Le mumble rap" | "Mumble rap" | https://youtu.be/aVg85Gz8Ssg 02:50 |
 | "Long time" | "Long time" | https://vm.tiktok.com/ZMeUewEh6/ |
 | "Les mugshot" | "Mugshots" | https://vm.tiktok.com/ZMeUddcAJ/ |
+| "Un glowstick" | "A glowstick" | https://vm.tiktok.com/ZMeUMRy2e/ |
+| "Les samples" | "Samples" | https://vm.tiktok.com/ZMeUMRy2e/ |
