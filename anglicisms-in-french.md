@@ -859,3 +859,7 @@
 | "Event" | "Event" | https://mobile.france.tv/slash/skam-france/saison-3/1985715-je-crois-que-je-suis-amoureux-integral.html 10:07 |
 | "Now or never" | "Now or never" | https://vm.tiktok.com/ZMeUaxsJV/ |
 | "Biggest" | "Biggest" | https://vm.tiktok.com/ZMeUV7Fbr/ |
+| "We getting there" | "We getting there" | https://vm.tiktok.com/ZMeUbobUr/ |
+| "Girl boss" | "Girl boss" | https://vm.tiktok.com/ZMeUbobUr/ |
+| "Clueless" | "Clueless" | https://vm.tiktok.com/ZMeUbobUr/ |
+| "Himbo" | "Himbo" | https://vm.tiktok.com/ZMeUbobUr/ |
