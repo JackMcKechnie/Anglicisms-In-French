@@ -868,3 +868,4 @@
 | "I like that" | "I like that" | https://vm.tiktok.com/ZMeyD7tbX/ |
 | "Thank you sir" | "Thank you sir" | https://vm.tiktok.com/ZMeyD7tbX/ |
 | "Le boys club" | "Boys club" | https://vm.tiktok.com/ZMeyUQtv2/ |
+| "Slow down" | "Slow down" | https://mobile.france.tv/slash/skam-france/saison-3/1985727-le-garcon-qui-avait-peur-du-noir-integral.html 01:22 |
