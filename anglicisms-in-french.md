@@ -865,3 +865,5 @@
 | "Himbo" | "Himbo" | https://vm.tiktok.com/ZMeUbobUr/ |
 | "Mastering" | "Mastering" | https://youtu.be/IxOBDE2h_zo 01:47 |
 | "Le darknet" | "The darknet" | https://vm.tiktok.com/ZMeyRW1Sc/ |
+| "I like that" | "I like that" | https://vm.tiktok.com/ZMeyD7tbX/ |
+| "Thank you sir" | "Thank you sir" | https://vm.tiktok.com/ZMeyD7tbX/ |
