@@ -871,3 +871,6 @@
 | "Slow down" | "Slow down" | https://mobile.france.tv/slash/skam-france/saison-3/1985727-le-garcon-qui-avait-peur-du-noir-integral.html 01:22 |
 | "Le lead" | "The lead" | https://www.lemonde.fr/economie/article/2021/03/30/apres-le-brexit-la-lutte-entre-les-places-financieres-europeennes-pour-attirer-les-banquiers_6074906_3234.html |
 | "Swell" | "Swell" (Surfing) | https://photos.app.goo.gl/VKNpV4qiQzZC9Ym38 |
+| "L-sit" | "L-sit" | https://vm.tiktok.com/ZMefdKAhk/ |
+| "Game changer" | "Game changer" | https://vm.tiktok.com/ZMefdKAhk/ |
+| "Coffee addict" | "Coffee addict" | https://vm.tiktok.com/ZMefdKAhk/ |
