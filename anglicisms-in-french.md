@@ -874,3 +874,4 @@
 | "L-sit" | "L-sit" | https://vm.tiktok.com/ZMefdKAhk/ |
 | "Game changer" | "Game changer" | https://vm.tiktok.com/ZMefdKAhk/ |
 | "Coffee addict" | "Coffee addict" | https://vm.tiktok.com/ZMefdKAhk/ |
+| "Bed" | "Bed" | https://vm.tiktok.com/ZMefdK65o/ |
