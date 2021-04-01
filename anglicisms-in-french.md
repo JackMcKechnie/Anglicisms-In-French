@@ -877,3 +877,4 @@
 | "Bed" | "Bed" | https://vm.tiktok.com/ZMefdK65o/ |
 | "Cluster" | "Cluster" | https://vm.tiktok.com/ZMefBYK6R/ |
 | "Double hit" | "Double hit" | https://vm.tiktok.com/ZMefBGQcm/ |
+| "Fuck them" | "Fuck them" | https://mobile.france.tv/slash/skam-france/saison-3/1985739-assumer-integral.html 03:10 |
