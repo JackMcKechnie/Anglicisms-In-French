@@ -876,3 +876,4 @@
 | "Coffee addict" | "Coffee addict" | https://vm.tiktok.com/ZMefdKAhk/ |
 | "Bed" | "Bed" | https://vm.tiktok.com/ZMefdK65o/ |
 | "Cluster" | "Cluster" | https://vm.tiktok.com/ZMefBYK6R/ |
+| "Double hit" | "Double hit" | https://vm.tiktok.com/ZMefBGQcm/ |
