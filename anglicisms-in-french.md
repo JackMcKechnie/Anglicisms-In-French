@@ -880,3 +880,4 @@
 | "Fuck them" | "Fuck them" | https://mobile.france.tv/slash/skam-france/saison-3/1985739-assumer-integral.html 03:10 |
 | "La indie kid" | "Indie kid" | https://vm.tiktok.com/ZMefWCPGN/ |
 | "Rest day" | "Rest day" | https://photos.app.goo.gl/K24poF3U3kCtZfp87 |
+| "Le start and stop" | "Start and stop" | https://vm.tiktok.com/ZMePQtcuv/ |
