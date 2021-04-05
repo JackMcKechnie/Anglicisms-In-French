@@ -882,3 +882,4 @@
 | "Rest day" | "Rest day" | https://photos.app.goo.gl/K24poF3U3kCtZfp87 |
 | "Le start and stop" | "Start and stop" | https://vm.tiktok.com/ZMePQtcuv/ |
 | "Un sit in" | "A sit in" | https://mobile.france.tv/slash/skam-france/saison-3/1985747-minute-par-minute-integral.html 09:55 |
+| "Le girl power" | "Girl power" | https://vm.tiktok.com/ZMe5LGn6X/ |
