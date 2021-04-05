@@ -883,4 +883,5 @@
 | "Le start and stop" | "Start and stop" | https://vm.tiktok.com/ZMePQtcuv/ |
 | "Un sit in" | "A sit in" | https://mobile.france.tv/slash/skam-france/saison-3/1985747-minute-par-minute-integral.html 09:55 |
 | "Le girl power" | "Girl power" | https://vm.tiktok.com/ZMe5LGn6X/ |
-| "Hey you" | "Hay you" | https://vm.tiktok.com/ZMe5Nn2oC/ |
+| "Hey you" | "Hey you" | https://vm.tiktok.com/ZMe5Nn2oC/ |
+| "Casual" | "Casual" | https://vm.tiktok.com/ZMe5jTXvL/ |
