@@ -889,3 +889,4 @@
 | "La landing" | "The landing" | https://youtu.be/JAA1OPd-T_E 02:52 |
 | "La starting gate" | "The starting gate" | https://youtu.be/JAA1OPd-T_E 03:03 |
 | "Le world tour" | "The world tour" | https://youtu.be/JAA1OPd-T_E 06:39 |
+| "La finish line" | "The finish line" | https://youtu.be/JAA1OPd-T_E 12:00 |
