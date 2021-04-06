@@ -885,3 +885,4 @@
 | "Le girl power" | "Girl power" | https://vm.tiktok.com/ZMe5LGn6X/ |
 | "Hey you" | "Hey you" | https://vm.tiktok.com/ZMe5Nn2oC/ |
 | "Casual" | "Casual" | https://vm.tiktok.com/ZMe5jTXvL/ |
+| "La cardistry" | "Cardistry" | https://vm.tiktok.com/ZMe5U3yvx/ |
