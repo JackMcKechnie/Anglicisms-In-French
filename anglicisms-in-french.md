@@ -891,3 +891,4 @@
 | "Le world tour" | "The world tour" | https://youtu.be/JAA1OPd-T_E 06:39 |
 | "La finish line" | "The finish line" | https://youtu.be/JAA1OPd-T_E 12:00 |
 | "Un rebound guy" | "A rebound guy" | https://mobile.france.tv/slash/skam-france/saison-4/1140809-juste-toi-et-moi-integral.html 11:29 |
+| "Un Monday blues" | "Monday blues" | https://photos.app.goo.gl/TrbgNYzWQw96Vdxm9 |
