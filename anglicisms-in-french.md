@@ -894,3 +894,4 @@
 | "Un Monday blues" | "Monday blues" | https://photos.app.goo.gl/TrbgNYzWQw96Vdxm9 |
 | "Watch list" | "Watch lists" | https://vm.tiktok.com/ZMe5wAmEU/ |
 | "Labour camps" | "Labour camps" | https://youtu.be/rEMCbPGuTQo 00:02 |
+| "Workers" | "Workers" | https://youtu.be/rEMCbPGuTQo 04:10 |
