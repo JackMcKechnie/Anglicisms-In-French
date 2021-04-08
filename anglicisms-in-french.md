@@ -896,3 +896,4 @@
 | "Labour camps" | "Labour camps" | https://youtu.be/rEMCbPGuTQo 00:02 |
 | "Workers" | "Workers" | https://youtu.be/rEMCbPGuTQo 04:10 |
 | "La success story" | "Success story" | https://youtu.be/5jNGbYaXVus 07:25 |
+| "Un duck face" | "Duck face" | https://youtu.be/5jNGbYaXVus 11:02 |
