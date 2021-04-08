@@ -893,3 +893,4 @@
 | "Un rebound guy" | "A rebound guy" | https://mobile.france.tv/slash/skam-france/saison-4/1140809-juste-toi-et-moi-integral.html 11:29 |
 | "Un Monday blues" | "Monday blues" | https://photos.app.goo.gl/TrbgNYzWQw96Vdxm9 |
 | "Watch list" | "Watch lists" | https://vm.tiktok.com/ZMe5wAmEU/ |
+| "Labour camps" | "Labour camps" | https://youtu.be/rEMCbPGuTQo 00:02 |
