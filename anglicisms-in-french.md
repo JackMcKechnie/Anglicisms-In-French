@@ -899,3 +899,4 @@
 | "Un duck face" | "Duck face" | https://youtu.be/5jNGbYaXVus 11:02 |
 | "FA" | "FA" (First ascent) | https://photos.app.goo.gl/USpdm3HBDL9cXy2p8 |
 | "Move on" | "Move on" | https://mobile.france.tv/slash/skam-france/skam-saison-4/1986649-friendzone-integral.html 21:26 |
+| "Wig" | "Wig" | https://vm.tiktok.com/ZMea7TXLG/ |
