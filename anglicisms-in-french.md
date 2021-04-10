@@ -901,3 +901,4 @@
 | "Move on" | "Move on" | https://mobile.france.tv/slash/skam-france/skam-saison-4/1986649-friendzone-integral.html 21:26 |
 | "Wig" | "Wig" | https://vm.tiktok.com/ZMea7TXLG/ |
 | "Body" | "Body" | https://vm.tiktok.com/ZMemNe2Aa/ |
+| "Winter body" | "Winter body" | https://mobile.france.tv/slash/skam-france/skam-saison-4/1986651-la-nature-humaine-integral.html 09:25 |
