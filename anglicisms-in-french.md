@@ -902,3 +902,4 @@
 | "Wig" | "Wig" | https://vm.tiktok.com/ZMea7TXLG/ |
 | "Body" | "Body" | https://vm.tiktok.com/ZMemNe2Aa/ |
 | "Winter body" | "Winter body" | https://mobile.france.tv/slash/skam-france/skam-saison-4/1986651-la-nature-humaine-integral.html 09:25 |
+| "Le starter" | "Starter" | https://vm.tiktok.com/ZMemY6dwH/ |
