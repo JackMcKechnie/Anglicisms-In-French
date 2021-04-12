@@ -905,3 +905,4 @@
 | "Le starter" | "Starter" | https://vm.tiktok.com/ZMemY6dwH/ |
 | "Mini ramp" | "Mini ramp" | https://vm.tiktok.com/ZMem2brgD/ |
 | "Le 2step" | "Two step" | https://vm.tiktok.com/ZMemu8r9m/ |
+| "La scripted reality" | "Scripted reality" | https://vm.tiktok.com/ZMemuLJFC/ |
