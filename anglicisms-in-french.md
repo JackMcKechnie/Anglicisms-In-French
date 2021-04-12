@@ -908,3 +908,4 @@
 | "La scripted reality" | "Scripted reality" | https://vm.tiktok.com/ZMemuLJFC/ |
 | "L'undercut" | "Undercut" (racing) | https://vm.tiktok.com/ZMemu4SMt/ |
 | "It's done" | "It's done" | https://vm.tiktok.com/ZMemu4SMt/ |
+| "Drama" | "Drama" | https://mobile.france.tv/slash/skam-france/skam-saison-4/1986659-seule-integral.html 03:13 |
