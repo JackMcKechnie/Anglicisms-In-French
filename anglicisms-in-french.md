@@ -910,3 +910,4 @@
 | "It's done" | "It's done" | https://vm.tiktok.com/ZMemu4SMt/ |
 | "Drama" | "Drama" | https://mobile.france.tv/slash/skam-france/skam-saison-4/1986659-seule-integral.html 03:13 |
 | "Clutch" | "Clutch" (Handbag) | https://vm.tiktok.com/ZMemWSPW9/ |
+| "Take your computer" | "Take your computer" | https://vm.tiktok.com/ZMem3LSb7/ |
