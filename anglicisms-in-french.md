@@ -915,3 +915,4 @@
 | "That's not necessary" | "That's not necessary" | https://vm.tiktok.com/ZMeue6q1p/ |
 | "Un must" | "A must" | https://youtu.be/bqygQWIVmRo 00:27 |
 | "Rebound girl" | "Rebound girl" | https://mobile.france.tv/slash/skam-france/skam-saison-4/1986665-mes-looseuses-preferes-integral.html 17:30 |
+| "Le book" | "The book" | https://youtu.be/YGDuhprHjg8 00:48 |
