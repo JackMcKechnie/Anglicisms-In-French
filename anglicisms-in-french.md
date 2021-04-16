@@ -919,3 +919,5 @@
 | "Debunk" | "Debunk" | https://vm.tiktok.com/ZMeuQnnEK/ |
 | "Shame on me" | "Shame on me" | https://youtu.be/I5y5Mtszz0g 04:17 |
 | "Le wage gap" | "The wage gap" | https://vm.tiktok.com/ZMeucFS6A/ |
+| "Slander" | "Slander" | https://vm.tiktok.com/ZMeHSbaYb/ |
+| "Les white gays" | "White gays" | https://vm.tiktok.com/ZMeHSbaYb/ |
