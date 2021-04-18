@@ -921,3 +921,4 @@
 | "Le wage gap" | "The wage gap" | https://vm.tiktok.com/ZMeucFS6A/ |
 | "Slander" | "Slander" | https://vm.tiktok.com/ZMeHSbaYb/ |
 | "Les white gays" | "White gays" | https://vm.tiktok.com/ZMeHSbaYb/ |
+| "Les English speakers" | "English speakers" | https://photos.app.goo.gl/LEa7EXbNd8mwJxzD6 |
