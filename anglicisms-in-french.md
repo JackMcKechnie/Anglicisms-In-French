@@ -925,3 +925,5 @@
 | "Hot boy summer" | "Hot boy summer" | https://vm.tiktok.com/ZMeHwJKsv/ |
 | "Un cheat code" | "A cheat code" | https://vm.tiktok.com/ZMeHTw9PY/ |
 | "Relationship" | "Relationship" | https://vm.tiktok.com/ZMeHwSVbA/ |
+| "Dark boy" | "Dark boy" | https://vm.tiktok.com/ZMe98BW8o/ |
+| "Chainless" | "Chainless" | https://youtu.be/_7jP4UnCImI 00:03 |
