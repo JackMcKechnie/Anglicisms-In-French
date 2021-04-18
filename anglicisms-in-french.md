@@ -922,3 +922,4 @@
 | "Slander" | "Slander" | https://vm.tiktok.com/ZMeHSbaYb/ |
 | "Les white gays" | "White gays" | https://vm.tiktok.com/ZMeHSbaYb/ |
 | "Les English speakers" | "English speakers" | https://photos.app.goo.gl/LEa7EXbNd8mwJxzD6 |
+| "Hot boy summer" | "Hot boy summer" | https://vm.tiktok.com/ZMeHwJKsv/ |
