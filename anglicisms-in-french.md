@@ -929,3 +929,4 @@
 | "Chainless" | "Chainless" | https://youtu.be/_7jP4UnCImI 00:03 |
 | "Sour cream" | "Sour cream" | https://vm.tiktok.com/ZMe9ykVQy/ |
 | "You go girl" | "You go girl" | https://vm.tiktok.com/ZMe9aDcN8/ |
+| "Lip plumper" | "Lip plumper" | https://vm.tiktok.com/ZMe9ajCpX/ |
