@@ -931,3 +931,4 @@
 | "You go girl" | "You go girl" | https://vm.tiktok.com/ZMe9aDcN8/ |
 | "Lip plumper" | "Lip plumper" | https://vm.tiktok.com/ZMe9ajCpX/ |
 | "Fluffy" | "Fluffy" | https://vm.tiktok.com/ZMe9q2p4Y/ |
+| "Se pimper" | "To pimp oneself" | https://vm.tiktok.com/ZMe9qEhYV/ |
