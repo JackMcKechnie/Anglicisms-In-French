@@ -930,3 +930,4 @@
 | "Sour cream" | "Sour cream" | https://vm.tiktok.com/ZMe9ykVQy/ |
 | "You go girl" | "You go girl" | https://vm.tiktok.com/ZMe9aDcN8/ |
 | "Lip plumper" | "Lip plumper" | https://vm.tiktok.com/ZMe9ajCpX/ |
+| "Fluffy" | "Fluffy" | https://vm.tiktok.com/ZMe9q2p4Y/ |
