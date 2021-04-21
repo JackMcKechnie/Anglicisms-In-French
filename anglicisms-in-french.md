@@ -933,3 +933,4 @@
 | "Fluffy" | "Fluffy" | https://vm.tiktok.com/ZMe9q2p4Y/ |
 | "Se pimper" | "To pimp oneself" | https://vm.tiktok.com/ZMe9qEhYV/ |
 | "Le consulting" | "Consulting" | https://vm.tiktok.com/ZMexLVxXx/ |
+| "Peanut butter" | "Peanut butter" | https://vm.tiktok.com/ZMexLgb23/ |
