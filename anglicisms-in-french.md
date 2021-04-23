@@ -937,3 +937,4 @@
 | "What is that" | "What is that" | https://vm.tiktok.com/ZMexNEuwD/ |
 | "Home studio" | "Home studio" | https://open.spotify.com/track/5t73QwWwpoRI6EhBUZJMJv?si=DFQYPLkdQMuaoCK_bCqESA&utm_source=copy-link 01:10 |
 | "Un blind test" | "A blind test" | https://vm.tiktok.com/ZMexXUCuo/ |
+| "Self explanatory" | "Self explanatory" | https://vm.tiktok.com/ZMexTqh2b/ |
