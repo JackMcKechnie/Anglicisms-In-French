@@ -938,3 +938,5 @@
 | "Home studio" | "Home studio" | https://open.spotify.com/track/5t73QwWwpoRI6EhBUZJMJv?si=DFQYPLkdQMuaoCK_bCqESA&utm_source=copy-link 01:10 |
 | "Un blind test" | "A blind test" | https://vm.tiktok.com/ZMexXUCuo/ |
 | "Self explanatory" | "Self explanatory" | https://vm.tiktok.com/ZMexTqh2b/ |
+| "Le back lever" | "Back lever" | https://vm.tiktok.com/ZMeQrWH9V/ |
+| "Le skin the cat" | "Skin the cat" | https://vm.tiktok.com/ZMeQrWH9V/ |
