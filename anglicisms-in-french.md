@@ -940,3 +940,5 @@
 | "Self explanatory" | "Self explanatory" | https://vm.tiktok.com/ZMexTqh2b/ |
 | "Le back lever" | "Back lever" | https://vm.tiktok.com/ZMeQrWH9V/ |
 | "Le skin the cat" | "Skin the cat" | https://vm.tiktok.com/ZMeQrWH9V/ |
+| "Raw" | "Raw" | https://youtu.be/EDyLz6gyVvc 14:38 |
+| "Cut" | "Cut" (Film) | https://youtu.be/EDyLz6gyVvc 14:38 |
