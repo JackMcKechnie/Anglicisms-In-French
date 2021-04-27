@@ -945,3 +945,4 @@
 | "I wish" | "I wish" | https://vm.tiktok.com/ZMeCjyvcW/ |
 | "Showrunner" | "Showrunner" | https://www.netflix.com/title/80037278?s=a&trkid=13747225&t=CP -41:48 |
 | "Appartement tour" | "Appartement tour" | https://vm.tiktok.com/ZMeCPBfRc/ |
+| "Un man bun" | "A man bun" | https://mobile.france.tv/slash/skam-france/skam-france-saison-6/1471335-la-mif-integral.html 06:07 |
