@@ -949,3 +949,4 @@
 | "Damn" | "Damn" | https://photos.app.goo.gl/BSm48UMFxkov3Ejy5 |
 | "By" | "By" | https://youtu.be/hdF442raL_4 07:13 |
 | "Le wedding planner" | "Wedding planner" | https://youtu.be/keP1XowH2sE |
+| "Basic bitch" | "Basic bitch" | https://vm.tiktok.com/ZMeXdN6Fb/ |
