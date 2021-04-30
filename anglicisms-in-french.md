@@ -952,3 +952,4 @@
 | "Basic bitch" | "Basic bitch" | https://vm.tiktok.com/ZMeXdN6Fb/ |
 | "Body positive" | "Body positive" | https://vm.tiktok.com/ZMeXjTkYX/ |
 | "Snow party" | "Snow party" | https://youtu.be/NjC__9bapVk 00:26 |
+| "Click and collect" | "Click and collect" | https://youtu.be/0za36qL-CtA 01:16 |
