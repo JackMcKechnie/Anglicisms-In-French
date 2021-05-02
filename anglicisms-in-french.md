@@ -957,3 +957,4 @@
 | "Darling" | "Darling" | https://vm.tiktok.com/ZMe4HspwL/ |
 | "L'irish pub" | "Irish pub" | https://vm.tiktok.com/ZMe4Hnxwg/ |
 | "Les baby hair" | "Baby hairs" | https://vm.tiktok.com/ZMe4qvwNA/ |
+| "Dips" | "Dips" (Exercise) | https://vm.tiktok.com/ZMe4bjQHM/ |
