@@ -961,3 +961,4 @@
 | "Win" | "Won" | https://photos.app.goo.gl/U2HnzuW6KRQ8FFr18 |
 | "Small talk" | "Small talk" | https://youtu.be/7_040oLR0dY 00:05 |
 | "In peace" | "In peace" | https://youtu.be/iXpgh836yr8 00:55 |
+| "La wave cap" | "Wave cap" | https://photos.app.goo.gl/4y3eFuJzz5ecweGt6 |
