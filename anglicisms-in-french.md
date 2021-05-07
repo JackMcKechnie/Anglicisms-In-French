@@ -965,3 +965,4 @@
 | "Bunny girl" | "Bunny girl" | https://vm.tiktok.com/ZMeqmE1fJ/ |
 | "Le karting" | "Karting" | https://vm.tiktok.com/ZMequWxTa/ |
 | "Girly" | "Girly" | https://youtu.be/ViGalLDOuVM 00:00 |
+| "Lounge" | "Lounge" | https://photos.app.goo.gl/oAtYSFDei46DKyEm9 |
