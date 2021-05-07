@@ -968,3 +968,4 @@
 | "Lounge" | "Lounge" | https://photos.app.goo.gl/oAtYSFDei46DKyEm9 |
 | "Depressed" | "Depressed" | https://vm.tiktok.com/ZMeqgS8Tg/ |
 | "Baggy" | "Baggy" | https://vm.tiktok.com/ZMeqpVF7Q/ |
+| "Mini-van" | "Mini-van" | https://vm.tiktok.com/ZMeqty7Q6/ |
