@@ -969,3 +969,4 @@
 | "Depressed" | "Depressed" | https://vm.tiktok.com/ZMeqgS8Tg/ |
 | "Baggy" | "Baggy" | https://vm.tiktok.com/ZMeqpVF7Q/ |
 | "Mini-van" | "Mini-van" | https://vm.tiktok.com/ZMeqty7Q6/ |
+| "All inclusive" | "All inclusive" | https://mobile.france.tv/slash/skam-france/saison-7/2249847-comme-avant-integral.html 05:13 |
