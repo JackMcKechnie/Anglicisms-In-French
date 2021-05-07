@@ -964,3 +964,4 @@
 | "La wave cap" | "Wave cap" | https://photos.app.goo.gl/4y3eFuJzz5ecweGt6 |
 | "Bunny girl" | "Bunny girl" | https://vm.tiktok.com/ZMeqmE1fJ/ |
 | "Le karting" | "Karting" | https://vm.tiktok.com/ZMequWxTa/ |
+| "Girly" | "Girly" | https://youtu.be/ViGalLDOuVM 00:00 |
