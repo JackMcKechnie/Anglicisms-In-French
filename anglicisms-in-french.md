@@ -966,3 +966,4 @@
 | "Le karting" | "Karting" | https://vm.tiktok.com/ZMequWxTa/ |
 | "Girly" | "Girly" | https://youtu.be/ViGalLDOuVM 00:00 |
 | "Lounge" | "Lounge" | https://photos.app.goo.gl/oAtYSFDei46DKyEm9 |
+| "Depressed" | "Depressed" | https://vm.tiktok.com/ZMeqgS8Tg/ |
