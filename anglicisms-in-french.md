@@ -972,3 +972,4 @@
 | "All inclusive" | "All inclusive" | https://mobile.france.tv/slash/skam-france/saison-7/2249847-comme-avant-integral.html 05:13 |
 | "Oh boy" | "Oh boy" | https://youtu.be/HVIsgQvif3A 06:54 |
 | "Filter" | "Filter" | https://vm.tiktok.com/ZMebxnN5B/ |
+| "Story" | "Story" | https://vm.tiktok.com/ZMebXb9qK/ |
