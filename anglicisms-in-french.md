@@ -973,3 +973,4 @@
 | "Oh boy" | "Oh boy" | https://youtu.be/HVIsgQvif3A 06:54 |
 | "Filter" | "Filter" | https://vm.tiktok.com/ZMebxnN5B/ |
 | "Story" | "Story" | https://vm.tiktok.com/ZMebXb9qK/ |
+| "Blue jeans" | "Blue jeans" | https://vm.tiktok.com/ZMegJ1MRJ/ |
