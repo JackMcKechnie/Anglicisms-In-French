@@ -974,3 +974,4 @@
 | "Filter" | "Filter" | https://vm.tiktok.com/ZMebxnN5B/ |
 | "Story" | "Story" | https://vm.tiktok.com/ZMebXb9qK/ |
 | "Blue jeans" | "Blue jeans" | https://vm.tiktok.com/ZMegJ1MRJ/ |
+| "Ballsy" | "Ballsy" | https://youtu.be/WycOrLcP3BA 05:15 |
