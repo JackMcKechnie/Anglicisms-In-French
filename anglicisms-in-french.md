@@ -980,3 +980,4 @@
 | "Aware" | "Aware" | https://youtu.be/qNZe5hUAfuU 04:12 |
 | "Bright" | "Bright" | https://youtu.be/qNZe5hUAfuU 04:12 |
 | "Shadow" | "Shadow" | https://youtu.be/qNZe5hUAfuU 04:12 |
+| "Street cred" | "Street cred" | https://mobile.france.tv/slash/skam-france/saison-7/2306179-un-lien-fort-integral.html 26:10 |
