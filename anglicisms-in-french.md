@@ -977,3 +977,6 @@
 | "Ballsy" | "Ballsy" | https://youtu.be/WycOrLcP3BA 05:15 |
 | "Un one pit pasta" | "One pot pasta" | https://vm.tiktok.com/ZMegHRCFA/ |
 | "Un data centre" | "Data centre" | https://vm.tiktok.com/ZMegHSocr/ |
+| "Aware" | "Aware" | https://youtu.be/qNZe5hUAfuU 04:12 |
+| "Bright" | "Bright" | https://youtu.be/qNZe5hUAfuU 04:12 |
+| "Shadow" | "Shadow" | https://youtu.be/qNZe5hUAfuU 04:12 |
