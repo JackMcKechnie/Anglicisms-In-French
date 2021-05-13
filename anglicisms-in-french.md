@@ -984,3 +984,4 @@
 | "Day off" | "Day off" | https://vm.tiktok.com/ZMegV4Byu/ |
 | "French content" | "French content" | https://vm.tiktok.com/ZMepUvQ64/ |
 | "Alright" | "Alright" | https://youtu.be/vPJdDHTYAfE 01:20 |
+| "Same situation" | "Same situation" | https://photos.app.goo.gl/CTkwv5BMPC5sn7Fc6 |
