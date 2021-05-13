@@ -983,3 +983,4 @@
 | "Street cred" | "Street cred" | https://mobile.france.tv/slash/skam-france/saison-7/2306179-un-lien-fort-integral.html 26:10 |
 | "Day off" | "Day off" | https://vm.tiktok.com/ZMegV4Byu/ |
 | "French content" | "French content" | https://vm.tiktok.com/ZMepUvQ64/ |
+| "Alright" | "Alright" | https://youtu.be/vPJdDHTYAfE 01:20 |
