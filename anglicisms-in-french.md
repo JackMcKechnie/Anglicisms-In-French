@@ -986,3 +986,4 @@
 | "Alright" | "Alright" | https://youtu.be/vPJdDHTYAfE 01:20 |
 | "Same situation" | "Same situation" | https://photos.app.goo.gl/CTkwv5BMPC5sn7Fc6 |
 | "Le washing" | "Washing" ([X]washing) | https://vm.tiktok.com/ZMesJ9mtQ/ |
+| "Yoga time" | "Yoga time" | https://vm.tiktok.com/ZMesJw7EK/ |
