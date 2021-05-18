@@ -997,3 +997,4 @@
 | "Business class" | "Business class" | https://vm.tiktok.com/ZMeGWCKRb/ |
 | "Runner" | "Runner" (Criminal) | https://vm.tiktok.com/ZMeG7j6Jh/ |
 | "L'entertainment" | "Entertainment" | https://vm.tiktok.com/ZMeGvwDdQ/ |
+| "Le white boy" | "White boy" | https://vm.tiktok.com/ZMeGwCd9n/ |
