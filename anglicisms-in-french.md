@@ -995,3 +995,4 @@
 | "Morning run" | "Morning run" | https://vm.tiktok.com/ZMeGfExLW/ |
 | "Man" | "Man" | https://mobile.france.tv/slash/skam-france/saison-8/2483057-rien-d-exceptionnel.html 13:29 |
 | "Business class" | "Business class" | https://vm.tiktok.com/ZMeGWCKRb/ |
+| "Runner" | "Runner" (Criminal) | https://vm.tiktok.com/ZMeG7j6Jh/ |
