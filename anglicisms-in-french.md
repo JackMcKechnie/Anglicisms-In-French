@@ -999,3 +999,4 @@
 | "L'entertainment" | "Entertainment" | https://vm.tiktok.com/ZMeGvwDdQ/ |
 | "Le white boy" | "White boy" | https://vm.tiktok.com/ZMeGwCd9n/ |
 | "Grunge" | "Grunge" | https://vm.tiktok.com/ZMetd3E3x/ |
+| "Le nollie flip" | "Nollie flip" | https://photos.app.goo.gl/CctMz7jz9PLWvBeb8 |
