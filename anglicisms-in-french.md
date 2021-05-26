@@ -1007,3 +1007,4 @@
 | "Happy end" | "Happy ending" | https://photos.app.goo.gl/nrU6ApFEevFPysSK8 |
 | "Unboxer" | "To unbox" | https://vm.tiktok.com/ZMeW1Bs4W/ |
 | "Le deadpan" | "Deadpan" | https://vm.tiktok.com/ZMe7KQVcp/ |
+| "Sketchy" | "Sketchy" | https://vm.tiktok.com/ZMevDhN2c/ |
