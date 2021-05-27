@@ -1011,3 +1011,4 @@
 | "Le Green" | "Green" (Golf) | https://vm.tiktok.com/ZMevPV89K/ |
 | "Sipper" | "To sip" | https://youtu.be/ci-Jt_iIthk 02:08 |
 | "Double cup" | "Double cup" | https://youtu.be/ci-Jt_iIthk 02:45 |
+| "Fly" | "Fly" | https://youtu.be/ci-Jt_iIthk 05:55 |
