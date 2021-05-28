@@ -1015,3 +1015,4 @@
 | "Le good hair day" | "Good hair day" | https://vm.tiktok.com/ZMevnGs3K/ |
 | "Unban" | "Un an" | https://vm.tiktok.com/ZMecUNMER/ |
 | "Deny" | "Deny" | https://vm.tiktok.com/ZMecUNMER/ |
+| "To the moon" | "To the moon" | https://vm.tiktok.com/ZMecHUr78/ |
