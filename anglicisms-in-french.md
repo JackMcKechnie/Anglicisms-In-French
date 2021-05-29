@@ -1018,3 +1018,5 @@
 | "To the moon" | "To the moon" | https://vm.tiktok.com/ZMecHUr78/ |
 | "Le clearweb" | "The clearweb" | https://youtu.be/GmV6lJ2Ev3g 02:14 |
 | "Le darkweb" | "The darkweb" | https://youtu.be/GmV6lJ2Ev3g 02:14 |
+| "Night city" | "Night city" | https://youtu.be/iy1ci-_uV7Y 07:00 |
+| "Le flashy" | "Flashy" | https://youtu.be/iy1ci-_uV7Y 07:00 |
