@@ -1016,3 +1016,5 @@
 | "Unban" | "Un an" | https://vm.tiktok.com/ZMecUNMER/ |
 | "Deny" | "Deny" | https://vm.tiktok.com/ZMecUNMER/ |
 | "To the moon" | "To the moon" | https://vm.tiktok.com/ZMecHUr78/ |
+| "Le clearweb" | "The clearweb" | https://youtu.be/GmV6lJ2Ev3g 02:14 |
+| "Le darkweb" | "The darkweb" | https://youtu.be/GmV6lJ2Ev3g 02:14 |
