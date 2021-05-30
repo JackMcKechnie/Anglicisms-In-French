@@ -1022,3 +1022,4 @@
 | "Le flashy" | "Flashy" | https://youtu.be/iy1ci-_uV7Y 07:00 |
 | "Le man of the year" | "Man of the year" | https://youtu.be/iy1ci-_uV7Y 09:33 |
 | "Le peer to peer learning" | "Peer to peer learning" | https://youtu.be/Ax-Qdogz6WA 01:07 |
+| "Arty" | "Arty" | https://youtu.be/Ax-Qdogz6WA 02:38 |
