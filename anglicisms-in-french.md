@@ -1024,3 +1024,5 @@
 | "Le peer to peer learning" | "Peer to peer learning" | https://youtu.be/Ax-Qdogz6WA 01:07 |
 | "Arty" | "Arty" | https://youtu.be/Ax-Qdogz6WA 02:38 |
 | "La middle-class" | "Middle class" | https://youtu.be/S0SKMzbHlgs 00:01 |
+| "Les sprites" | "Sprites" | https://youtu.be/pzXOgXmO3Tw 07:09 |
+| "Les leaks" | "Memory leaks" | https://youtu.be/pzXOgXmO3Tw 07:09 |
