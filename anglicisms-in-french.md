@@ -1027,3 +1027,4 @@
 | "Les sprites" | "Sprites" | https://youtu.be/pzXOgXmO3Tw 07:09 |
 | "Les leaks" | "Memory leaks" | https://youtu.be/pzXOgXmO3Tw 07:09 |
 | "Summer list" | "Summer list" | https://vm.tiktok.com/ZMe3wNyu5/ |
+| "Obviously" | "Obviously" | https://vm.tiktok.com/ZMe3wNbHa/ |
