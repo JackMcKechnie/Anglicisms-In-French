@@ -1031,3 +1031,4 @@
 | "Stolen" | "Stolen" | https://vm.tiktok.com/ZMe3w8uum/ |
 | "Le queerwashing" | "Queerwashing" | https://vm.tiktok.com/ZMe3KchVL/ |
 | "Pickles" | "Pickles" | https://vm.tiktok.com/ZMeT8grc6/ |
+| "Se subscriber" | "To subscribe" | https://vm.tiktok.com/ZMeTY8X7V/ |
