@@ -1034,3 +1034,4 @@
 | "Se subscriber" | "To subscribe" | https://vm.tiktok.com/ZMeTY8X7V/ |
 | "Machine learning" | "Machine learning" | https://youtu.be/ESwIqKR8P8Q 00:48 |
 | "Deep learning" | "Deep learning" | https://youtu.be/ESwIqKR8P8Q 00:48 |
+| "Mindlessness" | "Mindlessness" | https://youtu.be/ESwIqKR8P8Q 02:02 |
