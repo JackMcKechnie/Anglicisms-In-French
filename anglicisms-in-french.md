@@ -1032,3 +1032,5 @@
 | "Le queerwashing" | "Queerwashing" | https://vm.tiktok.com/ZMe3KchVL/ |
 | "Pickles" | "Pickles" | https://vm.tiktok.com/ZMeT8grc6/ |
 | "Se subscriber" | "To subscribe" | https://vm.tiktok.com/ZMeTY8X7V/ |
+| "Machine learning" | "Machine learning" | https://youtu.be/ESwIqKR8P8Q 00:48 |
+| "Deep learning" | "Deep learning" | https://youtu.be/ESwIqKR8P8Q 00:48 |
