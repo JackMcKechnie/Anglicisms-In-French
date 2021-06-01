@@ -1038,3 +1038,4 @@
 | "Le full connected" | "Full connected" (Deep learning) | https://youtu.be/ESwIqKR8P8Q 07:07 |
 | "Input" | "Input" | https://youtu.be/ESwIqKR8P8Q 07:15 |
 | "Output" | "Output" | https://youtu.be/ESwIqKR8P8Q 07:15 |
+| "Friends" | "Friends" | https://youtu.be/ESwIqKR8P8Q 12:42 |
