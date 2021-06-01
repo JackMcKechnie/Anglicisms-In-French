@@ -1036,3 +1036,5 @@
 | "Deep learning" | "Deep learning" | https://youtu.be/ESwIqKR8P8Q 00:48 |
 | "Mindlessness" | "Mindlessness" | https://youtu.be/ESwIqKR8P8Q 02:02 |
 | "Le full connected" | "Full connected" (Deep learning) | https://youtu.be/ESwIqKR8P8Q 07:07 |
+| "Input" | "Input" | https://youtu.be/ESwIqKR8P8Q 07:15 |
+| "Output" | "Output" | https://youtu.be/ESwIqKR8P8Q 07:15 |
