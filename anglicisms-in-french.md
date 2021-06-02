@@ -1039,3 +1039,4 @@
 | "Input" | "Input" | https://youtu.be/ESwIqKR8P8Q 07:15 |
 | "Output" | "Output" | https://youtu.be/ESwIqKR8P8Q 07:15 |
 | "Friends" | "Friends" | https://youtu.be/ESwIqKR8P8Q 12:42 |
+| "Le shell" | "Shell" (Computing) | https://youtu.be/d2_EP6lrgTY 02:25 |
