@@ -1044,3 +1044,4 @@
 | "Give up" | "Give up" | https://youtu.be/rXSITQqaVMo 02:37 |
 | "One shot" | "One shot" | https://youtu.be/5tJFVOxbi5I 04:03 |
 | "Cheap" | "Cheap" | https://youtu.be/5tJFVOxbi5I 09:22 |
+| "Les flops" | "Flops" | https://youtu.be/5tJFVOxbi5I 10:13 |
