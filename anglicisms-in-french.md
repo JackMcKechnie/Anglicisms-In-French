@@ -1048,3 +1048,5 @@
 | "Step sister" | "Step sister" | https://vm.tiktok.com/ZMewg42LT/ |
 | "Indoor" | "Indoor" | https://photos.app.goo.gl/2BXn79tpPtuoqLob9 |
 | "Le big bang" | "The big bang" | https://photos.app.goo.gl/WetjbQKd8ejVrzx19 |
+| "Le touchdown" | "Touchdown" | https://vm.tiktok.com/ZMd1W85Aa/ |
+| "Razzle dazzle" | "Razzle dazzle" | https://vm.tiktok.com/ZMd1W8jjn/ |
