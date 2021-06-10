@@ -1051,3 +1051,5 @@
 | "Le touchdown" | "Touchdown" | https://vm.tiktok.com/ZMd1W85Aa/ |
 | "Razzle dazzle" | "Razzle dazzle" | https://vm.tiktok.com/ZMd1W8jjn/ |
 | "Accurate" | "Accurate" | https://vm.tiktok.com/ZMd1vog7d/ |
+| "Virgin" | "Virgin" | https://vm.tiktok.com/ZMdeEmowR/ |
+| "Get the camera" | "Get the camera" | https://vm.tiktok.com/ZMdeEQE2W/ |
