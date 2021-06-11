@@ -1053,3 +1053,4 @@
 | "Accurate" | "Accurate" | https://vm.tiktok.com/ZMd1vog7d/ |
 | "Virgin" | "Virgin" | https://vm.tiktok.com/ZMdeEmowR/ |
 | "Get the camera" | "Get the camera" | https://vm.tiktok.com/ZMdeEQE2W/ |
+| "Dumphone" | "Dumphone" | https://youtu.be/sk3sx3vGzXM |
