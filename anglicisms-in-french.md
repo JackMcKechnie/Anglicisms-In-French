@@ -1055,3 +1055,4 @@
 | "Get the camera" | "Get the camera" | https://vm.tiktok.com/ZMdeEQE2W/ |
 | "Dumphone" | "Dumphone" | https://youtu.be/sk3sx3vGzXM |
 | "Triggerer" | "To trigger" | https://vm.tiktok.com/ZMdNjT1aY/ |
+| "X in the face" | "X in the face" | https://vm.tiktok.com/ZMdN6uKCD/ |
