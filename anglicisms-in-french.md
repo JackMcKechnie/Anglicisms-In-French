@@ -1056,3 +1056,7 @@
 | "Dumphone" | "Dumphone" | https://youtu.be/sk3sx3vGzXM |
 | "Triggerer" | "To trigger" | https://vm.tiktok.com/ZMdNjT1aY/ |
 | "X in the face" | "X in the face" | https://vm.tiktok.com/ZMdN6uKCD/ |
+| "Le spine" | "Le spine" | https://vm.tiktok.com/ZMdFX8gLX/ |
+| "Whip to bar" | "Whip to bar" (BMX) | https://vm.tiktok.com/ZMdFX8gLX/ |
+| "Switch" | "Switch" (BMX) | https://vm.tiktok.com/ZMdFX8gLX/ |
+| "Whip" | "Whip" | https://vm.tiktok.com/ZMdFX8gLX/ |
