@@ -1064,3 +1064,4 @@
 | "Fire in the hole" | "Fire in the hole" | https://photos.app.goo.gl/4ypcUfJMHSRrdqHr7 |
 | "Salt-proof" | "Salt-proof" | https://youtu.be/a6g4nLLkBdk 08:44 |
 | "Help a girl out" | "Help a girl out" | https://vm.tiktok.com/ZMdjGpVLo/ |
+| "Une mask-lift" | "A mask lift" | https://photos.app.goo.gl/K3cS9hKx3xYWCzuv5 |
