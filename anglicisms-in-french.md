@@ -1061,3 +1061,4 @@
 | "Switch" | "Switch" (BMX) | https://vm.tiktok.com/ZMdFX8gLX/ |
 | "Whip" | "Whip" | https://vm.tiktok.com/ZMdFX8gLX/ |
 | "La groove" | "The groove" | https://youtu.be/TTD-wCmvHLA |
+| "Fire in the hole" | "Fire in the hole" | https://photos.app.goo.gl/4ypcUfJMHSRrdqHr7 |
