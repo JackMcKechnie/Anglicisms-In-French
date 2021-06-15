@@ -1062,3 +1062,4 @@
 | "Whip" | "Whip" | https://vm.tiktok.com/ZMdFX8gLX/ |
 | "La groove" | "The groove" | https://youtu.be/TTD-wCmvHLA |
 | "Fire in the hole" | "Fire in the hole" | https://photos.app.goo.gl/4ypcUfJMHSRrdqHr7 |
+| "Salt-proof" | "Salt-proof" | https://youtu.be/a6g4nLLkBdk 08:44 |
