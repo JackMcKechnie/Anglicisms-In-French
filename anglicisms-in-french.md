@@ -1060,3 +1060,4 @@
 | "Whip to bar" | "Whip to bar" (BMX) | https://vm.tiktok.com/ZMdFX8gLX/ |
 | "Switch" | "Switch" (BMX) | https://vm.tiktok.com/ZMdFX8gLX/ |
 | "Whip" | "Whip" | https://vm.tiktok.com/ZMdFX8gLX/ |
+| "La groove" | "The groove" | https://youtu.be/TTD-wCmvHLA |
