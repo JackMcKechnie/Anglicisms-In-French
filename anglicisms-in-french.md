@@ -1066,3 +1066,4 @@
 | "Help a girl out" | "Help a girl out" | https://vm.tiktok.com/ZMdjGpVLo/ |
 | "Une mask-lift" | "A mask lift" | https://photos.app.goo.gl/K3cS9hKx3xYWCzuv5 |
 | "Le pit wall" | "The pit wall" | https://vm.tiktok.com/ZMd6CpXSJ/ |
+| "Scotch egg" | "Scotch egg" | https://vm.tiktok.com/ZMdMJDUYG/ |
