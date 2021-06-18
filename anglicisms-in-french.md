@@ -1073,3 +1073,4 @@
 | "Tunnel vision" | "Tunnel vision" | https://youtu.be/IV5ucqwOJNQ 04:58 |
 | "Kill switch" | "Kill switch" | https://vm.tiktok.com/ZMdkJ3XtL/ |
 | "Target" | "Target" | https://vm.tiktok.com/ZMdkNFPd9/ |
+| "Happy pride" | "Happy pride" | https://vm.tiktok.com/ZMdkN4vGp/ |
