@@ -1076,3 +1076,4 @@
 | "Happy pride" | "Happy pride" | https://vm.tiktok.com/ZMdkN4vGp/ |
 | "It got me thinking" | "It got me thinking" | https://vm.tiktok.com/ZMdk62vQe/ |
 | "Sugar mummy" | "Sugar mummy" | https://vm.tiktok.com/ZMdkBe6cC/ |
+| "Tips" | "Tips" (Money) | https://vm.tiktok.com/ZMdkSf2pc/ |
