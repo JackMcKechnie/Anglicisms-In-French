@@ -1074,3 +1074,4 @@
 | "Kill switch" | "Kill switch" | https://vm.tiktok.com/ZMdkJ3XtL/ |
 | "Target" | "Target" | https://vm.tiktok.com/ZMdkNFPd9/ |
 | "Happy pride" | "Happy pride" | https://vm.tiktok.com/ZMdkN4vGp/ |
+| "It got me thinking" | "It got me thinking" | https://vm.tiktok.com/ZMdk62vQe/ |
