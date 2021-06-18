@@ -1070,3 +1070,4 @@
 | "Karma is a bitch" | "Karma is a bitch" | https://vm.tiktok.com/ZMdM8FyUw/ |
 | "Open access" | "Open access" | https://youtu.be/CEq1aJeBfZo 03:10 |
 | "Le jerk" | "Jerk" | https://youtu.be/IV5ucqwOJNQ 03:47 |
+| "Tunnel vision" | "Tunnel vision" | https://youtu.be/IV5ucqwOJNQ 04:58 |
