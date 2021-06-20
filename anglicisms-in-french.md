@@ -1079,3 +1079,4 @@
 | "Tips" | "Tips" (Money) | https://vm.tiktok.com/ZMdkSf2pc/ |
 | "Stater" | "To state" | https://vm.tiktok.com/ZMdkyFrMd/ |
 | "Speed riding" | "Speed riding" | https://vm.tiktok.com/ZMdSWvFJ9/ |
+| "Colourblind" | "Colourblind" | https://vm.tiktok.com/ZMdALmVD4/ |
