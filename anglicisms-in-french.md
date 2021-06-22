@@ -1084,3 +1084,4 @@
 | "Un crowdfunding" | "A crowdfunder" | https://youtu.be/elmWjol4XM0 01:08 |
 | "Tuner" | "To tune" (Cars) | https://youtu.be/elmWjol4XM0 01:17 |
 | "He crazy" | "He (is) crazy" | https://vm.tiktok.com/ZMdUFjADe/ |
+| "Fame" | "Fame" | https://youtu.be/17cNUsu7coU 00:24 |
