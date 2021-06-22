@@ -1083,3 +1083,4 @@
 | "New palce of X new me" | "New place of X new me" | https://youtu.be/Dm99SMvyKZg 01:08 |
 | "Un crowdfunding" | "A crowdfunder" | https://youtu.be/elmWjol4XM0 01:08 |
 | "Tuner" | "To tune" (Cars) | https://youtu.be/elmWjol4XM0 01:17 |
+| "He crazy" | "He (is) crazy" | https://vm.tiktok.com/ZMdUFjADe/ |
