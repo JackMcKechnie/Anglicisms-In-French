@@ -808,7 +808,7 @@
 | "Taping" | "Taping" | https://vm.tiktok.com/ZMerDqnXv/ |
 | "Full" | "Full" | https://vm.tiktok.com/ZMerEjBTn/ |
 | "Le doomscrolling" | "Doomscrolling" | https://youtu.be/Owcjufx9eUk 00:06 |
-| "Les swiniging sixties" | "The swinging sixties" | https://youtu.be/Owcjufx9eUk 00:27 |
+| "Les swinging sixties" | "The swinging sixties" | https://youtu.be/Owcjufx9eUk 00:27 |
 | "Le summer of love" | "The summer of love" | https://youtu.be/Owcjufx9eUk 00:27 |
 | "Binger" | "To binge" | https://youtu.be/KVAptiEUYT8 00:47 |
 | "Garlic bread" | "Garlic bread" | https://vm.tiktok.com/ZMehydd5t/ |
@@ -1089,3 +1089,4 @@
 | "New money" | "New money" | https://vm.tiktok.com/ZMdUu21jB/ |
 | "Men in progress" | "Men in progress" | https://youtu.be/3wTNgUG5PCY 01:07 |
 | "Bitch what" | "Bitch what" | https://vm.tiktok.com/ZMdyUyRYt/ |
+| "Wings" | "Wings" (Food) | https://vm.tiktok.com/ZMdyfs2vQ/ |
