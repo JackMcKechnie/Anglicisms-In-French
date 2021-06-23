@@ -1085,3 +1085,5 @@
 | "Tuner" | "To tune" (Cars) | https://youtu.be/elmWjol4XM0 01:17 |
 | "He crazy" | "He (is) crazy" | https://vm.tiktok.com/ZMdUFjADe/ |
 | "Fame" | "Fame" | https://youtu.be/17cNUsu7coU 00:24 |
+| "Old money" | "Old money" | https://vm.tiktok.com/ZMdUu21jB/ |
+| "New money" | "New money" | https://vm.tiktok.com/ZMdUu21jB/ |
