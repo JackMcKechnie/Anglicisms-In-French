@@ -1090,3 +1090,4 @@
 | "Men in progress" | "Men in progress" | https://youtu.be/3wTNgUG5PCY 01:07 |
 | "Bitch what" | "Bitch what" | https://vm.tiktok.com/ZMdyUyRYt/ |
 | "Wings" | "Wings" (Food) | https://vm.tiktok.com/ZMdyfs2vQ/ |
+| "Killer" | "To kill" | https://vm.tiktok.com/ZMdfjfhvx/ |
