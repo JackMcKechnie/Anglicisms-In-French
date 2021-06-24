@@ -1091,3 +1091,4 @@
 | "Bitch what" | "Bitch what" | https://vm.tiktok.com/ZMdyUyRYt/ |
 | "Wings" | "Wings" (Food) | https://vm.tiktok.com/ZMdyfs2vQ/ |
 | "Killer" | "To kill" | https://vm.tiktok.com/ZMdfjfhvx/ |
+| "Goal" | "Goal" (Sports) | https://vm.tiktok.com/ZMdf6J4vD/ |
