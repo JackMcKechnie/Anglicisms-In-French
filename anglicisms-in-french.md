@@ -1101,3 +1101,4 @@
 | "Funky" | "Funky" | https://vm.tiktok.com/ZMdPQAohW/ |
 | "Warrior" | "Warrior" | https://vm.tiktok.com/ZMdPQAohW/ |
 | "Irl" | "Irl" (In real life) | https://vm.tiktok.com/ZMdPQkBgu/ |
+| "Sextape" | "Sextape" | https://vm.tiktok.com/ZMdPCRTwJ/ |
