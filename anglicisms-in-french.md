@@ -1097,3 +1097,4 @@
 | "A few moments later" | "A few moments later" | https://vm.tiktok.com/ZMdfrpmb9/ |
 | "Up" | "Up" | https://vm.tiktok.com/ZMdPSWCgB/ |
 | "This is the fit" | "This is the fit" | https://vm.tiktok.com/ZMdPupR2T/ |
+| "Le cold brew" | "Cold brew" | https://photos.app.goo.gl/1DX2B6KqxsZozWjL7 |
