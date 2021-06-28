@@ -1106,3 +1106,4 @@
 | "Same" | "Same" | https://photos.app.goo.gl/uPY9eXieYrsfARiB7 |
 | "Brand new X" | "Brand new X" | https://vm.tiktok.com/ZMd5Wn8Sx/ |
 | "No shame" | "No shame" | https://vm.tiktok.com/ZMd57nW1L/ |
+| "London" | "London" | https://vm.tiktok.com/ZMd5cExPf/ |
