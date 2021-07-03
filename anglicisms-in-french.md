@@ -1110,3 +1110,4 @@
 | "Grooming" | "Grooming" | https://vm.tiktok.com/ZMdmhqS6P/ |
 | "Un garden party" | "Garden party" | https://vm.tiktok.com/ZMdmEE7Hf/ |
 | "Mate" | "Mate" | https://vm.tiktok.com/ZMdHaTHbL/ |
+| "Soft" | "Soft" | https://vm.tiktok.com/ZMdHu2CpN/ |
