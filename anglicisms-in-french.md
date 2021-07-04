@@ -1112,3 +1112,4 @@
 | "Mate" | "Mate" | https://vm.tiktok.com/ZMdHaTHbL/ |
 | "Soft" | "Soft" | https://vm.tiktok.com/ZMdHu2CpN/ |
 | "Watch me" | "Watch me" | https://vm.tiktok.com/ZMdH7c9Tt/ |
+| "Crystal meth" | "Crystal meth" | https://vm.tiktok.com/ZMd946Nk1/ |
