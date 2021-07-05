@@ -1115,3 +1115,4 @@
 | "Crystal meth" | "Crystal meth" | https://vm.tiktok.com/ZMd946Nk1/ |
 | "Out of X" | "Out of X" | https://vm.tiktok.com/ZMdx1vNFf/ |
 | "If he wanted to he would" | "If he wanted to he would" | https://vm.tiktok.com/ZMdxew8sB/ |
+| "Le fist fucking" | "Fist fucking" | https://youtu.be/Z7UmYuaENiY 11:42 |
