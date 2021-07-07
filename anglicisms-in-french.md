@@ -1118,3 +1118,5 @@
 | "Le fist fucking" | "Fist fucking" | https://youtu.be/Z7UmYuaENiY 11:42 |
 | "Hi guys" | "Hi guys" | https://vm.tiktok.com/ZMdQNn65D/ |
 | "Birthday present" | "Birthday present" | https://youtu.be/mPkXMgtFz3U 01:37 |
+| "Sixties" | "Sixties" | https://youtu.be/mPkXMgtFz3U 07:05 |
+| "Seventies" | "Seventies" | https://youtu.be/mPkXMgtFz3U 07:05 |
