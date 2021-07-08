@@ -1123,3 +1123,4 @@
 | "Grind" | "Grind" | https://vm.tiktok.com/ZMdCcAVmJ/ |
 | "You know" | "You know" | https://vm.tiktok.com/ZMdCK7PS4/ |
 | "Hangover" | "Hangover" | https://vm.tiktok.com/ZMdCEN4rG/ |
+| "Quantative easing" | "Quantative easing" | https://vm.tiktok.com/ZMdX1D5n6/ |
