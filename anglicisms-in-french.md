@@ -1124,3 +1124,4 @@
 | "You know" | "You know" | https://vm.tiktok.com/ZMdCK7PS4/ |
 | "Hangover" | "Hangover" | https://vm.tiktok.com/ZMdCEN4rG/ |
 | "Quantative easing" | "Quantative easing" | https://vm.tiktok.com/ZMdX1D5n6/ |
+| "Fifties" | "Fifties" | https://photos.app.goo.gl/MD6QvR9XJ3QABBM97 |
