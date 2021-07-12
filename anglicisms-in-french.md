@@ -1126,3 +1126,4 @@
 | "Quantative easing" | "Quantative easing" | https://vm.tiktok.com/ZMdX1D5n6/ |
 | "Fifties" | "Fifties" | https://photos.app.goo.gl/MD6QvR9XJ3QABBM97 |
 | "Check-in" | "Check-in" | https://photos.app.goo.gl/bnXTG3KtB2Qgxwk59 |
+| "New Age" | "New Age" | https://photos.app.goo.gl/LMftWEGcWBRK3iBP7 |
