@@ -1130,3 +1130,5 @@
 | "No makeup" | "No makeup" | https://photos.app.goo.gl/aPEriTk5gisAzDnx7 |
 | "Cheers" | "Cheers" | https://vm.tiktok.com/ZMdVvBn9T/ |
 | "Recall" | "Recalled" | https://youtu.be/qbzvJE7sg_g 08:00 |
+| "Grwm" | "Gram" (Get Ready With Me) | https://vm.tiktok.com/ZMdb4RCRg/ |
+| "Full makeup" | "Full makeup" | https://vm.tiktok.com/ZMdb4RCRg/ |
