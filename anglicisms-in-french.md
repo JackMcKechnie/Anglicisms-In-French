@@ -1132,3 +1132,4 @@
 | "Recall" | "Recalled" | https://youtu.be/qbzvJE7sg_g 08:00 |
 | "Grwm" | "Gram" (Get Ready With Me) | https://vm.tiktok.com/ZMdb4RCRg/ |
 | "Full makeup" | "Full makeup" | https://vm.tiktok.com/ZMdb4RCRg/ |
+| "Bruh" | "Bruh" | https://vm.tiktok.com/ZMdbVWoPG/ |
