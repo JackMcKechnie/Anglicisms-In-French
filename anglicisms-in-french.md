@@ -1135,3 +1135,4 @@
 | "Bruh" | "Bruh" | https://vm.tiktok.com/ZMdbVWoPG/ |
 | "La British touch" | "The British touch" | https://open.spotify.com/episode/0qCPia4ayYosTRLTQoens0?si=zYUXaawsRdea5MNG0L-kNg&utm_source=copy-link&dl_branch=1 03:00 |
 | "Timer" | "To time" | https://vm.tiktok.com/ZMdp4fxvD/ |
+| "Is the new" | "Is the new" | https://photos.app.goo.gl/Pyx3XWQWUhza4Pth6 |
