@@ -1139,3 +1139,5 @@
 | "Rent free" | "Rent free" | https://vm.tiktok.com/ZMdsxEvoQ/ |
 | "Let's say" | "Let's say" | https://youtu.be/2_HowSz7zPM |
 | "I'm back home" | "I'm back home" | https://vm.tiktok.com/ZMdGAMHDk/ |
+| "AKA" | "AKA" | https://vm.tiktok.com/ZMdGyX5SW/ |
+| "Les food avengers" | "The good avengers" | https://vm.tiktok.com/ZMdGyX5SW/ |
