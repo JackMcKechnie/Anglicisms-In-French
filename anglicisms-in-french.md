@@ -1137,3 +1137,4 @@
 | "Timer" | "To time" | https://vm.tiktok.com/ZMdp4fxvD/ |
 | "Is the new" | "Is the new" | https://photos.app.goo.gl/Pyx3XWQWUhza4Pth6 |
 | "Rent free" | "Rent free" | https://vm.tiktok.com/ZMdsxEvoQ/ |
+| "Let's say" | "Let's say" | https://youtu.be/2_HowSz7zPM |
