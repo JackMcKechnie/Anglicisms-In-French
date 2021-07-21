@@ -1145,3 +1145,4 @@
 | "The beginner luck" | "Beginners luck" | https://photos.app.goo.gl/PcyuXBJ7xEBBkeSd8 |
 | "This is time to X" | "This is time to X" | https://vm.tiktok.com/ZMdt2JE8u/ |
 | "Open the door" | "Open the door" | https://vm.tiktok.com/ZMdt2K4cy/ |
+| "Blender" | "To blend" | https://vm.tiktok.com/ZMdtj7NbX/ |
