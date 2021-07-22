@@ -1146,3 +1146,4 @@
 | "This is time to X" | "This is time to X" | https://vm.tiktok.com/ZMdt2JE8u/ |
 | "Open the door" | "Open the door" | https://vm.tiktok.com/ZMdt2K4cy/ |
 | "Blender" | "To blend" | https://vm.tiktok.com/ZMdtj7NbX/ |
+| "Frechy" | "Frenchy" | https://vm.tiktok.com/ZMdtrArVd/ |
