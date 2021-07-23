@@ -1149,3 +1149,4 @@
 | "Frechy" | "Frenchy" | https://vm.tiktok.com/ZMdtrArVd/ |
 | "What's in my bag" | "What's in my bag" | https://vm.tiktok.com/ZMdtchGwm/ |
 | "Bag" | "Bag" | https://vm.tiktok.com/ZMdtchGwm/ |
+| "Le detailing" | "Detailing" | https://vm.tiktok.com/ZMdnp4xYe/ |
