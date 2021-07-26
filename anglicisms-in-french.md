@@ -1151,3 +1151,4 @@
 | "Bag" | "Bag" | https://vm.tiktok.com/ZMdtchGwm/ |
 | "Le detailing" | "Detailing" | https://vm.tiktok.com/ZMdnp4xYe/ |
 | "Made in Brazil" | "Made in Brazil" | https://vm.tiktok.com/ZMdWjJAmg/ |
+| "360 flip" | "360 flip" | https://vm.tiktok.com/ZMd7eNvTC/ |
