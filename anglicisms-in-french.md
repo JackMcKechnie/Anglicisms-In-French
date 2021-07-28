@@ -1154,3 +1154,4 @@
 | "360 flip" | "360 flip" | https://vm.tiktok.com/ZMd7eNvTC/ |
 | "Over" | "Over" | https://m.tiktok.com/v/6989595876629007622.html?u_code=dagdgg47dia36h&preview_pb=0&language=fr&_d=dfl38721igc29k&share_item_id=6989595876629007622&source=h5_m&timestamp=1627427325&user_id=6787432536429413382&sec_user_id=MS4wLjABAAAAbZiig0cBxBuNITSjqr0cNslDtWxO0EUBQduq89l1wkcavChPki3qH5Sna8P_BQMu&utm_source=copy&utm_campaign=client_share&utm_medium=android&share_iid=6988562450828592902&share_link_id=8dc42d43-3951-452d-b0d7-b48a01c14cf1&share_app_id=1233 |
 | "Goofy" | "Goofy" (Surfing) | https://vm.tiktok.com/ZMdv1qtvN/ |
+| "Take a break" | "Take a break" | https://vm.tiktok.com/ZMdvk65Sp/ |
