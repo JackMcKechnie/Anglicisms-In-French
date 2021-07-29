@@ -1157,3 +1157,4 @@
 | "Take a break" | "Take a break" | https://vm.tiktok.com/ZMdvk65Sp/ |
 | "Print" | "Prints" (Photos) | https://youtu.be/rx0M-XVfrNM 05:34 |
 | "Social media management" | "Social media management" | https://vm.tiktok.com/ZMdvXoEwK/ |
+| "Pitch Black" | "Pitch black" | https://vm.tiktok.com/ZMdvgJoNv/ |
