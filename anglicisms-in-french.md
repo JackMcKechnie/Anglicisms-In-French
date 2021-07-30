@@ -1158,3 +1158,4 @@
 | "Print" | "Prints" (Photos) | https://youtu.be/rx0M-XVfrNM 05:34 |
 | "Social media management" | "Social media management" | https://vm.tiktok.com/ZMdvXoEwK/ |
 | "Pitch Black" | "Pitch black" | https://vm.tiktok.com/ZMdvgJoNv/ |
+| "Un one pot rice" | "One pot rice" | https://vm.tiktok.com/ZMdcAgrQb/ |
