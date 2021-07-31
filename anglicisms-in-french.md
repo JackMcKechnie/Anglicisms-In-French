@@ -1160,3 +1160,4 @@
 | "Pitch Black" | "Pitch black" | https://vm.tiktok.com/ZMdvgJoNv/ |
 | "Un one pot rice" | "One pot rice" | https://vm.tiktok.com/ZMdcAgrQb/ |
 | "It is very good" | "It is very good" | https://vm.tiktok.com/ZMdcC4bYa/ |
+| "Back to basic" | "Back to basics" | https://vm.tiktok.com/ZMdcpc3JS/ |
