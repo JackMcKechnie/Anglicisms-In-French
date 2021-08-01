@@ -1166,3 +1166,6 @@
 | "La hot sauce" | "Hot sauce" | https://open.spotify.com/track/4Q3GEVmorIaMwAbWoG63Lb?si=EKn6K4VwTQOJ2uPxoMtIxw&utm_source=copy-link&dl_branch=1 00:30 |
 | "Condoms" | "Condoms" | https://open.spotify.com/track/4Q3GEVmorIaMwAbWoG63Lb?si=EKn6K4VwTQOJ2uPxoMtIxw&utm_source=copy-link&dl_branch=1 00:53 |
 | "Kingdom" | "Kingdom" | https://open.spotify.com/track/4Q3GEVmorIaMwAbWoG63Lb?si=EKn6K4VwTQOJ2uPxoMtIxw&utm_source=copy-link&dl_branch=1 01:01 |
+| "Network" | "Network" | https://youtu.be/rJbJ2sxgBXM 03:42 |
+| "I know you" | "I know you" | https://youtu.be/rJbJ2sxgBXM 04:20 |
+| "Work in progress" | "Work in progress" | https://youtu.be/rJbJ2sxgBXM 04:44 |
