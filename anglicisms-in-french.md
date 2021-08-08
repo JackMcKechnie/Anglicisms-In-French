@@ -1180,3 +1180,5 @@
 | "Horny bitch" | "Horny bitch" | https://vm.tiktok.com/ZMdKSFysY/ |
 | "Food court" | "Food court" | https://vm.tiktok.com/ZMdK4HdJx/ |
 | "Very nice" | "Very nice" | https://vm.tiktok.com/ZMdK4Ardf/ |
+| "Une screen bar" | "Screen bar" | https://vm.tiktok.com/ZMdKgUrcq/ |
+| "Les set ups" | "Set ups" | https://vm.tiktok.com/ZMdKgUrcq/ |
