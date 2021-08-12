@@ -1189,3 +1189,4 @@
 | "Short" | "Short" | https://vm.tiktok.com/ZMR1qKTQd/ |
 | "Straight to the point" | "Straight to the point" | https://vm.tiktok.com/ZMR1TvobQ/ |
 | "Un finish" | "A finish" | https://vm.tiktok.com/ZMR1oP4qj/ |
+| "Cook kid" | "Cool kids" | https://vm.tiktok.com/ZMRJg9HRd/ |
