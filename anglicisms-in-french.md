@@ -1188,3 +1188,4 @@
 | "Body painting" | "Body painting" | https://vm.tiktok.com/ZMR1q7qdd/ |
 | "Short" | "Short" | https://vm.tiktok.com/ZMR1qKTQd/ |
 | "Straight to the point" | "Straight to the point" | https://vm.tiktok.com/ZMR1TvobQ/ |
+| "Un finish" | "A finish" | https://vm.tiktok.com/ZMR1oP4qj/ |
