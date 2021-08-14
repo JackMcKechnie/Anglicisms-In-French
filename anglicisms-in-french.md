@@ -1191,3 +1191,4 @@
 | "Un finish" | "A finish" | https://vm.tiktok.com/ZMR1oP4qj/ |
 | "Cook kid" | "Cool kids" | https://vm.tiktok.com/ZMRJg9HRd/ |
 | "Le start" | "The start" | https://vm.tiktok.com/ZMReuLfXG/ |
+| "Huge" | "Huge" | https://vm.tiktok.com/ZMRdScX1A/ |
