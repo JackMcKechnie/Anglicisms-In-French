@@ -1193,3 +1193,5 @@
 | "Le start" | "The start" | https://vm.tiktok.com/ZMReuLfXG/ |
 | "Huge" | "Huge" | https://vm.tiktok.com/ZMRdScX1A/ |
 | "Stoic's gang" | "Stoics gang" | https://vm.tiktok.com/ZMRdo6BDD/ |
+| "Not all men" | "Not all men" | https://photos.app.goo.gl/deuCQcfQZULPPJNu7 |
+| "All women" | "All women" | https://photos.app.goo.gl/deuCQcfQZULPPJNu7 |
