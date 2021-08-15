@@ -1192,3 +1192,4 @@
 | "Cook kid" | "Cool kids" | https://vm.tiktok.com/ZMRJg9HRd/ |
 | "Le start" | "The start" | https://vm.tiktok.com/ZMReuLfXG/ |
 | "Huge" | "Huge" | https://vm.tiktok.com/ZMRdScX1A/ |
+| "Stoic's gang" | "Stoics gang" | https://vm.tiktok.com/ZMRdo6BDD/ |
