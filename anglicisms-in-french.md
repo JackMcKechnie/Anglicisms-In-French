@@ -1199,3 +1199,4 @@
 | "Previously" | "Previously" | https://youtu.be/Ez9Db_34MiM 00:00 |
 | "Try on" | "Try on" | https://vm.tiktok.com/ZMR8n6eUY/ |
 | "Guess what" | "Guess what" | https://vm.tiktok.com/ZMRLVNay5/ |
+| "Lucky him" | "Lucky him" | https://photos.app.goo.gl/H2YHaH5BdkADmT9x8 |
