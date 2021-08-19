@@ -1200,3 +1200,4 @@
 | "Try on" | "Try on" | https://vm.tiktok.com/ZMR8n6eUY/ |
 | "Guess what" | "Guess what" | https://vm.tiktok.com/ZMRLVNay5/ |
 | "Lucky him" | "Lucky him" | https://photos.app.goo.gl/H2YHaH5BdkADmT9x8 |
+| "Hip dips" | "Hip dips" | https://vm.tiktok.com/ZMRNX3fjC/ |
