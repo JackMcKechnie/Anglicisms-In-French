@@ -1201,3 +1201,4 @@
 | "Guess what" | "Guess what" | https://vm.tiktok.com/ZMRLVNay5/ |
 | "Lucky him" | "Lucky him" | https://photos.app.goo.gl/H2YHaH5BdkADmT9x8 |
 | "Hip dips" | "Hip dips" | https://vm.tiktok.com/ZMRNX3fjC/ |
+| "Shotgun" | "Shotgun" (A drink) | https://vm.tiktok.com/ZMRFsU2TV/ |
