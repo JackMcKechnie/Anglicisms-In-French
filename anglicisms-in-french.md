@@ -1202,3 +1202,4 @@
 | "Lucky him" | "Lucky him" | https://photos.app.goo.gl/H2YHaH5BdkADmT9x8 |
 | "Hip dips" | "Hip dips" | https://vm.tiktok.com/ZMRNX3fjC/ |
 | "Shotgun" | "Shotgun" (A drink) | https://vm.tiktok.com/ZMRFsU2TV/ |
+| "Soy sauce" | "Soy sauce" | https://vm.tiktok.com/ZMRjbaawJ/ |
