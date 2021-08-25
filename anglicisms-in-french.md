@@ -1203,3 +1203,5 @@
 | "Hip dips" | "Hip dips" | https://vm.tiktok.com/ZMRNX3fjC/ |
 | "Shotgun" | "Shotgun" (A drink) | https://vm.tiktok.com/ZMRFsU2TV/ |
 | "Soy sauce" | "Soy sauce" | https://vm.tiktok.com/ZMRjbaawJ/ |
+| "Service dogs"  | "Service dogs" | https://vm.tiktok.com/ZMR69efJk/ |
+| "Trained" | "Trained" | https://vm.tiktok.com/ZMR69efJk/ |
