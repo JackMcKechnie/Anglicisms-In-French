@@ -1212,3 +1212,4 @@
 | "Le deepwater" | "Deepwater solo" (Climbing) | https://vm.tiktok.com/ZMRrsoEMc/ |
 | "Cinnamon rolls" | "Cinamon rolls" | https://vm.tiktok.com/ZMRrGHxrj/ |
 | "Underrated" | "Underrated" | https://vm.tiktok.com/ZMRrGHxrj/ |
+| "Insane" | "Insane" | https://vm.tiktok.com/ZMRrtKYFC/ |
