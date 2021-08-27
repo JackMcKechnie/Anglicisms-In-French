@@ -1207,3 +1207,5 @@
 | "Trained" | "Trained" | https://vm.tiktok.com/ZMR69efJk/ |
 | "Long shot" | "Long shots" | https://m.tiktok.com/v/6999291903191567622.html?u_code=dagdgg47dia36h&preview_pb=0&language=fr&_d=dfl38721igc29k&share_item_id=6999291903191567622&source=h5_m&timestamp=1629911504&user_id=6787432536429413382&sec_user_id=MS4wLjABAAAAbZiig0cBxBuNITSjqr0cNslDtWxO0EUBQduq89l1wkcavChPki3qH5Sna8P_BQMu&utm_source=copy&utm_campaign=client_share&utm_medium=android&share_iid=6997321440170133253&share_link_id=85e97c59-63fb-439e-81e1-2ba659bc9d45&share_app_id=1233 |
 | "Golden shower" | "Golden shower" | https://vm.tiktok.com/ZMRMgWKp9/ |
+| "You already know" | "You already know" | https://vm.tiktok.com/ZMRr4Ae9h/ |
+| "Cottage cheese" | "Cottage cheese" | https://vm.tiktok.com/ZMRr4Ae9h/ |
