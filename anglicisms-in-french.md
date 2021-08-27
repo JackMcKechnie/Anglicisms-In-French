@@ -1209,3 +1209,4 @@
 | "Golden shower" | "Golden shower" | https://vm.tiktok.com/ZMRMgWKp9/ |
 | "You already know" | "You already know" | https://vm.tiktok.com/ZMRr4Ae9h/ |
 | "Cottage cheese" | "Cottage cheese" | https://vm.tiktok.com/ZMRr4Ae9h/ |
+| "Le deepwater" | "Deepwater solo" (Climbing) | https://vm.tiktok.com/ZMRrsoEMc/ |
