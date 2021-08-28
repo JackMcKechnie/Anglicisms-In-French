@@ -1214,3 +1214,6 @@
 | "Underrated" | "Underrated" | https://vm.tiktok.com/ZMRrGHxrj/ |
 | "Insane" | "Insane" | https://vm.tiktok.com/ZMRrtKYFC/ |
 | "Cowgirl" | "Cowgirl" | https://vm.tiktok.com/ZMRhXRHTf/ |
+| "Big love" | "Big love" | https://open.spotify.com/track/1oUUEWfTQJu6pxuTKmN8GB?si=sFHZ2rgaSGaccYy5yMozDw&utm_source=copy-link&dl_branch=1 00:19|
+| "Body move" | "Body move" | https://open.spotify.com/track/1oUUEWfTQJu6pxuTKmN8GB?si=sFHZ2rgaSGaccYy5yMozDw&utm_source=copy-link&dl_branch=1 00:29 |
+| "Baby cry" | "Baby cries" | https://open.spotify.com/track/1oUUEWfTQJu6pxuTKmN8GB?si=sFHZ2rgaSGaccYy5yMozDw&utm_source=copy-link&dl_branch=1 00:48 |
