@@ -1219,3 +1219,4 @@
 | "Baby cry" | "Baby cries" | https://open.spotify.com/track/1oUUEWfTQJu6pxuTKmN8GB?si=sFHZ2rgaSGaccYy5yMozDw&utm_source=copy-link&dl_branch=1 00:48 |
 | "Mansplaining" | "Mansplaining" | https://vm.tiktok.com/ZMRkf1bHf/ |
 | "King size" | "King size" | https://photos.app.goo.gl/f18DyTokNBwrSWxA9 |
+| "Time is money" | "Time is money" | https://photos.app.goo.gl/i9BGEn9zD48B4igS7 |
