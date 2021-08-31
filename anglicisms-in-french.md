@@ -1221,3 +1221,5 @@
 | "King size" | "King size" | https://photos.app.goo.gl/f18DyTokNBwrSWxA9 |
 | "Time is money" | "Time is money" | https://photos.app.goo.gl/i9BGEn9zD48B4igS7 |
 | "Talent scouts" | "Talent scouts" | https://photos.app.goo.gl/abDjyFq6dAoXb6nQA |
+| "Le love at first sight" | "Love at first sight" | https://photos.app.goo.gl/EvQKaXvGjxdrmHaw8 |
+| "Early check in" | "Early check in" | https://photos.app.goo.gl/tpqJ3iP6scxKKk657 |
