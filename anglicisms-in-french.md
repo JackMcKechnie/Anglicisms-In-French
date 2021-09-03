@@ -1080,7 +1080,7 @@
 | "Stater" | "To state" | https://vm.tiktok.com/ZMdkyFrMd/ |
 | "Speed riding" | "Speed riding" | https://vm.tiktok.com/ZMdSWvFJ9/ |
 | "Colourblind" | "Colourblind" | https://vm.tiktok.com/ZMdALmVD4/ |
-| "New palce of X new me" | "New place of X new me" | https://youtu.be/Dm99SMvyKZg 01:08 |
+| "New place of X new me" | "New place of X new me" | https://youtu.be/Dm99SMvyKZg 01:08 |
 | "Un crowdfunding" | "A crowdfunder" | https://youtu.be/elmWjol4XM0 01:08 |
 | "Tuner" | "To tune" (Cars) | https://youtu.be/elmWjol4XM0 01:17 |
 | "He crazy" | "He (is) crazy" | https://vm.tiktok.com/ZMdUFjADe/ |
@@ -1227,3 +1227,4 @@
 | "Gang" | "Gang" | https://youtu.be/HlsbnIafkIQ 12:48 |
 | "White" | "White" | https://vm.tiktok.com/ZMRAM2JVM/ |
 | "Room service" | "Room service" | https://vm.tiktok.com/ZMRDnywyQ/ |
+| "The place" | "The place" | https://vm.tiktok.com/ZMRUe1KUa/ |
