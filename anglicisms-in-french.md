@@ -1239,3 +1239,4 @@
 | "Tiny house" | " Tiny house" | https://youtu.be/BcDPWtWk6jU 00:01 |
 | "Original" | "Original" | https://vm.tiktok.com/ZMR9Sc9TE/ |
 | "Independent woman" | "Independent woman" | https://vm.tiktok.com/ZMR9AtDQB/ |
+| "Not all women" | "Not all women" | https://vm.tiktok.com/ZMR95X87m/ |
