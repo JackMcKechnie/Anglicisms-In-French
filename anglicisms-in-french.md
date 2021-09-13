@@ -1240,3 +1240,4 @@
 | "Original" | "Original" | https://vm.tiktok.com/ZMR9Sc9TE/ |
 | "Independent woman" | "Independent woman" | https://vm.tiktok.com/ZMR9AtDQB/ |
 | "Not all women" | "Not all women" | https://vm.tiktok.com/ZMR95X87m/ |
+| "Foodporn" | "Food porn" | https://vm.tiktok.com/ZMR9mB2rw/ |
