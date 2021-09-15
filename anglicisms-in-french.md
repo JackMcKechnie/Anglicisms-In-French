@@ -1249,3 +1249,4 @@
 | "Acting bruv" | "Acting bruv" | https://youtu.be/5x1bvh2l9hc 04:10 |
 | "Art school" | "Art school" | https://photos.app.goo.gl/tcWy53R14JLoAQWB7 |
 | "Bucket" | "Bucket" | https://vm.tiktok.com/ZMRxQ9xbb/ |
+| "Yeah" | "Yeah" | https://vm.tiktok.com/ZMRxQ93se/ |
