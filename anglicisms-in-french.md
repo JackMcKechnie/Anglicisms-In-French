@@ -1250,3 +1250,5 @@
 | "Art school" | "Art school" | https://photos.app.goo.gl/tcWy53R14JLoAQWB7 |
 | "Bucket" | "Bucket" | https://vm.tiktok.com/ZMRxQ9xbb/ |
 | "Yeah" | "Yeah" | https://vm.tiktok.com/ZMRxQ93se/ |
+| "Hairstyle" | "Hairstyle" | https://vm.tiktok.com/ZMRxpBwyr/ |
+| "Out there" | "Out there" | https://vm.tiktok.com/ZMRxpBwyr/ |
