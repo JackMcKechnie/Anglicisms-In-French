@@ -1257,3 +1257,4 @@
 | "To buy" | "To buy" | https://vm.tiktok.com/ZMRCJQpkc/ |
 | "Care" | "Care" | https://vm.tiktok.com/ZMRCRtYNY/ |
 | "Le footjob" | "Footjob" | https://youtu.be/g5n_USZRFQ0 03:44 |
+| "House husband" | "House husband" | https://vm.tiktok.com/ZMRXNBggH/ |
