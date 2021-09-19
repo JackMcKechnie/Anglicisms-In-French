@@ -1261,3 +1261,4 @@
 | "Babe" | "Babe" | https://vm.tiktok.com/ZMR4eNc9p/ |
 | "Save the planet" | "Save the planet" | https://vm.tiktok.com/ZMRVyPLNQ/ |
 | "Smoky eye" | "Smoky eye" | https://vm.tiktok.com/ZMRVf5HMU/ |
+| "Story telling" | "Story telling" | https://vm.tiktok.com/ZMRVPVWwS/ |
