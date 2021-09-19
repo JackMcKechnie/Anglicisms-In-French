@@ -1260,3 +1260,4 @@
 | "House husband" | "House husband" | https://vm.tiktok.com/ZMRXNBggH/ |
 | "Babe" | "Babe" | https://vm.tiktok.com/ZMR4eNc9p/ |
 | "Save the planet" | "Save the planet" | https://vm.tiktok.com/ZMRVyPLNQ/ |
+| "Smoky eye" | "Smoky eye" | https://vm.tiktok.com/ZMRVf5HMU/ |
