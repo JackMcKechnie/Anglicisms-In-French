@@ -1262,3 +1262,4 @@
 | "Save the planet" | "Save the planet" | https://vm.tiktok.com/ZMRVyPLNQ/ |
 | "Smoky eye" | "Smoky eye" | https://vm.tiktok.com/ZMRVf5HMU/ |
 | "Story telling" | "Story telling" | https://vm.tiktok.com/ZMRVPVWwS/ |
+| "Coffee shop" | "Coffee shop" (Marijuana) | https://youtu.be/EJIFGe0q-Fs 02:36 |
