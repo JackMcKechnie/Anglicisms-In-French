@@ -1266,3 +1266,4 @@
 | "All day long" | "All day long" | https://photos.app.goo.gl/EMydgUfyPRZsGxmk6 |
 | "Sell the news" | "Sell the news" | https://vm.tiktok.com/ZMRg6FLnP/ |
 | "Buy the dip" | "Buy the dip" | https://vm.tiktok.com/ZMRg6FLnP/ |
+| "Cash machines" | "Cash machines" | https://photos.app.goo.gl/RdyPdVpFJWwo662L8 |
