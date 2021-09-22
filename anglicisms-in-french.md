@@ -1264,3 +1264,5 @@
 | "Story telling" | "Story telling" | https://vm.tiktok.com/ZMRVPVWwS/ |
 | "Coffee shop" | "Coffee shop" (Marijuana) | https://youtu.be/EJIFGe0q-Fs 02:36 |
 | "All day long" | "All day long" | https://photos.app.goo.gl/EMydgUfyPRZsGxmk6 |
+| "Sell the news" | "Sell the news" | https://vm.tiktok.com/ZMRg6FLnP/ |
+| "Buy the dip" | "Buy the dip" | https://vm.tiktok.com/ZMRg6FLnP/ |
