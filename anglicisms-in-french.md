@@ -1269,3 +1269,4 @@
 | "Cash machines" | "Cash machines" | https://photos.app.goo.gl/RdyPdVpFJWwo662L8 |
 | "Rate" | "Rate" | https://vm.tiktok.com/ZMRsUNTbq/ |
 | "Page Turner" | "Page turner" | https://photos.app.goo.gl/K6WiAqMhfk5D2Jmp6 |
+| "Very simple" | "Very simple" | https://vm.tiktok.com/ZMRsfh7cb/ |
