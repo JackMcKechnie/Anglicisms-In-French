@@ -1271,3 +1271,4 @@
 | "Page Turner" | "Page turner" | https://photos.app.goo.gl/K6WiAqMhfk5D2Jmp6 |
 | "Very simple" | "Very simple" | https://vm.tiktok.com/ZMRsfh7cb/ |
 | "Data art" | "Data art" | https://vm.tiktok.com/ZMRsmBo9C/ |
+| "Walking the dog" | "Walking the dog" | https://vm.tiktok.com/ZMRn3QDf6/ |
