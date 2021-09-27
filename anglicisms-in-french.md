@@ -1272,3 +1272,4 @@
 | "Very simple" | "Very simple" | https://vm.tiktok.com/ZMRsfh7cb/ |
 | "Data art" | "Data art" | https://vm.tiktok.com/ZMRsmBo9C/ |
 | "Walking the dog" | "Walk the dog" (Fishing) | https://vm.tiktok.com/ZMRn3QDf6/ 
+| "Value" | "Value" | https://vm.tiktok.com/ZMRnT5LvV/ |
