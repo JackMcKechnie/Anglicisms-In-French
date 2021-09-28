@@ -1273,3 +1273,4 @@
 | "Data art" | "Data art" | https://vm.tiktok.com/ZMRsmBo9C/ |
 | "Walking the dog" | "Walk the dog" (Fishing) | https://vm.tiktok.com/ZMRn3QDf6/ 
 | "Value" | "Value" | https://vm.tiktok.com/ZMRnT5LvV/ |
+| "Anybody" | "Anybody" | https://vm.tiktok.com/ZMRWSLTdp/ |
