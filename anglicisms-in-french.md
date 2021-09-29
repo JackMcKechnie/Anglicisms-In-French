@@ -1276,3 +1276,4 @@
 | "Anybody" | "Anybody" | https://vm.tiktok.com/ZMRWSLTdp/ |
 | "Serial killer" | "Serial killers" | https://vm.tiktok.com/ZMRWwx4vN/ |
 | "I don't know why" | "I don't know why" | https://vm.tiktok.com/ZMRv8SE2p/ |
+| "The fact is X" | "The fact is X" | https://vm.tiktok.com/ZMRvLkPTA/ |
