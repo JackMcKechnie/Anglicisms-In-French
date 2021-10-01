@@ -1280,3 +1280,4 @@
 | "Crusty" | "Crusty" | https://vm.tiktok.com/ZMRvTFpwv/ |
 | "Ginger beer" | "Ginger beer" | https://vm.tiktok.com/ZMRccfmQX/ |
 | "Main character moment" | "Main character moment" | https://vm.tiktok.com/ZMR3exkhQ/ |
+| "I don't care" | "I don't care" | https://vm.tiktok.com/ZMR3dBwSA/ |
