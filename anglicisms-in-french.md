@@ -1281,3 +1281,4 @@
 | "Ginger beer" | "Ginger beer" | https://vm.tiktok.com/ZMRccfmQX/ |
 | "Main character moment" | "Main character moment" | https://vm.tiktok.com/ZMR3exkhQ/ |
 | "I don't care" | "I don't care" | https://vm.tiktok.com/ZMR3dBwSA/ |
+| "Curb alert" | "Curb alert" | https://vm.tiktok.com/ZMRwR9sEJ/ |
