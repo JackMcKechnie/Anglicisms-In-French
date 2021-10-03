@@ -1285,3 +1285,4 @@
 | "Trophy wife" | "Trophy wife" | https://vm.tiktok.com/ZMRwRhcro/ |
 | "Honey" | "Honey" | https://vm.tiktok.com/ZMRwRBcNR/ |
 | "Mozzarella sticks" | "Mozzarella sticks" | https://vm.tiktok.com/ZMRwSDG1q/ |
+| "La fashion week" | "Fashion week" | https://vm.tiktok.com/ZMRwA6oAv/ |
