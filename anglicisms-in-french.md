@@ -1282,3 +1282,4 @@
 | "Main character moment" | "Main character moment" | https://vm.tiktok.com/ZMR3exkhQ/ |
 | "I don't care" | "I don't care" | https://vm.tiktok.com/ZMR3dBwSA/ |
 | "Curb alert" | "Curb alert" | https://vm.tiktok.com/ZMRwR9sEJ/ |
+| "Trophy wife" | "Trophy wife" | https://vm.tiktok.com/ZMRwRhcro/ |
