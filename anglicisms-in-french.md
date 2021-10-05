@@ -1287,3 +1287,4 @@
 | "Mozzarella sticks" | "Mozzarella sticks" | https://vm.tiktok.com/ZMRwSDG1q/ |
 | "La fashion week" | "Fashion week" | https://vm.tiktok.com/ZMRwA6oAv/ |
 | "Spider" | "Spiders" | https://vm.tiktok.com/ZMREAA6BD/ |
+| "Stay tuned" | "Stay tuned" | https://youtu.be/6-BsOHmkSGs 05:26 |
