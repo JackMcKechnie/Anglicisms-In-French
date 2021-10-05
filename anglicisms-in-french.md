@@ -1286,3 +1286,4 @@
 | "Honey" | "Honey" | https://vm.tiktok.com/ZMRwRBcNR/ |
 | "Mozzarella sticks" | "Mozzarella sticks" | https://vm.tiktok.com/ZMRwSDG1q/ |
 | "La fashion week" | "Fashion week" | https://vm.tiktok.com/ZMRwA6oAv/ |
+| "Spider" | "Spiders" | https://vm.tiktok.com/ZMREAA6BD/ |
