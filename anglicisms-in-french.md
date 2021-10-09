@@ -1294,3 +1294,4 @@
 | "Life saver" | "Life saver" | https://vm.tiktok.com/ZM81vkr7v/ |
 | "Perfect vibes" | "Perfect vibes" | https://vm.tiktok.com/ZM81vTqPA/ |
 | "Binder" | "Binder" (LGBT) | https://twitter.com/otherpopulation/status/1446098572500480006?t=L7ErTOQst0dIxzii7cxwog&s=19 |
+| "Redscale" | "Redscale" | https://vm.tiktok.com/ZM8dkHCtC/ |
