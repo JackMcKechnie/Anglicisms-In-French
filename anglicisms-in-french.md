@@ -1296,3 +1296,5 @@
 | "Binder" | "Binder" (LGBT) | https://twitter.com/otherpopulation/status/1446098572500480006?t=L7ErTOQst0dIxzii7cxwog&s=19 |
 | "Redscale" | "Redscale" | https://vm.tiktok.com/ZM8dkHCtC/ |
 | "Le main" | "Main" (Account) | https://twitter.com/chapltre13s/status/1447128562163662850?t=ZyBfA0iKPsNHuWAVIDwvIw&s=19 |
+| "Channel" | "Channel" (YouTube) | https://youtu.be/Np695V8lzeg 12:50 |
+| "Homepage" | "Homepage" | https://youtu.be/Np695V8lzeg 12:50 |
