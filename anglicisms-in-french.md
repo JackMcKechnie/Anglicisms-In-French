@@ -1300,3 +1300,4 @@
 | "Homepage" | "Homepage" | https://youtu.be/Np695V8lzeg 12:50 |
 | "Nonprofit" | "Nonprofit" | https://youtu.be/Np695V8lzeg 11:33 |
 | "Mockups" | "Mockups" | https://vm.tiktok.com/ZM889C3MR/ |
+| "Recovery" | "Recovery" | https://vm.tiktok.com/ZM88Kt6f2/ |
