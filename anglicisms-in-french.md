@@ -1301,3 +1301,4 @@
 | "Nonprofit" | "Nonprofit" | https://youtu.be/Np695V8lzeg 11:33 |
 | "Mockups" | "Mockups" | https://vm.tiktok.com/ZM889C3MR/ |
 | "Recovery" | "Recovery" | https://vm.tiktok.com/ZM88Kt6f2/ |
+| "Un hug" | "A hug" | https://twitter.com/jeantreprends/status/1447843152371593218?t=CnuOpTEQ6FyBCzZ3vm5zcg&s=19 |
