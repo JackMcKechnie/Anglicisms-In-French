@@ -1304,3 +1304,4 @@
 | "Un hug" | "A hug" | https://twitter.com/jeantreprends/status/1447843152371593218?t=CnuOpTEQ6FyBCzZ3vm5zcg&s=19 |
 | "Un comment" | "A comment" | https://vm.tiktok.com/ZM8FJEEYR/ |
 | "Le texture pack" | "Texture pack" (Games) | https://photos.app.goo.gl/8zGLYCirJytey71X7 |
+| "Drops" | "Drops" | https://vm.tiktok.com/ZM8FNuQnK/ |
