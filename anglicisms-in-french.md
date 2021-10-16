@@ -1310,3 +1310,4 @@
 | "Name dropping" | "Name drop" | https://vm.tiktok.com/ZM8YQ9UM4/ |
 | "Le tapping" | "Tapping" (Guitar) | https://vm.tiktok.com/ZM8YbwaPX/ |
 | "How do y'all feel knowing X" | "How do y'all feel knowing" | https://vm.tiktok.com/ZM8jnJJBS/ |
+| "Soft power" | "Soft power" | https://vm.tiktok.com/ZM8jKMApu/ |
