@@ -1312,3 +1312,4 @@
 | "How do y'all feel knowing X" | "How do y'all feel knowing" | https://vm.tiktok.com/ZM8jnJJBS/ |
 | "Soft power" | "Soft power" | https://vm.tiktok.com/ZM8jKMApu/ |
 | "Right now" | "Right now" | https://vm.tiktok.com/ZM8jEkFPk/ |
+| "Les fake book" | "Fake books" | https://vm.tiktok.com/ZM8MATnCb/ |
