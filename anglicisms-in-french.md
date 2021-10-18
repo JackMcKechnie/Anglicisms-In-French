@@ -1313,3 +1313,4 @@
 | "Soft power" | "Soft power" | https://vm.tiktok.com/ZM8jKMApu/ |
 | "Right now" | "Right now" | https://vm.tiktok.com/ZM8jEkFPk/ |
 | "Les fake book" | "Fake books" | https://vm.tiktok.com/ZM8MATnCb/ |
+| "Redneck" | "Redneck" | https://youtu.be/sBrNWVLB4II 01:17 |
