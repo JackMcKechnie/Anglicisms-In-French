@@ -1315,3 +1315,5 @@
 | "Les fake book" | "Fake books" | https://vm.tiktok.com/ZM8MATnCb/ |
 | "Redneck" | "Redneck" | https://youtu.be/sBrNWVLB4II 01:17 |
 | "Community manager" | "Community manager" | https://vm.tiktok.com/ZM8hVS5S1/ |
+| "Repository" | "Repository" | https://vm.tiktok.com/ZM8BJT5DG/ |
+| "Colour scheme" | "Colour scheme" | https://vm.tiktok.com/ZM8BJT5DG/ |
