@@ -1323,3 +1323,4 @@
 | "Doggy bag" | "Doggy bags" | https://vm.tiktok.com/ZM8ADW13t/ |
 | "Copycat" | "Copycat" | La Mente S1E1 52:32 mins left (Avaliable on Netflix UK October 2021) |
 | "Skipper" | "To skip" | https://vm.tiktok.com/ZM8DsrBk5/ |
+| "Legday" | "Leg day" | https://vm.tiktok.com/ZM8DG7UM6/ |
