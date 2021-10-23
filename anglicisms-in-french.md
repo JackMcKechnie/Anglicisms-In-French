@@ -1326,3 +1326,4 @@
 | "Legday" | "Leg day" | https://vm.tiktok.com/ZM8DG7UM6/ |
 | "Cheese" | "Cheese" | https://vm.tiktok.com/ZM8UddKAt/ |
 | "La cream cheese" | "Cream cheese" | https://vm.tiktok.com/ZM8UddKAt/ |
+| "Retro gaming" | "Retro gaming" | https://vm.tiktok.com/ZM8UdkU6E/ |
