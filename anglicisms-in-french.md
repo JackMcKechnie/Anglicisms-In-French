@@ -1333,3 +1333,4 @@
 | "Overbooker" | "To be overbooked" | https://vm.tiktok.com/ZM8Uove1u/ |
 | "Catch up" | "Catch up" | https://vm.tiktok.com/ZM8Uove1u/ |
 | "Un evidence based medicine" | "Evidence based medicine" | https://vm.tiktok.com/ZM8y1QnKQ/ |
+| "Blacklister" | "To blacklist" | https://vm.tiktok.com/ZM8yJAjEv/ |
