@@ -1329,3 +1329,6 @@
 | "Retro gaming" | "Retro gaming" | https://vm.tiktok.com/ZM8UdkU6E/ |
 | "Une inline condition" | "Inline condition" (Programming) | https://vm.tiktok.com/ZM8ULBJgC/ |
 | "Le camel case" | "Camel case" (Programming) | https://vm.tiktok.com/ZM8ULBJgC/ |
+| "Brainstormer" | "To brainstorm" | https://vm.tiktok.com/ZM8Uove1u/ |
+| "Overbooker" | "To be overbooked" | https://vm.tiktok.com/ZM8Uove1u/ |
+| "Catch up" | "Catch up" | https://vm.tiktok.com/ZM8Uove1u/ |
