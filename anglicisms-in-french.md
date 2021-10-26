@@ -1336,3 +1336,4 @@
 | "Blacklister" | "To blacklist" | https://vm.tiktok.com/ZM8yJAjEv/ |
 | "Un wolf cut" | "Wolf cut" | https://vm.tiktok.com/ZM8yJULH2/ |
 | "Back cover" | "Back cover" | https://vm.tiktok.com/ZM8PY2bwG/ |
+| "Un slideshow" | "Slideshow" | https://vm.tiktok.com/ZM8PmRwTe/ |
