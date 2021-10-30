@@ -1339,3 +1339,4 @@
 | "Un slideshow" | "Slideshow" | https://vm.tiktok.com/ZM8PmRwTe/ |
 | "Basic white bitch" | "Basic white bitch" | https://vm.tiktok.com/ZM8mVBy3X/ |
 | "Le Leak" | "Leak" | https://vm.tiktok.com/ZM8mV85kt/ |
+| "Mash up" | "Mash up" | https://vm.tiktok.com/ZM8mVjvVJ/ |
