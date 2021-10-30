@@ -1337,3 +1337,4 @@
 | "Un wolf cut" | "Wolf cut" | https://vm.tiktok.com/ZM8yJULH2/ |
 | "Back cover" | "Back cover" | https://vm.tiktok.com/ZM8PY2bwG/ |
 | "Un slideshow" | "Slideshow" | https://vm.tiktok.com/ZM8PmRwTe/ |
+| "Basic white bitch" | "Basic white bitch" | https://vm.tiktok.com/ZM8mVBy3X/ |
