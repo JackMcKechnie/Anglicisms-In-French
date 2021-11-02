@@ -1344,3 +1344,4 @@
 | "Skinheads" | "Skinheads" | https://youtu.be/y1qOeNpPr_E 05:38 |
 | "Un living-room" | "Living room" | https://photos.app.goo.gl/f8DVnnGt84hKkDbm8 |
 | "Le tea-house" | "Tea house" | https://photos.app.goo.gl/CjA1rM77NnXtwEvU8 |
+| "La Swimming Pool" | "Swimming pool" | https://photos.app.goo.gl/wcXhTr4Pxy7oavis7 |
