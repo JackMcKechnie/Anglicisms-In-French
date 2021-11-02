@@ -1343,3 +1343,4 @@
 | "Sunday morning" | "Sunday morning" | https://vm.tiktok.com/ZM8mg2aCQ/ |
 | "Skinheads" | "Skinheads" | https://youtu.be/y1qOeNpPr_E 05:38 |
 | "Un living-room" | "Living room" | https://photos.app.goo.gl/f8DVnnGt84hKkDbm8 |
+| "Le tea-house" | "Tea house" | https://photos.app.goo.gl/CjA1rM77NnXtwEvU8 |
