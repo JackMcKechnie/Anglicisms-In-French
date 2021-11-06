@@ -1346,3 +1346,4 @@
 | "Le tea-house" | "Tea house" | https://photos.app.goo.gl/CjA1rM77NnXtwEvU8 |
 | "La Swimming Pool" | "Swimming pool" | https://photos.app.goo.gl/wcXhTr4Pxy7oavis7 |
 | "I'm back babes" | "I'm back babes" | https://vm.tiktok.com/ZM8xacpe9/ |
+| "Le mouth taping" | "Mouth taping" | https://youtu.be/Mq68w6cZpqY 02:37 |
