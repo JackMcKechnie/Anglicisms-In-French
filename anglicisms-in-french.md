@@ -1349,3 +1349,5 @@
 | "Le mouth taping" | "Mouth taping" | https://youtu.be/Mq68w6cZpqY 02:37 |
 | "Le surprise guest" | "Surprise guest" | https://youtu.be/suJso-0C4d4 00:49 |
 | "La replay TV" | "Replay TV" | https://youtu.be/suJso-0C4d4 04:26 |
+| "Le beer bong" | "Beer bong" | https://vm.tiktok.com/ZM8QRcRbu/ |
+| "We want beer" | "We want beer" | https://vm.tiktok.com/ZM8QRcRbu/ |
