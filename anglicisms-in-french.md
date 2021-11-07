@@ -1351,3 +1351,4 @@
 | "La replay TV" | "Replay TV" | https://youtu.be/suJso-0C4d4 04:26 |
 | "Le beer bong" | "Beer bong" | https://vm.tiktok.com/ZM8QRcRbu/ |
 | "We want beer" | "We want beer" | https://vm.tiktok.com/ZM8QRcRbu/ |
+| "Masking tape" | "Masking tape" | https://vm.tiktok.com/ZM8QgsgeV/ |
