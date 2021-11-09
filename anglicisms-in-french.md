@@ -1354,3 +1354,4 @@
 | "Masking tape" | "Masking tape" | https://vm.tiktok.com/ZM8QgsgeV/ |
 | "Le check out" | "Check out" (Hotel) | https://youtu.be/mwWWv2BJWhQ 00:29 |
 | "Overwhelming" | "Overwhelming" | https://twitter.com/grisroseorange/status/1457833975314006016?t=r2jDeEqxIiY1xY8o2Lo8ew&s=19 |
+| "Fucker" | "Fucker" | https://vm.tiktok.com/ZM8CEnE2Q/ |
