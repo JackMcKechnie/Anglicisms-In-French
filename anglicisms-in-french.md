@@ -1358,3 +1358,4 @@
 | "Dumb girl" | "Dumb girl" | https://vm.tiktok.com/ZM8X8fNGb/ |
 | "Black" | "Black" | https://vm.tiktok.com/ZM8XNur2R/ |
 | "My dumb ass" | "My dumb ass" | https://vm.tiktok.com/ZM84SYQVb/ |
+| "American government" | "American government" | https://vm.tiktok.com/ZM849TxPC/ |
