@@ -1359,3 +1359,4 @@
 | "Black" | "Black" | https://vm.tiktok.com/ZM8XNur2R/ |
 | "My dumb ass" | "My dumb ass" | https://vm.tiktok.com/ZM84SYQVb/ |
 | "American government" | "American government" | https://vm.tiktok.com/ZM849TxPC/ |
+| "Sampling" | "Sampling" | https://photos.app.goo.gl/7MTcbfvTN9JCLxQe9 |
