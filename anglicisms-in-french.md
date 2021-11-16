@@ -1364,3 +1364,5 @@
 | "Un dip" | "A dip" | https://vm.tiktok.com/ZM8VyDRXF/ |
 | "Modern jazz" | "Modern jazz" | https://vm.tiktok.com/ZM8VmNrbS/ |
 | "Street jazz" | "Street jazz" | https://vm.tiktok.com/ZM8VmNrbS/ |
+| "Pee break" | "Pee break" | https://vm.tiktok.com/ZM8bNb2cB/ |
+| "Easy pace" | "Easy pace" | https://vm.tiktok.com/ZM8bNb2cB/ |
