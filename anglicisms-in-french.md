@@ -1369,3 +1369,4 @@
 | "The feminine urge to X" | "The feminin urge to X" | https://photos.app.goo.gl/nnjTeu3pHqErtkru9 |
 | "Le first of the roll" | "The first of the roll" | https://vm.tiktok.com/ZM8Gysctf/ |
 | "Pee pee room" | "Pee pee room" | https://vm.tiktok.com/ZM8GgeC4D/ |
+| "Les gimmick" | "Gimmicks" | https://youtu.be/J0lL79YDtBk 05:04 |
