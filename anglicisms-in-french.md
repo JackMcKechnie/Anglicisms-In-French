@@ -1379,3 +1379,4 @@
 | "Touch of gold" | "Touch of gold" | https://vm.tiktok.com/ZM8tP7reS/ |
 | "Dumb level" | "Dumb level" | https://vm.tiktok.com/ZM8tsLT3F/ |
 | "Are you kidding me" | "Are you kidding me" | https://vm.tiktok.com/ZM8tnRDkn/ |
+| "Horny" | "Horny" | https://twitter.com/feelthenono/status/1464994514750349314?t=BGf5ENxQH5qLV6zseU4mdQ&s=19 |
