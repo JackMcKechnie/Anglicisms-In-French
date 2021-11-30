@@ -1381,3 +1381,4 @@
 | "Are you kidding me" | "Are you kidding me" | https://vm.tiktok.com/ZM8tnRDkn/ |
 | "Horny" | "Horny" | https://twitter.com/feelthenono/status/1464994514750349314?t=BGf5ENxQH5qLV6zseU4mdQ&s=19 |
 | "I know" | "I know" | https://vm.tiktok.com/ZM8nRjydM/ |
+| "Top ten" | "Top ten" | https://vm.tiktok.com/ZM8nhjhw7/ |
