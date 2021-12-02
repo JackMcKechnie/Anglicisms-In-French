@@ -1383,3 +1383,4 @@
 | "I know" | "I know" | https://vm.tiktok.com/ZM8nRjydM/ |
 | "Top ten" | "Top ten" | https://vm.tiktok.com/ZM8nhjhw7/ |
 | "Fire" | "Fire" | https://vm.tiktok.com/ZM8nH9Ler/ |
+| "Partner in crime" | "Partner in crime" | https://vm.tiktok.com/ZM8nxo7rj/ |
