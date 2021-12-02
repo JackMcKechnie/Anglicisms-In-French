@@ -1390,3 +1390,4 @@
 | "Close" | "Close" (A deal) | https://vm.tiktok.com/ZM8nQRowt/ |
 | "Midterms" | "Midterms" | https://vm.tiktok.com/ZM8nQXyxk/ |
 | "Finals" | "Finals" (Exams) | https://vm.tiktok.com/ZM8nQXyxk/ |
+| "La cup" | "The cup" (Menstruation) | https://youtu.be/MqMcloAM67c 01:15 |
