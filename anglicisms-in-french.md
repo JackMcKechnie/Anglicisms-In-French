@@ -1391,3 +1391,4 @@
 | "Midterms" | "Midterms" | https://vm.tiktok.com/ZM8nQXyxk/ |
 | "Finals" | "Finals" (Exams) | https://vm.tiktok.com/ZM8nQXyxk/ |
 | "La cup" | "The cup" (Menstruation) | https://youtu.be/MqMcloAM67c 01:15 |
+| "I'm hot" | "I'm hot" | https://youtu.be/MqMcloAM67c 02:21 |
