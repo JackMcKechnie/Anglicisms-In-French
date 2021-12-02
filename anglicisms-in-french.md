@@ -1393,3 +1393,4 @@
 | "La cup" | "The cup" (Menstruation) | https://youtu.be/MqMcloAM67c 01:15 |
 | "I'm hot" | "I'm hot" | https://youtu.be/MqMcloAM67c 02:21 |
 | "Les Christmas vibes" | "Christmas vibes" | https://youtu.be/MqMcloAM67c 02:49 |
+| "Go to" | "Go to" | https://youtu.be/MqMcloAM67c 06:07 |
