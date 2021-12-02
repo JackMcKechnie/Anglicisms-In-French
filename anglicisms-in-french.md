@@ -1384,3 +1384,7 @@
 | "Top ten" | "Top ten" | https://vm.tiktok.com/ZM8nhjhw7/ |
 | "Fire" | "Fire" | https://vm.tiktok.com/ZM8nH9Ler/ |
 | "Partner in crime" | "Partner in crime" | https://vm.tiktok.com/ZM8nxo7rj/ |
+| "Down" | "Down" | https://vm.tiktok.com/ZM8nQRowt/ |
+| "Burn rate" | "Burn rate" | https://vm.tiktok.com/ZM8nQRowt/ |
+| "Cancel" | "Cancel" | https://vm.tiktok.com/ZM8nQRowt/ |
+| "Close" | "Close" (A deal) | https://vm.tiktok.com/ZM8nQRowt/ |
