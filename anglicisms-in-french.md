@@ -1401,3 +1401,4 @@
 | "Broke" | "Broke" | https://photos.app.goo.gl/WPnfCeW4LZbo7MvQ9 |
 | "Timeline" | "Timeline" (Social media) | https://vm.tiktok.com/ZM8WL8kMG/ |
 | "Cheesy" | "Cheesy" | https://vm.tiktok.com/ZM8WjtvUg/ |
+| "A whole different person" | "A whole different person" | https://twitter.com/grisroseorange/status/1467257278332035072?t=Fj2dBnFYw0VV0s4VCL5r9g&s=19 |
