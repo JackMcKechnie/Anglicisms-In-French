@@ -1412,3 +1412,4 @@
 | "Self aware" | "Self aware" | https://vm.tiktok.com/ZM8vA3pxr/ |
 | "Le before" | "Before party" | https://vm.tiktok.com/ZM8vyKotk/ |
 | "Turn off" | "Turn offs" | https://twitter.com/nrwknd/status/1470461924387217410?t=YdcTNHBcHxkaUsI0DNNwNQ&s=19 |
+| "Un reveal" | "Reveal" | https://vm.tiktok.com/ZM8c1dVJK/ |
