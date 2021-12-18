@@ -1414,3 +1414,4 @@
 | "Turn off" | "Turn offs" | https://twitter.com/nrwknd/status/1470461924387217410?t=YdcTNHBcHxkaUsI0DNNwNQ&s=19 |
 | "Un reveal" | "Reveal" | https://vm.tiktok.com/ZM8c1dVJK/ |
 | "Go cry about it" | "Go cry about it" | https://vm.tiktok.com/ZM8cDm3fE/ |
+| "Une soup party" | "A soup party" | https://twitter.com/grisroseorange/status/1471807644470026248?t=j-I6QZ58S8R7o-2RH_HFWg&s=19 |
