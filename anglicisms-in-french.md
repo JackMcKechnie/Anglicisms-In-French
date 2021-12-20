@@ -1416,3 +1416,5 @@
 | "Go cry about it" | "Go cry about it" | https://vm.tiktok.com/ZM8cDm3fE/ |
 | "Une soup party" | "A soup party" | https://twitter.com/grisroseorange/status/1471807644470026248?t=j-I6QZ58S8R7o-2RH_HFWg&s=19 |
 | "Wagwan" | "Wagwan" | https://youtu.be/G7Nm8vMElFg 05:06 |
+| "Le storytelling" | "Storytelling" | https://vm.tiktok.com/ZM83ADa9Q/ |
+| "The body proportions" | "The body proportions" | https://vm.tiktok.com/ZM83ADa9Q/ |
