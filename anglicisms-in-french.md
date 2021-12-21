@@ -1423,3 +1423,4 @@
 | "Chocolate" | "Chocolate" | https://vm.tiktok.com/ZM83CvTM5/ |
 | "Un layout" | "Layout" (Snowboarding) | https://vm.tiktok.com/ZM83XUgaR/ |
 | "Drop in" | "Drop in" | https://vm.tiktok.com/ZM83XUgaR/ |
+| "Spicy chicken wings" | "Spicy chicken wings" | https://vm.tiktok.com/ZM83XD466/ |
