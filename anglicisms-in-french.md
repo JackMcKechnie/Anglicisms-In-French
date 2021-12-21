@@ -1421,3 +1421,5 @@
 | "Made in Spain" | "Made in Spain" | https://vm.tiktok.com/ZM83Aqtrs/ |
 | "Cooking" | "Cooking" | https://vm.tiktok.com/ZM83ApBsT/ |
 | "Chocolate" | "Chocolate" | https://vm.tiktok.com/ZM83CvTM5/ |
+| "Un layout" | "Layout" (Snowboarding) | https://vm.tiktok.com/ZM83XUgaR/ |
+| "Drop in" | "Drop in" | https://vm.tiktok.com/ZM83XUgaR/ |
