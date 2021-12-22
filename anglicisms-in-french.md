@@ -1424,3 +1424,4 @@
 | "Un layout" | "Layout" (Snowboarding) | https://vm.tiktok.com/ZM83XUgaR/ |
 | "Drop in" | "Drop in" | https://vm.tiktok.com/ZM83XUgaR/ |
 | "Spicy chicken wings" | "Spicy chicken wings" | https://vm.tiktok.com/ZM83XD466/ |
+| "Thirst trap" | "Thirst trap" | https://vm.tiktok.com/ZM8TJL2Q1/ |
