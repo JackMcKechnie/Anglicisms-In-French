@@ -1426,3 +1426,4 @@
 | "Spicy chicken wings" | "Spicy chicken wings" | https://vm.tiktok.com/ZM83XD466/ |
 | "Thirst trap" | "Thirst trap" | https://vm.tiktok.com/ZM8TJL2Q1/ |
 | "Routesetter" | "Routesetter" (Climbing) | https://planetgrimpe.com/tete-dun-routesetter/ |
+| "Le chicken spot" | "Chicken spot" | https://vm.tiktok.com/ZM8TSk15D/ |
