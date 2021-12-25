@@ -1428,3 +1428,4 @@
 | "Routesetter" | "Routesetter" (Climbing) | https://planetgrimpe.com/tete-dun-routesetter/ |
 | "Le chicken spot" | "Chicken spot" | https://vm.tiktok.com/ZM8TSk15D/ |
 | "Obsessed" | "Obsessed" | https://vm.tiktok.com/ZM8Tfvb9P/ |
+| "Rage quit" | "Rage quit" | https://vm.tiktok.com/ZM8TbcqNL/ |
