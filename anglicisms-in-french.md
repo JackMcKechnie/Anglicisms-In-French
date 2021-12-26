@@ -1430,3 +1430,6 @@
 | "Obsessed" | "Obsessed" | https://vm.tiktok.com/ZM8Tfvb9P/ |
 | "Rage quit" | "Rage quit" | https://vm.tiktok.com/ZM8TbcqNL/ |
 | "Power off" | "Power off" | https://vm.tiktok.com/ZM8wNGUKM/ |
+| "Treat myself" | "Treat myself" | https://twitter.com/Rafeo_/status/1474803040809070603?t=9PPy9U_8tUAGRUShWBsWFw&s=19 |
+| "Thirteenth Doctor | "Thirteenth Doctor" (Doctor Who) | https://twitter.com/Rafeo_/status/1474803040809070603?t=9PPy9U_8tUAGRUShWBsWFw&s=19 |
+| "Fanboying intensifies" | "Fanboying intensifies" | https://twitter.com/Rafeo_/status/1474803040809070603?t=9PPy9U_8tUAGRUShWBsWFw&s=19 |
