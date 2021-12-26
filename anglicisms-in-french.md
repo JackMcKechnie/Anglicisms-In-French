@@ -1429,3 +1429,4 @@
 | "Le chicken spot" | "Chicken spot" | https://vm.tiktok.com/ZM8TSk15D/ |
 | "Obsessed" | "Obsessed" | https://vm.tiktok.com/ZM8Tfvb9P/ |
 | "Rage quit" | "Rage quit" | https://vm.tiktok.com/ZM8TbcqNL/ |
+| "Power off" | "Power off" | https://vm.tiktok.com/ZM8wNGUKM/ |
