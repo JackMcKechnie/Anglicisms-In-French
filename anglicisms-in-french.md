@@ -1436,3 +1436,4 @@
 | "Styler" | "To style" | https://vm.tiktok.com/ZM8wA1RWr/ |
 | "What I got for Christmas" | "What I got for Christmas" | https://vm.tiktok.com/ZM8wpCDPQ/ |
 | "X is back" | "X is back" | https://youtu.be/B7bc6PoGh_M 01:38 |
+| "Un gaydar" | "Gaydar" | https://vm.tiktok.com/ZM8KkvNuk/ |
