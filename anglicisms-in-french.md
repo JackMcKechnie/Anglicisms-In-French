@@ -1437,3 +1437,4 @@
 | "What I got for Christmas" | "What I got for Christmas" | https://vm.tiktok.com/ZM8wpCDPQ/ |
 | "X is back" | "X is back" | https://youtu.be/B7bc6PoGh_M 01:38 |
 | "Un gaydar" | "Gaydar" | https://vm.tiktok.com/ZM8KkvNuk/ |
+| "Le dry January" | "Dry January" | https://vm.tiktok.com/ZM8EedY3o/ |
