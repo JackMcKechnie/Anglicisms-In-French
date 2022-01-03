@@ -1443,3 +1443,5 @@
 | "Bleach" | "Bleach" | https://vm.tiktok.com/ZM8E6bkYw/ |
 | "Goofy" | "Goofy" | https://twitter.com/grisroseorange/status/1478044245630107655?t=oy5Rm-BxFWwrKTjjZQjDHA&s=19 |
 | "Un props" | "A prop" | https://vm.tiktok.com/ZM8EB8J7g/ |
+| "Kinkshame" | "Kinkshame" | https://twitter.com/saltimbanqu3tt3/status/1477956049105731587?t=JZIvFM52zx20csk1ln88ng&s=19 |
+| "Kinkshare" | "Kinkshare" | https://twitter.com/saltimbanqu3tt3/status/1477956049105731587?t=JZIvFM52zx20csk1ln88ng&s=19 |
