@@ -1449,3 +1449,4 @@
 | "Keep warm" | "Keep warm" | https://photos.app.goo.gl/472brBdoRfA8yxE66 |
 | "Angel numbers" | "Angel numbers" | https://vm.tiktok.com/ZM8EbmFRV/ |
 | "Empowerment" | "Empowerment" | https://vm.tiktok.com/ZM8EE75YM/ |
+| "One line" | "One line" (Tattoo) | https://vm.tiktok.com/ZM8EEPctW/ |
