@@ -1452,3 +1452,4 @@
 | "One line" | "One line" (Tattoo) | https://vm.tiktok.com/ZM8EEPctW/ |
 | "What do you mean?" | "What do you mean?" | https://vm.tiktok.com/ZM8oHuXww/ |
 | "Safety" | "Safety" | https://vm.tiktok.com/ZM8on4Wvg/ |
+| "Les coffee table books" | "Coffee table books" | https://www.youtube.com/watch?v=dKy8hKRMSlo&ab_channel=Qu%27est-cequ%27onlit%3F 00:25 |
