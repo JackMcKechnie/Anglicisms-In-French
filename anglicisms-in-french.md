@@ -1454,3 +1454,4 @@
 | "Safety" | "Safety" | https://vm.tiktok.com/ZM8on4Wvg/ |
 | "Les coffee table books" | "Coffee table books" | https://www.youtube.com/watch?v=dKy8hKRMSlo&ab_channel=Qu%27est-cequ%27onlit%3F 00:25 |
 | "Databases" | "Databases" | https://youtu.be/-sO17UMRqpY 04:47 |
+| "Dry fire" | "Dry fire" (Climbing) | https://photos.app.goo.gl/iAH7jvkvuPaHEtMc6 |
