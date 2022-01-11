@@ -1456,3 +1456,4 @@
 | "Databases" | "Databases" | https://youtu.be/-sO17UMRqpY 04:47 |
 | "Dry fire" | "Dry fire" (Climbing) | https://photos.app.goo.gl/iAH7jvkvuPaHEtMc6 |
 | "Free fight" | "Free fight" | https://vm.tiktok.com/ZML1BW4JE/ |
+| "Un standing ovation" | "Standing ovation" | https://vm.tiktok.com/ZML1SR9Pj/ |
