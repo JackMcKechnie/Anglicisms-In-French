@@ -1460,3 +1460,4 @@
 | "Everyday shit" | "Everyday shit" | https://vm.tiktok.com/ZML1msgs4/ |
 | "I mean" | "I mean" | https://vm.tiktok.com/ZML1uhbeG/ |
 | "Deadlift" | "Deadlift" | https://vm.tiktok.com/ZML1Tjfqv/ |
+| "Makeup artist" | "Makeup artist" | https://vm.tiktok.com/ZMLJrs5Cv/ |
