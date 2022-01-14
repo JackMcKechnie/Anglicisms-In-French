@@ -1462,3 +1462,4 @@
 | "Deadlift" | "Deadlift" | https://vm.tiktok.com/ZML1Tjfqv/ |
 | "Makeup artist" | "Makeup artist" | https://vm.tiktok.com/ZMLJrs5Cv/ |
 | "The feeling when X" | "The feeling when X" | https://vm.tiktok.com/ZMLJuATC5/ |
+| "Air value" | "Air value" | https://vm.tiktok.com/ZMLJHbFoo/ |
