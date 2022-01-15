@@ -1464,3 +1464,4 @@
 | "The feeling when X" | "The feeling when X" | https://vm.tiktok.com/ZMLJuATC5/ |
 | "Air value" | "Air value" | https://vm.tiktok.com/ZMLJHbFoo/ |
 | "Le branding" | "Branding" | https://vm.tiktok.com/ZMLJHWJgR/ |
+| "Le four chord song" | "Four chord song" | https://youtu.be/Mdtra1r3tbs 01:12:58 |
