@@ -1468,3 +1468,4 @@
 | "Happy hours" | "Happy hour" | https://vm.tiktok.com/ZMLJESxNr/ |
 | "Loop station" | "Loops Station" (Music) | https://youtu.be/hJr602dhGiM 46:41 |
 | "Upgrader" | "To upgrade" | https://youtu.be/hJr602dhGiM 46:48 |
+| "What I eat in a day" | "What I eat in a day" | https://vm.tiktok.com/ZMLJoRsXo/ |
