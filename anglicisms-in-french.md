@@ -1466,3 +1466,5 @@
 | "Le branding" | "Branding" | https://vm.tiktok.com/ZMLJHWJgR/ |
 | "Le four chord song" | "Four chord song" | https://youtu.be/Mdtra1r3tbs 01:12:58 |
 | "Happy hours" | "Happy hour" | https://vm.tiktok.com/ZMLJESxNr/ |
+| "Loop station" | "Loops Station" (Music) | https://youtu.be/hJr602dhGiM 46:41 |
+| "Upgrader" | "To upgrade" | https://youtu.be/hJr602dhGiM 46:48 |
