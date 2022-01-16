@@ -1465,3 +1465,4 @@
 | "Air value" | "Air value" | https://vm.tiktok.com/ZMLJHbFoo/ |
 | "Le branding" | "Branding" | https://vm.tiktok.com/ZMLJHWJgR/ |
 | "Le four chord song" | "Four chord song" | https://youtu.be/Mdtra1r3tbs 01:12:58 |
+| "Happy hours" | "Happy hour" | https://vm.tiktok.com/ZMLJESxNr/ |
