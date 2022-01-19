@@ -1473,3 +1473,4 @@
 | "Screaming" | "Screaming" | https://vm.tiktok.com/ZMLeqqH11/ |
 | "React" | "Reactions" | https://vm.tiktok.com/ZMLdJKDCg/ |
 | "Attention whore" | "Attention whore" | https://twitter.com/tgtespenible/status/1483353924065239040?t=WItF9lKyhNzPAZX9GyOyMg&s=19 |
+| "Deep dark" | "Deep dark" | https://vm.tiktok.com/ZMLdrFeS7/ |
