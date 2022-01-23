@@ -1475,3 +1475,7 @@
 | "Attention whore" | "Attention whore" | https://twitter.com/tgtespenible/status/1483353924065239040?t=WItF9lKyhNzPAZX9GyOyMg&s=19 |
 | "Deep dark" | "Deep dark" | https://vm.tiktok.com/ZMLdrFeS7/ |
 | "Beauty" | "Beauty" | https://photos.app.goo.gl/qRn43iPC1KC6kLjw8 |
+| "Un melting pot" | "Melting pot" | https://youtu.be/Z7ycXlcN2w0 13:47 |
+| "Dakar by night" | "Dakar by night" | https://youtu.be/Z7ycXlcN2w0 16:54 |
+| "In a way" | "In a way" | https://youtu.be/Z7ycXlcN2w0 20:23 |
+| "Une masterclass" | "Masterclass" | https://photos.app.goo.gl/zT9qWns8yfg8iF4S9 |
