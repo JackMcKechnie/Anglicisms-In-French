@@ -1479,3 +1479,4 @@
 | "Dakar by night" | "Dakar by night" | https://youtu.be/Z7ycXlcN2w0 16:54 |
 | "In a way" | "In a way" | https://youtu.be/Z7ycXlcN2w0 20:23 |
 | "Une masterclass" | "Masterclass" | https://photos.app.goo.gl/zT9qWns8yfg8iF4S9 |
+| "L'avocado toast" | "Avocado toast" | https://vm.tiktok.com/ZMLRgpJpx/ |
