@@ -1485,3 +1485,5 @@
 | "Jump up" | "Jump up" (Music) | https://vm.tiktok.com/ZML81GFPw/ |
 | "Guilty" | "Guilty" | https://vm.tiktok.com/ZML8ykaD3/ |
 | "Close up" | "Close up" | https://vm.tiktok.com/ZML89wF7G/ |
+| "Frat party" | "Frat party" | https://vm.tiktok.com/ZML894ohf/ |
+| "Bitchy" | "Bitchy" | https://vm.tiktok.com/ZML894ohf/ |
