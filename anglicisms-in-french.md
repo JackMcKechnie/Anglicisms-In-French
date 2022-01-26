@@ -1484,3 +1484,4 @@
 | "Liquid" | "Liquid" (Music) | https://vm.tiktok.com/ZML81GFPw/ |
 | "Jump up" | "Jump up" (Music) | https://vm.tiktok.com/ZML81GFPw/ |
 | "Guilty" | "Guilty" | https://vm.tiktok.com/ZML8ykaD3/ |
+| "Close up" | "Close up" | https://vm.tiktok.com/ZML89wF7G/ |
