@@ -1489,3 +1489,4 @@
 | "Bitchy" | "Bitchy" | https://vm.tiktok.com/ZML894ohf/ |
 | "Checklist" | "Checklist" | https://vm.tiktok.com/ZML8sBLR4/ |
 | "Spiritual" | "Spiritual" | https://vm.tiktok.com/ZMLLLLUQU/ |
+| "Catch and cook" | "Catch and cook" | https://vm.tiktok.com/ZMLL8njxe/ |
