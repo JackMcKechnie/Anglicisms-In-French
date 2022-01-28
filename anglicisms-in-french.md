@@ -1488,3 +1488,4 @@
 | "Frat party" | "Frat party" | https://vm.tiktok.com/ZML894ohf/ |
 | "Bitchy" | "Bitchy" | https://vm.tiktok.com/ZML894ohf/ |
 | "Checklist" | "Checklist" | https://vm.tiktok.com/ZML8sBLR4/ |
+| "Spiritual" | "Spiritual" | https://vm.tiktok.com/ZMLLLLUQU/ |
