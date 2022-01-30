@@ -1492,3 +1492,4 @@
 | "Catch and cook" | "Catch and cook" | https://vm.tiktok.com/ZMLL8njxe/ |
 | "Slow motion" | "Slow motion" | https://vm.tiktok.com/ZMLLtkrfC/ |
 | "X could never" | "X could never" | https://vm.tiktok.com/ZMLLtkrfC/ |
+| "Property manager" | "Property manager" | https://photos.app.goo.gl/GPxyCKKThCGPJre86 |
