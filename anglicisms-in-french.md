@@ -1490,3 +1490,4 @@
 | "Checklist" | "Checklist" | https://vm.tiktok.com/ZML8sBLR4/ |
 | "Spiritual" | "Spiritual" | https://vm.tiktok.com/ZMLLLLUQU/ |
 | "Catch and cook" | "Catch and cook" | https://vm.tiktok.com/ZMLL8njxe/ |
+| "Slow motion" | "Slow motion" | https://vm.tiktok.com/ZMLLtkrfC/ |
