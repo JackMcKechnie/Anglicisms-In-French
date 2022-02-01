@@ -1493,3 +1493,6 @@
 | "Slow motion" | "Slow motion" | https://vm.tiktok.com/ZMLLtkrfC/ |
 | "X could never" | "X could never" | https://vm.tiktok.com/ZMLLtkrfC/ |
 | "Property manager" | "Property manager" | https://photos.app.goo.gl/GPxyCKKThCGPJre86 |
+| "Game" | "Game" | https://vm.tiktok.com/ZMLNpMcxP/ |
+| "Yes life" | "Yes life" (Opposite of no life) | https://vm.tiktok.com/ZMLNpMcxP/ |
+| "No life" | "No life" | https://vm.tiktok.com/ZMLNpMcxP/ |
