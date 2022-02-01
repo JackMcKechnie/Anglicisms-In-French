@@ -1496,3 +1496,4 @@
 | "Game" | "Game" | https://vm.tiktok.com/ZMLNpMcxP/ |
 | "Yes life" | "Yes life" (Opposite of no life) | https://vm.tiktok.com/ZMLNpMcxP/ |
 | "No life" | "No life" | https://vm.tiktok.com/ZMLNpMcxP/ |
+| "Leader" | "Leader" | https://vm.tiktok.com/ZMLNnJtV6/ |
