@@ -1500,3 +1500,4 @@
 | "Born and raised" | "Born and raised" | https://photos.app.goo.gl/toMQaZZC9y1oieN56 |
 | "Dangerous" | "Dangerous" | https://vm.tiktok.com/ZMLFma8tq/ |
 | "Super clean" | "Super clean" | https://vm.tiktok.com/ZMLY1g94M/ |
+| "French accent" | "French accent" | https://photos.app.goo.gl/r3WCHbFL1fdwLjuA8 |
