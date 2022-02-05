@@ -1499,3 +1499,4 @@
 | "Leader" | "Leader" | https://vm.tiktok.com/ZMLNnJtV6/ |
 | "Born and raised" | "Born and raised" | https://photos.app.goo.gl/toMQaZZC9y1oieN56 |
 | "Dangerous" | "Dangerous" | https://vm.tiktok.com/ZMLFma8tq/ |
+| "Super clean" | "Super clean" | https://vm.tiktok.com/ZMLY1g94M/ |
