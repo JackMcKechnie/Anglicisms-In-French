@@ -1502,3 +1502,4 @@
 | "Super clean" | "Super clean" | https://vm.tiktok.com/ZMLY1g94M/ |
 | "French accent" | "French accent" | https://photos.app.goo.gl/r3WCHbFL1fdwLjuA8 |
 | "In" | "In" (Snowboarding) | https://vm.tiktok.com/ZMLYN9QH6/ |
+| "High" | "High" | https://twitter.com/freakinvelvet/status/1490085831549272064?t=Lu5rRcdU_ZpvhHGAvHR5xQ&s=19 |
