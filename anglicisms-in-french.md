@@ -1505,3 +1505,4 @@
 | "High" | "High" | https://twitter.com/freakinvelvet/status/1490085831549272064?t=Lu5rRcdU_ZpvhHGAvHR5xQ&s=19 |
 | "Epic" | "Epic" | https://vm.tiktok.com/ZMLYBVxDo/ |
 | "Money slave" | "Money slave" | https://vm.tiktok.com/ZMLYSmPr2/ |
+| "Workout routine" | "Workout routine" | https://photos.app.goo.gl/GASVG8ZzE6hDyJwE7 |
