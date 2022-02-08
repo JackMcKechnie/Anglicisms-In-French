@@ -1506,3 +1506,4 @@
 | "Epic" | "Epic" | https://vm.tiktok.com/ZMLYBVxDo/ |
 | "Money slave" | "Money slave" | https://vm.tiktok.com/ZMLYSmPr2/ |
 | "Workout routine" | "Workout routine" | https://photos.app.goo.gl/GASVG8ZzE6hDyJwE7 |
+| "Simple question" | "Simple question" | https://photos.app.goo.gl/3VGZMHqu93Bmb7bf7 |
