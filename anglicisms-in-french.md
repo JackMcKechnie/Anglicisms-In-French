@@ -1509,3 +1509,4 @@
 | "Simple question" | "Simple question" | https://photos.app.goo.gl/3VGZMHqu93Bmb7bf7 |
 | "God father" | "Godfather" | https://vm.tiktok.com/ZML2FkJJ7/ |
 | "Messy" | "Messy" | https://vm.tiktok.com/ZML2FknnJ/ |
+| "Or" | "Or" | https://vm.tiktok.com/ZML2PHrhv/ |
