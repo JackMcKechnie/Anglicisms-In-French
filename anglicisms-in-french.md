@@ -1510,3 +1510,4 @@
 | "God father" | "Godfather" | https://vm.tiktok.com/ZML2FkJJ7/ |
 | "Messy" | "Messy" | https://vm.tiktok.com/ZML2FknnJ/ |
 | "Or" | "Or" | https://vm.tiktok.com/ZML2PHrhv/ |
+| "What's wrong with me" | "What's wrong with me" | https://twitter.com/mathisgmss/status/1491439865476829185?t=mINcM30RLi_QxdEaZy0iEg&s=19 |
