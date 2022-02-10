@@ -1511,3 +1511,5 @@
 | "Messy" | "Messy" | https://vm.tiktok.com/ZML2FknnJ/ |
 | "Or" | "Or" | https://vm.tiktok.com/ZML2PHrhv/ |
 | "What's wrong with me" | "What's wrong with me" | https://twitter.com/mathisgmss/status/1491439865476829185?t=mINcM30RLi_QxdEaZy0iEg&s=19 |
+| "Les local boyz" | "Local Boyz" | https://photos.app.goo.gl/pf6jgcoQKkBnZ2MH8 |
+| "Send it" | "Send it" | https://www.instagram.com/tv/CZ0GELVA_-M/?utm_medium=copy_link |
