@@ -1515,3 +1515,4 @@
 | "Send it" | "Send it" | https://www.instagram.com/tv/CZ0GELVA_-M/?utm_medium=copy_link |
 | "Proud teacher" | "Proud teacher" | https://vm.tiktok.com/ZMLj1fQwX/ |
 | "Fake it til you make it" | "Fake it til you make it" | https://vm.tiktok.com/ZMLjaPoCt/ |
+| "L'after shave" | "After shave" | https://open.spotify.com/track/5IZGqvPLERJ4BOHAmLrRoy?si=jJkyI-4cT0KnJy-KJ490Ew&utm_source=copy-link 00:33 |
