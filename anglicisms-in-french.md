@@ -1517,3 +1517,6 @@
 | "Fake it til you make it" | "Fake it til you make it" | https://vm.tiktok.com/ZMLjaPoCt/ |
 | "L'after shave" | "After shave" | https://open.spotify.com/track/5IZGqvPLERJ4BOHAmLrRoy?si=jJkyI-4cT0KnJy-KJ490Ew&utm_source=copy-link 00:33 |
 | "Slim" | "Slim" | https://vm.tiktok.com/ZML65rRfe/ |
+| "Must have" | "Must have" | https://vm.tiktok.com/ZML6TTH6V/ |
+| "Hold up" | "Hold up" | https://youtu.be/0ETcLj5jBy4 56:50 |
+| "Nice guy" |"Nice guy" | https://photos.app.goo.gl/fEHH8bDhGfx13FSL6 |
