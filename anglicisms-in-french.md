@@ -1521,3 +1521,4 @@
 | "Hold up" | "Hold up" | https://youtu.be/0ETcLj5jBy4 56:50 |
 | "Nice guy" |"Nice guy" | https://photos.app.goo.gl/fEHH8bDhGfx13FSL6 |
 | "Caption" | "Caption" | https://vm.tiktok.com/ZML6KuCLv/ |
+| "Break up" | "Break up" | https://vm.tiktok.com/ZML6E1RBK/ |
