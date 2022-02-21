@@ -1525,3 +1525,4 @@
 | "For sure" | "For sure" | https://twitter.com/AC3N0revived550/status/1494413265807593478?t=Ozlc5WPerW9XRKd0uDPLUg&s=19 |
 | "Shawty" | "Shawty" | https://twitter.com/AC3N0revived550/status/1494413265807593478?t=Ozlc5WPerW9XRKd0uDPLUg&s=19 |
 | "Cross body" | "Cross body" | https://vm.tiktok.com/ZMLr3RxG3/ |
+| "Top case" | "Top case" (Motorbike) | https://vm.tiktok.com/ZMLr34dKj/ |
