@@ -1528,3 +1528,5 @@
 | "Top case" | "Top case" (Motorbike) | https://vm.tiktok.com/ZMLr34dKj/ |
 | "Prove it bitch" | "Prove it bitch" | https://vm.tiktok.com/ZMLhvHuau/ |
 | "That's the moment" | "That's the moment" | https://vm.tiktok.com/ZMLkBAMd7/ |
+| "Statement" | "Statement" | https://vm.tiktok.com/ZMLkoLy35/ |
+| "High fashion" | "High fashion" | https://vm.tiktok.com/ZMLkoLy35/ |
