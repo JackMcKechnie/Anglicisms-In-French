@@ -1532,3 +1532,4 @@
 | "High fashion" | "High fashion" | https://vm.tiktok.com/ZMLkoLy35/ |
 | "Middle East" | "Middle East" | https://vm.tiktok.com/ZMLBwwodT/ |
 |  "X hate account" | "X hate account" | https://vm.tiktok.com/ZMLSYFcw1/ |
+| "Relate" | "Relate" | https://vm.tiktok.com/ZMLS2MFYN/ |
