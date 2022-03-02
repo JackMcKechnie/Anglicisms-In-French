@@ -1534,3 +1534,4 @@
 |  "X hate account" | "X hate account" | https://vm.tiktok.com/ZMLSYFcw1/ |
 | "Relate" | "Relate" | https://vm.tiktok.com/ZMLS2MFYN/ |
 | "New X" | "New X" | https://vm.tiktok.com/ZMLAMU2Vs/ |
+| "Chemtrails" | "Chemtrails" | https://youtu.be/078jU_9miYI 02:24 |
