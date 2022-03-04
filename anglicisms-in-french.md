@@ -1538,3 +1538,5 @@
 | "Concept store" | "Concept store" | https://vm.tiktok.com/ZMLDadjLC/ |
 | "Smash" | "Smash" | https://vm.tiktok.com/ZMLDmJGtc/ |
 | "Pass" | "Pass" | https://vm.tiktok.com/ZMLDmJGtc/ |
+| "Himself" | "Himself" | https://photos.app.goo.gl/ph5EYXGEPNJhome56 |
+| "Benchmark" | "Benchmark" | https://photos.app.goo.gl/ph5EYXGEPNJhome56 |
