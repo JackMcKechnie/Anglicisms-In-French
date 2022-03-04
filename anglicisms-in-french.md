@@ -1536,3 +1536,5 @@
 | "New X" | "New X" | https://vm.tiktok.com/ZMLAMU2Vs/ |
 | "Chemtrails" | "Chemtrails" | https://youtu.be/078jU_9miYI 02:24 |
 | "Concept store" | "Concept store" | https://vm.tiktok.com/ZMLDadjLC/ |
+| "Smash" | "Smash" | https://vm.tiktok.com/ZMLDmJGtc/ |
+| "Pass" | "Pass" | https://vm.tiktok.com/ZMLDmJGtc/ |
