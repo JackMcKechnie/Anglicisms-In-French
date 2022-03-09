@@ -1545,3 +1545,4 @@
 | "Dollar cost average" | "Dollar cost average" | https://vm.tiktok.com/ZMLyu5xcQ/?k=1 |
 | "No man's land" | "No man's land" | https://vm.tiktok.com/ZMLyWhaLL/?k=1 |
 | "Number two" | "Number two" | https://vm.tiktok.com/ZMLycbp4o/?k=1 |
+| "La surprise" | "Surprise" | https://vm.tiktok.com/ZMLyEFPjb/?k=1 |
