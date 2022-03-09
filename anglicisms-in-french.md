@@ -1546,3 +1546,4 @@
 | "No man's land" | "No man's land" | https://vm.tiktok.com/ZMLyWhaLL/?k=1 |
 | "Number two" | "Number two" | https://vm.tiktok.com/ZMLycbp4o/?k=1 |
 | "La surprise" | "Surprise" | https://vm.tiktok.com/ZMLyEFPjb/?k=1 |
+| "Slow coffee" | "Slow coffee" | https://vm.tiktok.com/ZMLyoDxbu/?k=1 |
