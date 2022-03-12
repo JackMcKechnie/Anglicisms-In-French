@@ -1548,3 +1548,4 @@
 | "La surprise" | "Surprise" | https://vm.tiktok.com/ZMLyEFPjb/?k=1 |
 | "Slow coffee" | "Slow coffee" | https://vm.tiktok.com/ZMLyoDxbu/?k=1 |
 | "Furry" | "Furry" | https://vm.tiktok.com/ZMLf1fbao/?k=1 |
+| "Date myself" | "Date myself" | https://vm.tiktok.com/ZMLfvccMd/?k=1 |
