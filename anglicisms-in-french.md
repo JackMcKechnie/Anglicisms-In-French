@@ -1549,3 +1549,4 @@
 | "Slow coffee" | "Slow coffee" | https://vm.tiktok.com/ZMLyoDxbu/?k=1 |
 | "Furry" | "Furry" | https://vm.tiktok.com/ZMLf1fbao/?k=1 |
 | "Date myself" | "Date myself" | https://vm.tiktok.com/ZMLfvccMd/?k=1 |
+| "6 months" | "6 months" | https://vm.tiktok.com/ZMLPrGpNX/?k=1 |
