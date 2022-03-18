@@ -1552,3 +1552,4 @@
 | "6 months" | "6 months" | https://vm.tiktok.com/ZMLPrGpNX/?k=1 |
 | "At home" | "At home" | https://vm.tiktok.com/ZML5XnfQ5/?k=1 |
 | "Thrifter" "To thrift" | https://vm.tiktok.com/ZML549JpA/?k=1 |
+| "Boring" | "Boring" | https://vm.tiktok.com/ZMLaJhemy/?k=1 |
