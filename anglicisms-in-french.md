@@ -1554,3 +1554,4 @@
 | "Thrifter" "To thrift" | https://vm.tiktok.com/ZML549JpA/?k=1 |
 | "Boring" | "Boring" | https://vm.tiktok.com/ZMLaJhemy/?k=1 |
 | "This is for X" | "This is for X" | https://vm.tiktok.com/ZMLa5hLQ6/?k=1 |
+| "Send help" | "Send help" | https://vm.tiktok.com/ZMLamRnXm/?k=1 |
