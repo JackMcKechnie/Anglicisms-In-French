@@ -1557,3 +1557,4 @@
 | "Send help" | "Send help" | https://vm.tiktok.com/ZMLamRnXm/?k=1 |
 | "Lobby" | "Lobby" | https://vm.tiktok.com/ZMLaWYDQN/?k=1 |
 | "Turn over" | "Turn over" | https://vm.tiktok.com/ZMLmgxhnH/ |
+| "Cash back" | "Cash back" | https://vm.tiktok.com/ZMLm3e6Du/ |
