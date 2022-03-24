@@ -1558,3 +1558,4 @@
 | "Lobby" | "Lobby" | https://vm.tiktok.com/ZMLaWYDQN/?k=1 |
 | "Turn over" | "Turn over" | https://vm.tiktok.com/ZMLmgxhnH/ |
 | "Cash back" | "Cash back" | https://vm.tiktok.com/ZMLm3e6Du/ |
+| "Dicks" | "Dicks" | https://photos.app.goo.gl/XevHE5NGeqQNGjTU7 |
