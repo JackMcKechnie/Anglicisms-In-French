@@ -1559,3 +1559,4 @@
 | "Turn over" | "Turn over" | https://vm.tiktok.com/ZMLmgxhnH/ |
 | "Cash back" | "Cash back" | https://vm.tiktok.com/ZMLm3e6Du/ |
 | "Dicks" | "Dicks" | https://photos.app.goo.gl/XevHE5NGeqQNGjTU7 |
+| "Corn fritters" | "Corn fritters" | https://vm.tiktok.com/ZMLu2dRKq/ |
