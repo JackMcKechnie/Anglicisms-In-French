@@ -1560,3 +1560,4 @@
 | "Cash back" | "Cash back" | https://vm.tiktok.com/ZMLm3e6Du/ |
 | "Dicks" | "Dicks" | https://photos.app.goo.gl/XevHE5NGeqQNGjTU7 |
 | "Corn fritters" | "Corn fritters" | https://vm.tiktok.com/ZMLu2dRKq/ |
+| "Hate follow" | "Hate follow" | https://vm.tiktok.com/ZMLuuPssJ/ |
