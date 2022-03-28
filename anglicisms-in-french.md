@@ -1562,3 +1562,5 @@
 | "Corn fritters" | "Corn fritters" | https://vm.tiktok.com/ZMLu2dRKq/ |
 | "Hate follow" | "Hate follow" | https://vm.tiktok.com/ZMLuuPssJ/ |
 | "Supply chain" | "Supply chain" | https://vm.tiktok.com/ZMLHdfrL2/ |
+| "Hello everyone" | "Hello everyone" | https://vm.tiktok.com/ZMLHaBma6/ |
+| "Stay strong" | "Stay strong" | https://vm.tiktok.com/ZMLHaBma6/ |
