@@ -1564,3 +1564,4 @@
 | "Supply chain" | "Supply chain" | https://vm.tiktok.com/ZMLHdfrL2/ |
 | "Hello everyone" | "Hello everyone" | https://vm.tiktok.com/ZMLHaBma6/ |
 | "Stay strong" | "Stay strong" | https://vm.tiktok.com/ZMLHaBma6/ |
+| "Content manager" | "Content manager" | https://vm.tiktok.com/ZML9Lb7L5/ |
