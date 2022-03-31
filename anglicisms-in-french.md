@@ -1566,3 +1566,4 @@
 | "Stay strong" | "Stay strong" | https://vm.tiktok.com/ZMLHaBma6/ |
 | "Content manager" | "Content manager" | https://vm.tiktok.com/ZML9Lb7L5/ |
 | "Type beat" | "Type beat" | https://vm.tiktok.com/ZML95V68g/ |
+| "Un tweener" | "Tweener" (Tennis) | https://vm.tiktok.com/ZML9u6LHD/ |
