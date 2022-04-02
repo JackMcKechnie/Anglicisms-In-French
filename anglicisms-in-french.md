@@ -1569,3 +1569,4 @@
 | "Un tweener" | "Tweener" (Tennis) | https://vm.tiktok.com/ZML9u6LHD/ |
 | "Skull crushers" | "Skull crushers" (Exercise) | https://vm.tiktok.com/ZML9vrYtF/ |
 | "Body curls" | "Body curls" | https://vm.tiktok.com/ZML9vrYtF/ |
+| "Boots" | "Boots" | https://vm.tiktok.com/ZMLxhugAG/ |
