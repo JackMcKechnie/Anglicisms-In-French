@@ -1570,3 +1570,4 @@
 | "Skull crushers" | "Skull crushers" (Exercise) | https://vm.tiktok.com/ZML9vrYtF/ |
 | "Body curls" | "Body curls" | https://vm.tiktok.com/ZML9vrYtF/ |
 | "Boots" | "Boots" | https://vm.tiktok.com/ZMLxhugAG/ |
+| "Le pixel war" | "Pixel war" | https://techno.konbini.com/fr/societe/le-grand-nimporte-quoi-des-reseaux-sociaux-special-pixel-war/ |
