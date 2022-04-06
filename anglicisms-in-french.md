@@ -1571,3 +1571,4 @@
 | "Body curls" | "Body curls" | https://vm.tiktok.com/ZML9vrYtF/ |
 | "Boots" | "Boots" | https://vm.tiktok.com/ZMLxhugAG/ |
 | "Le pixel war" | "Pixel war" | https://techno.konbini.com/fr/societe/le-grand-nimporte-quoi-des-reseaux-sociaux-special-pixel-war/ |
+| "Save the date" | "Save the date" | https://photos.app.goo.gl/y5hPy4Un8yGaHUm47 |
