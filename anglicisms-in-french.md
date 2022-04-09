@@ -1577,3 +1577,4 @@
 | "Top tier by the way" | "Top tier by the way" | https://vm.tiktok.com/ZMLCbKmEE/ |
 | "Sunset time" | "Sunset time" | https://youtu.be/Z1PA-my9b_o 01:05 |
 | "Le slang" | "Slang" | https://vm.tiktok.com/ZMLX1Jdry/ |
+| "Point of view" | "Point of view" | https://youtu.be/ZiYk7iX1Fnc 06:30 |
