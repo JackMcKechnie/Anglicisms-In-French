@@ -1578,3 +1578,5 @@
 | "Sunset time" | "Sunset time" | https://youtu.be/Z1PA-my9b_o 01:05 |
 | "Le slang" | "Slang" | https://vm.tiktok.com/ZMLX1Jdry/ |
 | "Point of view" | "Point of view" | https://youtu.be/ZiYk7iX1Fnc 06:30 |
+| "Tufting" | "Tufting" | https://vm.tiktok.com/ZMLX8YdCU/ |
+| "Punch needle" | "Punch needle" | https://vm.tiktok.com/ZMLX8YdCU/ |
