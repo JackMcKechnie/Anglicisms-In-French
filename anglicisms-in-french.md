@@ -1582,3 +1582,4 @@
 | "Punch needle" | "Punch needle" | https://vm.tiktok.com/ZMLX8YdCU/ |
 | "Refill" | "Refill" | https://youtu.be/3WJBM10owoI 15:27 |
 | "Shower gel" | "Shower gel" | https://youtu.be/3WJBM10owoI 15:27 |
+| "Sleek" | "Sleek" | https://vm.tiktok.com/ZMLXf942j/ |
