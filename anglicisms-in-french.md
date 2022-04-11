@@ -1586,3 +1586,4 @@
 | "Overdressed" | "Overdressed" | https://vm.tiktok.com/ZMLX7X2pV/ |
 | "It's giving X" | "It's giving X" (Giving the impression of X) | https://vm.tiktok.com/ZMLX7X2pV/ |
 | "Just to feel something" | "Just to feel something" | https://twitter.com/grisroseorange/status/1513579404055744518?t=DKVrDGxXVQ2Sze-DPrfhdw&s=19 |
+| "Working girl" | "Working girl" | https://vm.tiktok.com/ZMLXKU73p/ |
