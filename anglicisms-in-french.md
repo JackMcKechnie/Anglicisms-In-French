@@ -1583,3 +1583,5 @@
 | "Refill" | "Refill" | https://youtu.be/3WJBM10owoI 15:27 |
 | "Shower gel" | "Shower gel" | https://youtu.be/3WJBM10owoI 15:27 |
 | "Sleek" | "Sleek" | https://vm.tiktok.com/ZMLXf942j/ |
+| "Overdressed" | "Overdressed" | https://vm.tiktok.com/ZMLX7X2pV/ |
+| "It's giving X" | "It's giving X" (Giving the impression of X) | https://vm.tiktok.com/ZMLX7X2pV/ |
