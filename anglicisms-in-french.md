@@ -1587,3 +1587,7 @@
 | "It's giving X" | "It's giving X" (Giving the impression of X) | https://vm.tiktok.com/ZMLX7X2pV/ |
 | "Just to feel something" | "Just to feel something" | https://twitter.com/grisroseorange/status/1513579404055744518?t=DKVrDGxXVQ2Sze-DPrfhdw&s=19 |
 | "Working girl" | "Working girl" | https://vm.tiktok.com/ZMLXKU73p/ |
+| "Like so" | "Like so" | https://vm.tiktok.com/ZML46jaBS/ |
+| "Like that" | "Like that" | https://vm.tiktok.com/ZML46jaBS/ |
+| "That's it" | "That's it" | https://vm.tiktok.com/ZML46jaBS/ |
+| "Hydrated bitch" | "Hydrated bitch" | https://vm.tiktok.com/ZML46jaBS/ |
