@@ -1593,3 +1593,4 @@
 | "Hydrated bitch" | "Hydrated bitch" | https://vm.tiktok.com/ZML46jaBS/ |
 | "Nineties" | "Nineties" | https://vm.tiktok.com/ZML4kYw5V/ |
 | "One boy" | "One boy" | https://vm.tiktok.com/ZML4BXBd7/ |
+| "World Cup" | "World Cup" | https://vm.tiktok.com/ZML4fnPSR/ |
