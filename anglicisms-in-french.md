@@ -1599,3 +1599,4 @@
 | "Party trick" | "Party trick" | https://vm.tiktok.com/ZMLVbR2FY/ |
 | "Cuck" | "Cuck" | https://vm.tiktok.com/ZMLVb95yC/ |
 | "Roast" | "Roast" | https://vm.tiktok.com/ZMLVb95yC/ |
+| "Co-branding" | "Co-branding" | https://vm.tiktok.com/ZMLVGmMP2/ |
