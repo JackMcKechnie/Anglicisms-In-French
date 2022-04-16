@@ -1597,3 +1597,5 @@
 | "Teenage" | "Teenage" | https://www.instagram.com/reel/CcYL6IUDSwi/?igshid=YmMyMTA2M2Y= |
 | "Press officer" | "Press officer" | https://vm.tiktok.com/ZMLVDFJxT/ |
 | "Party trick" | "Party trick" | https://vm.tiktok.com/ZMLVbR2FY/ |
+| "Cuck" | "Cuck" | https://vm.tiktok.com/ZMLVb95yC/ |
+| "Roast" | "Roast" | https://vm.tiktok.com/ZMLVb95yC/ |
