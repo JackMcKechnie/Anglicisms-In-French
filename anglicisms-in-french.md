@@ -1602,3 +1602,4 @@
 | "Co-branding" | "Co-branding" | https://vm.tiktok.com/ZMLVGmMP2/ |
 | "Web management" | "Web management" | https://vm.tiktok.com/ZMLVWvNnP/ |
 | "Foot" | "Foot" | https://twitter.com/grisroseorange/status/1516354349261373445?t=PU3rT8u2PTNuFT8MNsj0hA&s=19 |
+| "Day drinking" | "Day drinking" | https://vm.tiktok.com/ZMLqtjJvu/ |
