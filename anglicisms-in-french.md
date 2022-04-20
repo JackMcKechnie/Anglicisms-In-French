@@ -1603,3 +1603,4 @@
 | "Web management" | "Web management" | https://vm.tiktok.com/ZMLVWvNnP/ |
 | "Foot" | "Foot" | https://twitter.com/grisroseorange/status/1516354349261373445?t=PU3rT8u2PTNuFT8MNsj0hA&s=19 |
 | "Day drinking" | "Day drinking" | https://vm.tiktok.com/ZMLqtjJvu/ |
+| "Model-checking" | "Model-checking" (Computing) | http://www.lsv.fr/~gastin/ltl2ba/Oddoux-these.pdf |
