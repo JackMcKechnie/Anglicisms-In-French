@@ -1606,3 +1606,4 @@
 | "Model-checking" | "Model-checking" (Computing) | http://www.lsv.fr/~gastin/ltl2ba/Oddoux-these.pdf |
 | "Later cake" | "Layer cake" | https://vm.tiktok.com/ZMLbyTYRu/ |
 | "I have no fucking clue" | "I have no fucking clue" | https://vm.tiktok.com/ZMLbKrDMh/ |
+| "Cliff diving" | "Cliff diving" | https://vm.tiktok.com/ZMLbKX5RG/ |
