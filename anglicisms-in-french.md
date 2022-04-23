@@ -1609,3 +1609,5 @@
 | "Cliff diving" | "Cliff diving" | https://vm.tiktok.com/ZMLbKX5RG/ |
 | "Complaints" | "Complaints" | https://vm.tiktok.com/ZMLgrXLJk/ |
 | "Teamwork" | "Teamwork" | https://vm.tiktok.com/ZMLgyEabX/ |
+| "Picking" | "Picking" | https://vm.tiktok.com/ZMLgshNxE/ |
+| "Tractor driver" | "Tractor driver" | https://vm.tiktok.com/ZMLgshNxE/ |
