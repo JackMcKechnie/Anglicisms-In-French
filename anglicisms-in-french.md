@@ -1612,3 +1612,4 @@
 | "Picking" | "Picking" | https://vm.tiktok.com/ZMLgshNxE/ |
 | "Tractor driver" | "Tractor driver" | https://vm.tiktok.com/ZMLgshNxE/ |
 | "Tag yourself" | "Tag yourself" | https://vm.tiktok.com/ZMLpLDqnn/ |
+| "Cheater" | "To cheat" | https://vm.tiktok.com/ZMLpaMjdY/ |
