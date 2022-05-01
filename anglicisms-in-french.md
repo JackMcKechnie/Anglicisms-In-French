@@ -1615,3 +1615,4 @@
 | "Cheater" | "To cheat" | https://vm.tiktok.com/ZMLpaMjdY/ |
 | "In the morning" | "In the morning" | https://vm.tiktok.com/ZMLsECvUt/ |
 | "Couldn't agree more" | "Couldn't agree more" | https://twitter.com/Clairobscur__/status/1519970227454414848?t=Y_txD8QHji7yuKaYgWthfA&s=19 |
+| "Bodyweight" | "Bodyweight" | https://vm.tiktok.com/ZMLGwnhPM/ |
