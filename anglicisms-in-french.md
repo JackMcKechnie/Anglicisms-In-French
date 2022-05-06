@@ -1622,3 +1622,4 @@
 | "Peak oil" | "Peak oil" | https://vm.tiktok.com/ZMLnxvB4r/ |
 | "Don't get me wrong" | "Don't get me wrong" | https://twitter.com/grisroseorange/status/1522283728667660292?t=YA-g0HJt-v9oQT94haSJGQ&s=19 |
 | "Running gag" | "Running gag" | https://vm.tiktok.com/ZMLnbNSNb/ |
+| "Butler" | "Butler" | https://vm.tiktok.com/ZMLnKquQT/ |
