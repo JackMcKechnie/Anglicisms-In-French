@@ -1624,3 +1624,4 @@
 | "Running gag" | "Running gag" | https://vm.tiktok.com/ZMLnbNSNb/ |
 | "Butler" | "Butler" | https://vm.tiktok.com/ZMLnKquQT/ |
 | "Speedrunner" | "To speedrun" | https://photos.app.goo.gl/D3wPFWY3jczE22WW6 |
+| "Now" | "Now" | https://vm.tiktok.com/ZMLWcUYsD/ |
