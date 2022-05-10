@@ -1626,3 +1626,4 @@
 | "Speedrunner" | "To speedrun" | https://photos.app.goo.gl/D3wPFWY3jczE22WW6 |
 | "Now" | "Now" | https://vm.tiktok.com/ZMLWcUYsD/ |
 | "Out of my league" | "Out of my league" | https://vm.tiktok.com/ZML7Ss1j6/ |
+| "Plus one" | "Plus one" | https://vm.tiktok.com/ZML7qft4D/?k=1 |
