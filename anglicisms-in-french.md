@@ -1629,3 +1629,4 @@
 | "Plus one" | "Plus one" | https://vm.tiktok.com/ZML7qft4D/?k=1 |
 | "Feel good movie" | "Feel good movie" | https://vm.tiktok.com/ZMLv8jxNq/?k=1 |
 | "Gigachad power" | "Gigachad power" | https://vm.tiktok.com/ZMLvPoF7e/?k=1 |
+| "Retail" | "Retail" | https://vm.tiktok.com/ZMLv46p1o/?k=1 |
