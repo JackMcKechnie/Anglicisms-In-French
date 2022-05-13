@@ -1630,3 +1630,4 @@
 | "Feel good movie" | "Feel good movie" | https://vm.tiktok.com/ZMLv8jxNq/?k=1 |
 | "Gigachad power" | "Gigachad power" | https://vm.tiktok.com/ZMLvPoF7e/?k=1 |
 | "Retail" | "Retail" | https://vm.tiktok.com/ZMLv46p1o/?k=1 |
+| "Mindset" | "Mindset" | https://vm.tiktok.com/ZMLcJnubT/?k=1 |
