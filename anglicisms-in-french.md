@@ -1631,3 +1631,4 @@
 | "Gigachad power" | "Gigachad power" | https://vm.tiktok.com/ZMLvPoF7e/?k=1 |
 | "Retail" | "Retail" | https://vm.tiktok.com/ZMLv46p1o/?k=1 |
 | "Mindset" | "Mindset" | https://vm.tiktok.com/ZMLcJnubT/?k=1 |
+| "Edit" | "Edit" | https://vm.tiktok.com/ZMLcey4Mo/?k=1 |
