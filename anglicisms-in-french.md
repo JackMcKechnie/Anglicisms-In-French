@@ -1632,3 +1632,4 @@
 | "Retail" | "Retail" | https://vm.tiktok.com/ZMLv46p1o/?k=1 |
 | "Mindset" | "Mindset" | https://vm.tiktok.com/ZMLcJnubT/?k=1 |
 | "Edit" | "Edit" | https://vm.tiktok.com/ZMLcey4Mo/?k=1 |
+| "Pull up" | "Pull up" | https://vm.tiktok.com/ZMLcGsfL5/?k=1 |
