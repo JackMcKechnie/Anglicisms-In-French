@@ -1635,3 +1635,4 @@
 | "Pull up" | "Pull up" | https://vm.tiktok.com/ZMLcGsfL5/?k=1 |
 | "Sand blaster" | "Sand blaster" | https://vm.tiktok.com/ZMLccL8EF/?k=1 |
 | "Shaker" | "Shaker" | https://vm.tiktok.com/ZML3kuWJd/?k=1 |
+| "Lunch" | "Lunch" | https://vm.tiktok.com/ZMLKuJTb1/?k=1 |
