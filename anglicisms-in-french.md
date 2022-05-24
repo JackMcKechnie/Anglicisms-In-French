@@ -1636,3 +1636,5 @@
 | "Sand blaster" | "Sand blaster" | https://vm.tiktok.com/ZMLccL8EF/?k=1 |
 | "Shaker" | "Shaker" | https://vm.tiktok.com/ZML3kuWJd/?k=1 |
 | "Lunch" | "Lunch" | https://vm.tiktok.com/ZMLKuJTb1/?k=1 |
+| "Too busy" | "Too busy" | https://photos.app.goo.gl/4jG4EYed8Ld4wyQX6 |
+| "ASAP" | "ASAP" | https://photos.app.goo.gl/4jG4EYed8Ld4wyQX6 |
