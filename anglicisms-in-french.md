@@ -1639,3 +1639,4 @@
 | "Too busy" | "Too busy" | https://photos.app.goo.gl/4jG4EYed8Ld4wyQX6 |
 | "ASAP" | "ASAP" | https://photos.app.goo.gl/4jG4EYed8Ld4wyQX6 |
 | "Pinkwashing" | "Pinkwashing" | https://twitter.com/ache_jv/status/1529430235812347911?t=7ncK3xXmioajmqJx4U-Ikw&s=19 |
+| "Brazilian butt lift" | "Brazilian butt lift" | https://vm.tiktok.com/ZMLEpFUSY/?k=1 |
