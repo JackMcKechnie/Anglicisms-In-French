@@ -1641,3 +1641,4 @@
 | "Pinkwashing" | "Pinkwashing" | https://twitter.com/ache_jv/status/1529430235812347911?t=7ncK3xXmioajmqJx4U-Ikw&s=19 |
 | "Brazilian butt lift" | "Brazilian butt lift" | https://vm.tiktok.com/ZMLEpFUSY/?k=1 |
 | "I don't know" | "I don't know" | https://vm.tiktok.com/ZMLoqNuw7/?k=1 |
+| "Breakdown" | "Breakdown" | https://vm.tiktok.com/ZMNJ5Vgyu/?k=1 |
