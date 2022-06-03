@@ -1642,3 +1642,4 @@
 | "Brazilian butt lift" | "Brazilian butt lift" | https://vm.tiktok.com/ZMLEpFUSY/?k=1 |
 | "I don't know" | "I don't know" | https://vm.tiktok.com/ZMLoqNuw7/?k=1 |
 | "Breakdown" | "Breakdown" | https://vm.tiktok.com/ZMNJ5Vgyu/?k=1 |
+| "Jersey club" | "Jersey club" (Music) | https://vm.tiktok.com/ZMNe8NDVj/?k=1 |
