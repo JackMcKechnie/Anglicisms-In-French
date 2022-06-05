@@ -1645,3 +1645,4 @@
 | "Jersey club" | "Jersey club" (Music) | https://vm.tiktok.com/ZMNe8NDVj/?k=1 |
 | "Posing" | "Posing" | https://vm.tiktok.com/ZMNeHLKX9/?k=1 |
 | "My time to shine" | "My time to shine" | https://vm.tiktok.com/ZMNev9XCb/?k=1 |
+| "Wake up" | "Wake up" | https://vm.tiktok.com/ZMNdYRsqb/?k=1 |
