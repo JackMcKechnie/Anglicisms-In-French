@@ -1654,3 +1654,5 @@
 | "X is calling" | "X is calling" | https://vm.tiktok.com/ZMN8AfVe3/?k=1 |
 | "Vagina" | "Vagina" | https://vm.tiktok.com/ZMN8nfhqu/?k=1 |
 | "Safe space" | "Safe space" | https://vm.tiktok.com/ZMN872EMe/?k=1 |
+| "What a day" | "What a day" | https://vm.tiktok.com/ZMNLMgr1E/?k=1 |
+| "Best X ever" | "Best X ever" | https://vm.tiktok.com/ZMNLMgr1E/?k=1 |
