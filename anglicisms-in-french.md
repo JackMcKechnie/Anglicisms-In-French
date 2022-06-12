@@ -1656,3 +1656,4 @@
 | "Safe space" | "Safe space" | https://vm.tiktok.com/ZMN872EMe/?k=1 |
 | "What a day" | "What a day" | https://vm.tiktok.com/ZMNLMgr1E/?k=1 |
 | "Best X ever" | "Best X ever" | https://vm.tiktok.com/ZMNLMgr1E/?k=1 |
+| "Fundraiser" | "Fundraiser" | https://vm.tiktok.com/ZMNLXoXPn/?k=1 |
