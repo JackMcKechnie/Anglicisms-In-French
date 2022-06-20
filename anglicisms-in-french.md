@@ -1659,3 +1659,4 @@
 | "Fundraiser" | "Fundraiser" | https://vm.tiktok.com/ZMNLXoXPn/?k=1 |
 | "Split" | "Split" (Timing) | https://vm.tiktok.com/ZMNYU6hVc/?k=1 |
 | "Back to back to back" | "Back to back to back" | https://vm.tiktok.com/ZMNYU6hVc/?k=1 |
+| "Sketchbook tour" | "Sketchbook tour" | https://vm.tiktok.com/ZMN2hcMkj/?k=1 |
