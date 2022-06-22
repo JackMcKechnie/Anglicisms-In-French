@@ -1660,3 +1660,4 @@
 | "Split" | "Split" (Timing) | https://vm.tiktok.com/ZMNYU6hVc/?k=1 |
 | "Back to back to back" | "Back to back to back" | https://vm.tiktok.com/ZMNYU6hVc/?k=1 |
 | "Sketchbook tour" | "Sketchbook tour" | https://vm.tiktok.com/ZMN2hcMkj/?k=1 |
+| "Mosh pits" | "Mosh pits" | https://vm.tiktok.com/ZMNjrQubr/?k=1 |
