@@ -1661,3 +1661,4 @@
 | "Back to back to back" | "Back to back to back" | https://vm.tiktok.com/ZMNYU6hVc/?k=1 |
 | "Sketchbook tour" | "Sketchbook tour" | https://vm.tiktok.com/ZMN2hcMkj/?k=1 |
 | "Mosh pits" | "Mosh pits" | https://vm.tiktok.com/ZMNjrQubr/?k=1 |
+| "She's a ten X" | "She's a ten X" | https://twitter.com/grisroseorange/status/1540362398070177792?s=20&t=yhLePuCU-8Ubw4Piwh8Wtg |
