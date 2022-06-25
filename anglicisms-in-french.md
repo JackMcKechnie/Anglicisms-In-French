@@ -1665,3 +1665,4 @@
 | "Coochie" | "Coochie" | https://twitter.com/imlauranus/status/1540394288231620609?t=pE8vxrBxJAQTahCbStd9wA&s=19 |
 | "FOMO" | "FOMO" (Fear of missing out) | https://twitter.com/grisroseorange/status/1540781099747627008?t=pxojpXcbBU6Lm6_T_IhhmQ&s=19 |
 | "Ring a bell" | "Ring a bell" | https://vm.tiktok.com/ZMNMNYhjB/?k=1 |
+| "Fit in" | "Fit in" | https://vm.tiktok.com/ZMNML3K5s/?k=1 |
