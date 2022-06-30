@@ -1666,3 +1666,4 @@
 | "FOMO" | "FOMO" (Fear of missing out) | https://twitter.com/grisroseorange/status/1540781099747627008?t=pxojpXcbBU6Lm6_T_IhhmQ&s=19 |
 | "Ring a bell" | "Ring a bell" | https://vm.tiktok.com/ZMNMNYhjB/?k=1 |
 | "Fit in" | "Fit in" | https://vm.tiktok.com/ZMNML3K5s/?k=1 |
+| "Fly out" | "Fly out" | https://twitter.com/grisroseorange/status/1542285774154072065?t=QGPSlWkImdd5tnlXfv-pMA&s=19 |
