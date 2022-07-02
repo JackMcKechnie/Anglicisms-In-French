@@ -1669,3 +1669,4 @@
 | "Fly out" | "Fly out" | https://twitter.com/grisroseorange/status/1542285774154072065?t=QGPSlWkImdd5tnlXfv-pMA&s=19 |
 | "Digital native brand" | "Digital native brand" | https://vm.tiktok.com/ZMNkbEUq8/?k=1 |
 | "Digital native vertical brand" | "Digital native vertical brand" | https://vm.tiktok.com/ZMNkbEUq8/?k=1 |
+| "This little shit" | "This little shit" | https://vm.tiktok.com/ZMNBcaLr6/?k=1 |
