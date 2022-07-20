@@ -1683,3 +1683,4 @@
 | "Make it make sense" | "Make it make sense" | https://twitter.com/grisroseorange/status/1548071177607778310?t=00Hy3FZOjw4V4jMWpvTLYQ&s=19 |
 | "Pop up" | "Pop up" | https://vm.tiktok.com/ZMNuQRYYT/?k=1 |
 | "Flared" | "Flared" | https://vm.tiktok.com/ZMNuQRYYT/?k=1 |
+| "Le dataviz" | "Dataviz" (Data science) | https://vm.tiktok.com/ZMN9utnYp/?k=1 |
