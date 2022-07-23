@@ -1686,3 +1686,4 @@
 | "Le dataviz" | "Dataviz" (Data science) | https://vm.tiktok.com/ZMN9utnYp/?k=1 |
 | "I'm built different" | "I'm built different" | https://twitter.com/grisroseorange/status/1549805672778416129?t=lNaDeUtbm9-A-_VbaS6gYA&s=19 |
 | "Fly away race" | "Fly away race" | https://vm.tiktok.com/ZMN9ECbWF/?k=1 |
+| "Full gas" | "Full gas" | https://vm.tiktok.com/ZMNC13VgU/?k=1 |
