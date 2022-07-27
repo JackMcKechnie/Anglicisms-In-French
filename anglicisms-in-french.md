@@ -1689,3 +1689,5 @@
 | "Full gas" | "Full gas" | https://vm.tiktok.com/ZMNC13VgU/?k=1 |
 | "Over and over" | "Over and over" | https://vm.tiktok.com/ZMNCQ8p2h/?k=1 |
 | "In a long time" | "In a long time" | https://vm.tiktok.com/ZMNXkGv1E/?k=1 |
+| "Soulmates" | "Soulmates" | https://vm.tiktok.com/ZMN4yaasx/?k=1 |
+| "Big brain" | "Big brain" | https://vm.tiktok.com/ZMN4yp5mc/?k=1 |
