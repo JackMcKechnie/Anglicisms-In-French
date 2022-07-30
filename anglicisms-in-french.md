@@ -1693,3 +1693,4 @@
 | "Big brain" | "Big brain" | https://vm.tiktok.com/ZMN4yp5mc/?k=1 |
 | "X is key" | "X is key" | https://vm.tiktok.com/ZMNVFoFkD/?k=1 |
 | "La flying lady" | "Flying lady" (Rolls Royce) | https://vm.tiktok.com/ZMNVhDK54/?k=1 |
+| "Adult only" | "Adult only" | https://vm.tiktok.com/ZMNVybDWu/?k=1 |
