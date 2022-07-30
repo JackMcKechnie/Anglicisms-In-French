@@ -1694,3 +1694,4 @@
 | "X is key" | "X is key" | https://vm.tiktok.com/ZMNVFoFkD/?k=1 |
 | "La flying lady" | "Flying lady" (Rolls Royce) | https://vm.tiktok.com/ZMNVhDK54/?k=1 |
 | "Adult only" | "Adult only" | https://vm.tiktok.com/ZMNVybDWu/?k=1 |
+| "Income tax" | "Income tax" | https://vm.tiktok.com/ZMNVPFjxD/?k=1 |
