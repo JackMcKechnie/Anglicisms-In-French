@@ -1699,3 +1699,4 @@
 | "Snowball" | "Snowball" | https://vm.tiktok.com/ZMNq1g7sn/?k=1 |
 | "Tubeless" | "Tubeless" | https://vm.tiktok.com/ZMNqJTXNL/?k=1 |
 | "Clean girl" | "Clean girl" | https://vm.tiktok.com/ZMNqxsMnQ/?k=1 |
+| "Banana bread" | "Banana bread" | https://vm.tiktok.com/ZMNqqPbp9/?k=1 |
