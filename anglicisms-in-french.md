@@ -1700,3 +1700,4 @@
 | "Tubeless" | "Tubeless" | https://vm.tiktok.com/ZMNqJTXNL/?k=1 |
 | "Clean girl" | "Clean girl" | https://vm.tiktok.com/ZMNqxsMnQ/?k=1 |
 | "Banana bread" | "Banana bread" | https://vm.tiktok.com/ZMNqqPbp9/?k=1 |
+| "Gate" | "Gate" | https://vm.tiktok.com/ZMNbALCPB/?k=1 |
