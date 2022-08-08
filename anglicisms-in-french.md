@@ -1703,3 +1703,4 @@
 | "Gate" | "Gate" | https://vm.tiktok.com/ZMNbALCPB/?k=1 |
 | "Bus girl" | "Bus girl" | https://vm.tiktok.com/ZMNg4PYBA/?k=1 |
 | "God tier" | "God tier" | https://vm.tiktok.com/ZMNg4CHQe/?k=1 |
+| "Night off" | "Night off" | https://vm.tiktok.com/ZMNpRHsrV/?k=1 |
