@@ -1705,3 +1705,5 @@
 | "God tier" | "God tier" | https://vm.tiktok.com/ZMNg4CHQe/?k=1 |
 | "Night off" | "Night off" | https://vm.tiktok.com/ZMNpRHsrV/?k=1 |
 | "Design pattern" | "Design pattern" | https://vm.tiktok.com/ZMNp2nYG4/?k=1 |
+| "Fuck off" | "Fuck off" | https://vm.tiktok.com/ZMNpt6QsT/?k=1 |
+| "Recovering" | "Recovering" | https://vm.tiktok.com/ZMNpWy4nC/?k=1 |
