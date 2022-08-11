@@ -1708,3 +1708,5 @@
 | "Fuck off" | "Fuck off" | https://vm.tiktok.com/ZMNpt6QsT/?k=1 |
 | "Recovering" | "Recovering" | https://vm.tiktok.com/ZMNpWy4nC/?k=1 |
 | "Weird turn on" | "Weird turn on" | https://twitter.com/belin2spop/status/1557476585695059971?t=NgbgqpKTvf0Qw6dxWuJ2eg&s=19 |
+| "Finisher" | "Finisher" | https://vm.tiktok.com/ZMNsNpkDe/?k=1 |
+| "Fine" | "Fine" | https://vm.tiktok.com/ZMNsNbGNU/?k=1 |
