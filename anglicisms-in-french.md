@@ -1710,3 +1710,4 @@
 | "Weird turn on" | "Weird turn on" | https://twitter.com/belin2spop/status/1557476585695059971?t=NgbgqpKTvf0Qw6dxWuJ2eg&s=19 |
 | "Finisher" | "Finisher" | https://vm.tiktok.com/ZMNsNpkDe/?k=1 |
 | "Fine" | "Fine" | https://vm.tiktok.com/ZMNsNbGNU/?k=1 |
+| "Auto-locked" | "Auto-locked" | https://photos.app.goo.gl/jy1SefGUPbS7CUcm8 |
