@@ -1712,3 +1712,4 @@
 | "Fine" | "Fine" | https://vm.tiktok.com/ZMNsNbGNU/?k=1 |
 | "Auto-locked" | "Auto-locked" | https://photos.app.goo.gl/jy1SefGUPbS7CUcm8 |
 | "Pack opening" | "Pack opening" | https://photos.app.goo.gl/SAd2xJGVbaHXQNDP7 |
+| "Plant sitter" | "Plant sitter" | https://vm.tiktok.com/ZMNtSvbY2/ |
