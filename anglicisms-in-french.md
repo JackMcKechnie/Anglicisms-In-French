@@ -1711,5 +1711,7 @@
 | "Finisher" | "Finisher" | https://vm.tiktok.com/ZMNsNpkDe/?k=1 |
 | "Fine" | "Fine" | https://vm.tiktok.com/ZMNsNbGNU/?k=1 |
 | "Auto-locked" | "Auto-locked" | https://photos.app.goo.gl/jy1SefGUPbS7CUcm8 |
-| "Pack opening" | "Pack opening" | https://photos.app.goo.gl/SAd2xJGVbaHXQNDP7 |
+| "Pack opening" | "Pack opening" (Fifa) | https://photos.app.goo.gl/SAd2xJGVbaHXQNDP7 |
 | "Plant sitter" | "Plant sitter" | https://vm.tiktok.com/ZMNtSvbY2/ |
+| "Gate keeping" | "Gatekeeping" | https://vm.tiktok.com/ZMNWjQDYT/ |
+| "Social media" | "Social media" | https://vm.tiktok.com/ZMNWjBCC8/ |
