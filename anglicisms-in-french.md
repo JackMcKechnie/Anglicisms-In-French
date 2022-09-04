@@ -1715,3 +1715,4 @@
 | "Plant sitter" | "Plant sitter" | https://vm.tiktok.com/ZMNtSvbY2/ |
 | "Gate keeping" | "Gatekeeping" | https://vm.tiktok.com/ZMNWjQDYT/ |
 | "Social media" | "Social media" | https://vm.tiktok.com/ZMNWjBCC8/ |
+| "Sneaky leave" | "Sneaky leave" | https://vm.tiktok.com/ZMNwJavWL/ |
