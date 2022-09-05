@@ -1716,3 +1716,4 @@
 | "Gate keeping" | "Gatekeeping" | https://vm.tiktok.com/ZMNWjQDYT/ |
 | "Social media" | "Social media" | https://vm.tiktok.com/ZMNWjBCC8/ |
 | "Sneaky leave" | "Sneaky leave" | https://vm.tiktok.com/ZMNwJavWL/ |
+| "High functioning" | "High functioning" | https://twitter.com/thoughtsapathie/status/1566392652991430659?t=C3GU5jroonvqMgGDNatubg&s=19 |
