@@ -1719,3 +1719,4 @@
 | "High functioning" | "High functioning" | https://twitter.com/thoughtsapathie/status/1566392652991430659?t=C3GU5jroonvqMgGDNatubg&s=19 |
 | "Resting bitch face" | "Resting bitch face" | https://vm.tiktok.com/ZMNKrsNGL/ |
 | "Zone out" | "Zone out" | https://vm.tiktok.com/ZMNKrsNGL/ |
+| "Toxic trait" | "Toxic trait" | https://vm.tiktok.com/ZMNo7SFwP/ |
