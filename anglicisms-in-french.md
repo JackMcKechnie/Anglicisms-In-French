@@ -1721,3 +1721,4 @@
 | "Zone out" | "Zone out" | https://vm.tiktok.com/ZMNKrsNGL/ |
 | "Toxic trait" | "Toxic trait" | https://vm.tiktok.com/ZMNo7SFwP/ |
 | "Full moon" | "Full moon" | https://photos.app.goo.gl/JAGncQhfUE84v5W88 |
+| "Farmer league" | "Farmer's league" (Football) | https://photos.app.goo.gl/7cW9usjv4nLQ6v8p9 |
