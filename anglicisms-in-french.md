@@ -1722,3 +1722,4 @@
 | "Toxic trait" | "Toxic trait" | https://vm.tiktok.com/ZMNo7SFwP/ |
 | "Full moon" | "Full moon" | https://photos.app.goo.gl/JAGncQhfUE84v5W88 |
 | "Farmer league" | "Farmer's league" (Football) | https://photos.app.goo.gl/7cW9usjv4nLQ6v8p9 |
+| "Pathological liar" | "Pathological liar" | https://twitter.com/grisroseorange/status/1571939587991416833?t=_B1lvpcnWOi72EZuH7GSrw&s=19 |
