@@ -1726,3 +1726,4 @@
 | "Dreams" | "Dreams" | https://vm.tiktok.com/ZMFeX1LPw/ |
 | "Backlinks" | "Backlinks" (SEO) | https://vm.tiktok.com/ZMFeowJJe/ |
 | "Jewish" | "Jewish" | https://vm.tiktok.com/ZMFddafVk/ |
+| "Haircare routine" | "Haircare routine" | https://vm.tiktok.com/ZMF8cANe5/ |
