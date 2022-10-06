@@ -1730,3 +1730,4 @@
 | "Comfort Place" | "Comfort Place" | https://vm.tiktok.com/ZMFL5Rwr8/ |
 | "Skincare girlies" | "Skincare girlies" | https://twitter.com/grisroseorange/status/1575580816335257600?t=IhPJvPaqyr6z0rDG9IcF4A&s=19 |
 | "Chilly" | "Chilly" | https://vm.tiktok.com/ZMFF8Aow2/ |
+| "Le two-pager" | "Two pager" (Amazon) | https://vm.tiktok.com/ZMFYMvK1W/ |
