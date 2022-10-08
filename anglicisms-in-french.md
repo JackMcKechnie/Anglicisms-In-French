@@ -1733,3 +1733,4 @@
 | "Le two-pager" | "Two pager" (Amazon) | https://vm.tiktok.com/ZMFYMvK1W/ |
 | "Cold wallet" | "Cold wallet" (Cryptocurrency) | https://vm.tiktok.com/ZMFYquhBk/ |
 | "Softbox" | "Softbox" (Lighting) | https://vm.tiktok.com/ZMFYqVhPx/ |
+| "Round" | "Round" | https://vm.tiktok.com/ZMF2YPxMu/ |
