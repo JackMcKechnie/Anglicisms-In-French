@@ -1734,3 +1734,5 @@
 | "Cold wallet" | "Cold wallet" (Cryptocurrency) | https://vm.tiktok.com/ZMFYquhBk/ |
 | "Softbox" | "Softbox" (Lighting) | https://vm.tiktok.com/ZMFYqVhPx/ |
 | "Round" | "Round" | https://vm.tiktok.com/ZMF2YPxMu/ |
+| "Manterrupting" | "Manterrupting" (Interrupting) | https://vm.tiktok.com/ZMFjMY4gh/ |
+| "Ups and downs" | "Ups and downs" | https://fb.watch/g5zpSNr_vF/ 00:00 |
