@@ -1738,3 +1738,4 @@
 | "Ups and downs" | "Ups and downs" | https://fb.watch/g5zpSNr_vF/ 00:00 |
 | "Bike check" | "Bike check" | https://www.tiktok.com/@lucilee_gciaa/video/7153313007651556614?_r=1&u_code=dagdgg47dia36h&preview_pb=0&language=fr&_d=dfl38721igc29k&share_item_id=7153313007651556614&source=h5_m&timestamp=1665578133&user_id=6787432536429413382&sec_user_id=MS4wLjABAAAAbZiig0cBxBuNITSjqr0cNslDtWxO0EUBQduq89l1wkcavChPki3qH5Sna8P_BQMu&utm_source=copy&utm_campaign=client_share&utm_medium=android&share_iid=7153602928367683333&share_link_id=7e9943d8-3167-4aa0-a2e9-0bfc0444807f&share_app_id=1233&ugbiz_name=Main&ug_btm=b2001 |
 | "Ears" | "Ears" (Disney headband) | https://vm.tiktok.com/ZMFjgn7At/ |
+| "New day new X" | "New days new X" | https://vm.tiktok.com/ZMFj3ooTL/ |
