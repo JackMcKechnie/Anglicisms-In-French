@@ -1740,3 +1740,4 @@
 | "Ears" | "Ears" (Disney headband) | https://vm.tiktok.com/ZMFjgn7At/ |
 | "New day new X" | "New days new X" | https://vm.tiktok.com/ZMFj3ooTL/ |
 | "Barspin" | "Barspin" | https://vm.tiktok.com/ZMF6jThX5/ |
+| "Spot" | "Slot" | https://vm.tiktok.com/ZMFMJJYpy/ |
