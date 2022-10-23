@@ -1741,3 +1741,4 @@
 | "New day new X" | "New days new X" | https://vm.tiktok.com/ZMFj3ooTL/ |
 | "Barspin" | "Barspin" | https://vm.tiktok.com/ZMF6jThX5/ |
 | "Spot" | "Slot" | https://vm.tiktok.com/ZMFMJJYpy/ |
+| "Late night thoughts" | "Late night thoughts" | https://vm.tiktok.com/ZMFkk2K8E/ |
