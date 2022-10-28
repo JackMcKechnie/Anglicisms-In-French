@@ -1742,3 +1742,4 @@
 | "Barspin" | "Barspin" | https://vm.tiktok.com/ZMF6jThX5/ |
 | "Spot" | "Slot" | https://vm.tiktok.com/ZMFMJJYpy/ |
 | "Late night thoughts" | "Late night thoughts" | https://vm.tiktok.com/ZMFkk2K8E/ |
+| "X on fire" | "X on fire" | https://photos.app.goo.gl/geDtYXicZ8Gosggg6 |
