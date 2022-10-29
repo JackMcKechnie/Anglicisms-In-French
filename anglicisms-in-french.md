@@ -1743,3 +1743,6 @@
 | "Spot" | "Slot" | https://vm.tiktok.com/ZMFMJJYpy/ |
 | "Late night thoughts" | "Late night thoughts" | https://vm.tiktok.com/ZMFkk2K8E/ |
 | "X on fire" | "X on fire" | https://photos.app.goo.gl/geDtYXicZ8Gosggg6 |
+| "Head up" | "Head up" | https://vm.tiktok.com/ZMFSfUTks/ |
+| "Down bad" | "Down bad" | https://vm.tiktok.com/ZMFSfUTks/ |
+| "X bashing" | "X bashing" | https://photos.app.goo.gl/khcb1XdLEkFXAYod8 |
