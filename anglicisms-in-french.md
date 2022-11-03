@@ -1746,3 +1746,4 @@
 | "Head up" | "Head up" | https://vm.tiktok.com/ZMFSfUTks/ |
 | "Down bad" | "Down bad" | https://vm.tiktok.com/ZMFSfUTks/ |
 | "X bashing" | "X bashing" | https://photos.app.goo.gl/khcb1XdLEkFXAYod8 |
+| "Spirit" | "Spirit" | https://vm.tiktok.com/ZMFDxnW7Q/ |
