@@ -1747,3 +1747,5 @@
 | "Down bad" | "Down bad" | https://vm.tiktok.com/ZMFSfUTks/ |
 | "X bashing" | "X bashing" | https://photos.app.goo.gl/khcb1XdLEkFXAYod8 |
 | "Spirit" | "Spirit" | https://vm.tiktok.com/ZMFDxnW7Q/ |
+| "Pure king line" | "Pure king line" | https://photos.app.goo.gl/gJRg2V8Wi2UK1HMn9 |
+| "Come as you are" | "Come as you are" | https://vm.tiktok.com/ZMFDTmvH5/ |
