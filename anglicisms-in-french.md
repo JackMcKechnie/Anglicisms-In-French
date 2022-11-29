@@ -1755,3 +1755,7 @@
 | "Leg drive" | "Leg drive" | https://photos.app.goo.gl/ZaFBRujbegVzYbSu9 |
 | "Le cheese naan" | "Cheese naan" | https://vm.tiktok.com/ZMFHe51vR/ |
 | "Flappy" | "Flappy" | https://youtu.be/aSFFa6aQdFM 01:50 |
+| "Business school" | "Business school" | https://vm.tiktok.com/ZMFQSaCnn/ |
+| "Fursona" | "Fursona" (Furries) | https://photos.app.goo.gl/6Mug4X33b7so4cr99 |
+| "Craving" | "Craving" | https://youtu.be/C_76RdqSnnE 09:17 |
+| "Open minded" | "Open minded" | https://photos.app.goo.gl/kPdSRU87m8Wtmhuj6 |
