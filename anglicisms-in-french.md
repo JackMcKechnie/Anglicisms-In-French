@@ -1759,3 +1759,5 @@
 | "Fursona" | "Fursona" (Furries) | https://photos.app.goo.gl/6Mug4X33b7so4cr99 |
 | "Craving" | "Craving" | https://youtu.be/C_76RdqSnnE 09:17 |
 | "Open minded" | "Open minded" | https://photos.app.goo.gl/kPdSRU87m8Wtmhuj6 |
+| "Gen Z" | "Gen Z" | https://vm.tiktok.com/ZMFQ3f2vJ/ |
+| "Era" | "Era" | https://photos.app.goo.gl/jFmvxdYR9a9WxCWj6 |
