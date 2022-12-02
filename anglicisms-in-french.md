@@ -1761,3 +1761,5 @@
 | "Open minded" | "Open minded" | https://photos.app.goo.gl/kPdSRU87m8Wtmhuj6 |
 | "Gen Z" | "Gen Z" | https://vm.tiktok.com/ZMFQ3f2vJ/ |
 | "Era" | "Era" | https://photos.app.goo.gl/jFmvxdYR9a9WxCWj6 |
+| "We are having a conversation" | "We are having a conversation" | https://vm.tiktok.com/ZMF4nY9aM/ |
+| "My G" | "My G" | https://vm.tiktok.com/ZMF4nY9aM/ |
