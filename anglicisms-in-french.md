@@ -1763,3 +1763,4 @@
 | "Era" | "Era" | https://photos.app.goo.gl/jFmvxdYR9a9WxCWj6 |
 | "We are having a conversation" | "We are having a conversation" | https://vm.tiktok.com/ZMF4nY9aM/ |
 | "My G" | "My G" | https://vm.tiktok.com/ZMF4nY9aM/ |
+| "New year" | "New year" | https://vm.tiktok.com/ZMF4ca4eA/ |
