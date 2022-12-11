@@ -1764,3 +1764,4 @@
 | "We are having a conversation" | "We are having a conversation" | https://vm.tiktok.com/ZMF4nY9aM/ |
 | "My G" | "My G" | https://vm.tiktok.com/ZMF4nY9aM/ |
 | "New year" | "New year" | https://vm.tiktok.com/ZMF4ca4eA/ |
+| "Private Equity" | "Private equity" | https://vm.tiktok.com/ZMFgTAuTT/ |
