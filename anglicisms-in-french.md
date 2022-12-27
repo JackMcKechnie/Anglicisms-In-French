@@ -1767,3 +1767,4 @@
 | "Private Equity" | "Private equity" | https://vm.tiktok.com/ZMFgTAuTT/ |
 | "Self-tailing" | "Self-tailing" (Sailing) | https://vm.tiktok.com/ZMFpPgsdM/ |
 | "Fair-play" | "Fair play" | https://photos.app.goo.gl/SYadZDNUJQdhZ1EGA |
+| "Jump" | "Jump" | https://vm.tiktok.com/ZMF77ktHP/ |
