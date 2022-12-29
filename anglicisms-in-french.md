@@ -1768,3 +1768,5 @@
 | "Self-tailing" | "Self-tailing" (Sailing) | https://vm.tiktok.com/ZMFpPgsdM/ |
 | "Fair-play" | "Fair play" | https://photos.app.goo.gl/SYadZDNUJQdhZ1EGA |
 | "Jump" | "Jump" | https://vm.tiktok.com/ZMF77ktHP/ |
+| "Obvious" | "Obvious" | https://vm.tiktok.com/ZMFvWKWsL/ |
+| "Kindle reader" | "Kindle reader" | https://vm.tiktok.com/ZMFvWoy16/ |
