@@ -1770,3 +1770,4 @@
 | "Jump" | "Jump" | https://vm.tiktok.com/ZMF77ktHP/ |
 | "Obvious" | "Obvious" | https://vm.tiktok.com/ZMFvWKWsL/ |
 | "Kindle reader" | "Kindle reader" | https://vm.tiktok.com/ZMFvWoy16/ |
+| "And so what" | "And so what" | https://vm.tiktok.com/ZMFvWGo2s/ |
