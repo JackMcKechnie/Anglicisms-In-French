@@ -1773,3 +1773,5 @@
 | "And so what" | "And so what" | https://vm.tiktok.com/ZMFvWGo2s/ |
 | Clean sheet" | "Clean sheet" (Football) | https://vm.tiktok.com/ZMF3daxQn/ |
 | "Sex work is work" | "Sex work is work" | https://photos.app.goo.gl/t1S4ybE2vPVXJXba7 |
+| "Open house" | "Open house" | https://vm.tiktok.com/ZMF3EqfmD/ |
+| "Varsity jacket" | "Varsity jacket" | https://vm.tiktok.com/ZMFTJxb2V/ |
