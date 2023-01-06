@@ -1776,3 +1776,4 @@
 | "Open house" | "Open house" | https://vm.tiktok.com/ZMF3EqfmD/ |
 | "Varsity jacket" | "Varsity jacket" | https://vm.tiktok.com/ZMFTJxb2V/ |
 | "Night shift" | "Night shift" | https://vm.tiktok.com/ZMFwpfwpk/ |
+| "Sex machine" | "Sex machine" | https://vm.tiktok.com/ZMFwsCXpy/ |
