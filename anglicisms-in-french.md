@@ -1775,3 +1775,4 @@
 | "Sex work is work" | "Sex work is work" | https://photos.app.goo.gl/t1S4ybE2vPVXJXba7 |
 | "Open house" | "Open house" | https://vm.tiktok.com/ZMF3EqfmD/ |
 | "Varsity jacket" | "Varsity jacket" | https://vm.tiktok.com/ZMFTJxb2V/ |
+| "Night shift" | "Night shift" | https://vm.tiktok.com/ZMFwpfwpk/ |
