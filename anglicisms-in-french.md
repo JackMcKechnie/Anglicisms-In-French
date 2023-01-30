@@ -1780,3 +1780,4 @@
 | "Host kids" | "Host kids" (Au pair) | https://vm.tiktok.com/ZMFKP5ccy/ |
 | "Out of the system" | "Out of the system" | https://vm.tiktok.com/ZMY1CMFdj/ |
 | "Fear food" | "Fear food" | https://vm.tiktok.com/ZMYRBPet6/ |
+| "Clean girl aesthetic" | "Clean girl aesthetic" | https://vm.tiktok.com/ZMYNPpKUj/ |
