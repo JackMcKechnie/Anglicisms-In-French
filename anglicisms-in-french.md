@@ -1781,3 +1781,4 @@
 | "Out of the system" | "Out of the system" | https://vm.tiktok.com/ZMY1CMFdj/ |
 | "Fear food" | "Fear food" | https://vm.tiktok.com/ZMYRBPet6/ |
 | "Clean girl aesthetic" | "Clean girl aesthetic" | https://vm.tiktok.com/ZMYNPpKUj/ |
+| "Chronically online" | "Chronically online" | https://twitter.com/grisroseorange/status/1620368481580625920?t=ld6GFHHpWp2z4FYsJdex7g&s=19 |
