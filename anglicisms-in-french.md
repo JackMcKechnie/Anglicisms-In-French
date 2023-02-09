@@ -1782,3 +1782,4 @@
 | "Fear food" | "Fear food" | https://vm.tiktok.com/ZMYRBPet6/ |
 | "Clean girl aesthetic" | "Clean girl aesthetic" | https://vm.tiktok.com/ZMYNPpKUj/ |
 | "Chronically online" | "Chronically online" | https://twitter.com/grisroseorange/status/1620368481580625920?t=ld6GFHHpWp2z4FYsJdex7g&s=19 |
+| "We never know" | "We never know" | https://vm.tiktok.com/ZMY65Hqfb/ |
