@@ -1787,3 +1787,4 @@
 | "Problem solving" | "Problem solving" | https://vm.tiktok.com/ZMY5xsFaP/ |
 | "Drafting" | "Drafting" | https://youtu.be/qJLHmvaEFLQ?t=118 01:58 |
 | "On edge" | "On edge" | https://youtu.be/gPybou_mNOY?t=99 01:39 |
+| "Adulting" | "Adulting" | https://vm.tiktok.com/ZGJ7TqKps/ |
