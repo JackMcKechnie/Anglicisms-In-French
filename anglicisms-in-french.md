@@ -1789,3 +1789,4 @@
 | "On edge" | "On edge" | https://youtu.be/gPybou_mNOY?t=99 01:39 |
 | "Adulting" | "Adulting" | https://vm.tiktok.com/ZGJ7TqKps/ |
 | "Cold case" | "Cold case" | HPI S2E3 21:38 |
+| "Smashed potatoes" | "Smashed potatoes" | https://vm.tiktok.com/ZGJcRfuth/ |
