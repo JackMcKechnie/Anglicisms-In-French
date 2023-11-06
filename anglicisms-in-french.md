@@ -1792,3 +1792,4 @@
 | "Smashed potatoes" | "Smashed potatoes" | https://vm.tiktok.com/ZGJcRfuth/ |
 | "Girl dinner" | "Girl dinner" | https://vm.tiktok.com/ZGJcfYQPo/ |
 | "Reset" | "Reset" | https://youtu.be/VqHhiCh4sXg?t=21 00:21 |
+| "Batch cooking" | "Batch cooking" | https://vm.tiktok.com/ZGJoMPsTm/ |
