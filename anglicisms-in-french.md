@@ -1795,3 +1795,4 @@
 | "Batch cooking" | "Batch cooking" | https://vm.tiktok.com/ZGJoMPsTm/ |
 | "Bolox" | "Bollocks" | https://open.spotify.com/track/1fwemfNyF7z9X8bg3hKtsN?si=e9fa24c24da04c49 01:50 |
 | "Pinky promised" | "Pinky promised" | https://vm.tiktok.com/ZGe1ovT3V/ |
+| "French dream" | "French dream" | https://vm.tiktok.com/ZGeJhDjbV/ |
