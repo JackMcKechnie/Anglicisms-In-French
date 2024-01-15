@@ -1797,3 +1797,4 @@
 | "Pinky promised" | "Pinky promised" | https://vm.tiktok.com/ZGe1ovT3V/ |
 | "French dream" | "French dream" | https://vm.tiktok.com/ZGeJhDjbV/ |
 | "Bouncy" | "Bouncy" | https://vm.tiktok.com/ZGedTTvyc/ |
+| "Blue Monday" | "Blue Monday" | https://vm.tiktok.com/ZGe6umgfH/ |
