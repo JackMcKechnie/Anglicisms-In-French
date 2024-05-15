@@ -1799,3 +1799,4 @@
 | "Bouncy" | "Bouncy" | https://vm.tiktok.com/ZGedTTvyc/ |
 | "Blue Monday" | "Blue Monday" | https://vm.tiktok.com/ZGe6umgfH/ |
 | "Greek nose" | "Greek nose" | https://vm.tiktok.com/ZGem8odkG/ |
+| "Bed rotting" | "Bed rotting" | https://youtu.be/H_DqTzlJD0Q 00:40 |
