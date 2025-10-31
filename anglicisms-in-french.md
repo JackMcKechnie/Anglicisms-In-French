@@ -1804,3 +1804,4 @@
 | Fact checking | Fact checking | https://vm.tiktok.com/ZNdD74f2R/ |
 | Trench coat | Trench coat | https://vm.tiktok.com/ZNdqqY3BM/ |
 | "Sweet spot" | "Sweet spot" | https://vm.tiktok.com/ZNdguqF84/ |
+| "Dry firer" | "To dry fire" | https://photos.app.goo.gl/p8xkBnLCawpLW9ZM6 |
